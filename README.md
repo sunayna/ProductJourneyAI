@@ -2,19 +2,14 @@
 
 An AI-powered educational platform that generates learning modules about everyday products — where they come from, how they're made, what they cost, and their impact on the world.
 
-# Agents at play 
 
-├── Research Agent
-├── Knowledge Store
-├── Supply Chain Agent
-├── Economics Agent
-├── Geography Agent
-├── Sustainability Agent
-├── Curriculum Agent
-├── Worksheet Agent
-└── Publisher
+## How it works
 
----
+| Step | Agent | What it does |
+|---|---|---|
+| 1 | Research Agent | Searches the web and builds India-specific product knowledge |
+| 2 | Curriculum Agent | Rewrites research into a readable student article |
+| 3 | Publisher | Generates a clean PDF learning module |
 
 ## Vision
 
