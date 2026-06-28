@@ -1,16 +1,15 @@
 import json
 import time
 from pathlib import Path
-from researcher import research_product
-from extractor import extract_and_validate
+from researcher import research_product, extract_and_validate
 
 PRODUCTS = [
-  #  "Milk",
+    "Milk",
     "Rice",
     "T-shirt",
-  #  "Notebook",
+    "Notebook",
     "Cricket bat",
-    "Steel plate",
+    "Bicycle",
 ]
 
 OUTPUT_DIR = Path("data")
@@ -29,7 +28,6 @@ def run():
             raw = research_product(product)
             knowledge = extract_and_validate(raw, product)
 
-            # Save to data/<product_slug>.json
             slug = product.lower().replace(" ", "_")
             output_path = OUTPUT_DIR / f"{slug}.json"
             output_path.write_text(
@@ -37,17 +35,16 @@ def run():
                 encoding="utf-8"
             )
 
-            print(f"  Saved → {output_path}")
+            print(f"  Saved -> {output_path}")
             results["success"].append(product)
 
         except Exception as e:
             print(f"  FAILED: {e}")
             results["failed"].append({"product": product, "error": str(e)})
 
-        # Be polite to the API between calls
         time.sleep(2)
 
-    print(f"\n\nDone. {len(results['success'])} succeeded, {len(results['failed'])} failed.")
+    print(f"\nDone. {len(results['success'])} succeeded, {len(results['failed'])} failed.")
     if results["failed"]:
         print("Failed:", [r["product"] for r in results["failed"]])
 

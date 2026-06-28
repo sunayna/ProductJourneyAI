@@ -2,6 +2,18 @@
 
 An AI-powered educational platform that generates learning modules about everyday products — where they come from, how they're made, what they cost, and their impact on the world.
 
+# Agents at play 
+
+├── Research Agent
+├── Knowledge Store
+├── Supply Chain Agent
+├── Economics Agent
+├── Geography Agent
+├── Sustainability Agent
+├── Curriculum Agent
+├── Worksheet Agent
+└── Publisher
+
 ---
 
 ## Vision

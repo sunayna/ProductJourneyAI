@@ -1,59 +1,114 @@
 import anthropic
 import json
+import re
+from pathlib import Path
+from models import ProductKnowledge
 
-client = anthropic.Anthropic()  # reads ANTHROPIC_API_KEY from env
+client = anthropic.Anthropic()
 
-SYSTEM_PROMPT = """You are a product supply chain researcher.
-When given a product name, you will:
-1. Use web search to find current, accurate information
-2. Return ONLY a valid JSON object — no markdown, no explanation, just raw JSON
+SYSTEM_PROMPT = """You are a specialist researcher for an Indian middle school
+educational platform called Product Journey AI.
+
+Your job is to research everyday products from an INDIA-SPECIFIC perspective —
+the Indian supply chain, Indian brands, Indian geography, Indian prices in rupees,
+Indian government policy, and Indian workers at every stage.
+
+When given a product name, search the web thoroughly and return a detailed JSON
+research object. The research must have the following qualities:
+
+DEPTH REQUIREMENTS:
+- Name specific Indian states, districts, and towns where the product is made
+- Name real Indian brands, cooperatives, and companies involved
+- Name real people where historically significant (founders, pioneers)
+- Name the specific job roles of workers at every stage of the supply chain
+- Give specific numbers with units (litres per day, kg per hour, bar pressure,
+  megawatts of power) — not vague descriptions
+- Give prices in Indian Rupees at every stage — farm gate, processing,
+  wholesale, retail — with brand names and specific shop types
+- Include GST rates that apply to this product and any exemptions
+- Explain the cost build-up from raw material to retail price step by step
+- Include government schemes, policies, or bodies relevant to this product in India
+- Mention cooperatives, SHGs, or farmer collectives where relevant
+- Include at least 3 real retail price examples with brand, pack size, price,
+  location, and date (current 2025-26 prices)
+
+WRITING STYLE:
+- Write description fields as flowing, readable prose — not bullet points
+- Use specific, vivid details that bring the supply chain to life
+- A student reading this should be able to picture the actual journey
+
+Return ONLY a valid JSON object. No markdown, no explanation, just raw JSON.
 
 The JSON must follow this exact structure:
 {
   "product": "string",
   "overview": {
-    "name": "string",
+    "name": "string — specific Indian product name",
     "category": "food|textile|electronics|personal_care|household|sport|industrial",
-    "description": "string",
-    "origin_country": "string",
-    "year_invented": null or integer,
-    "fun_fact": "string or null"
+    "description": "string — 3-4 sentences, India-specific context",
+    "origin_in_india": "string — which states/regions are the heartland for this product",
+    "key_organisations": ["string — named Indian brands, cooperatives, government bodies"],
+    "historical_note": "string — one significant fact about this product history in India"
   },
   "raw_materials": [
     {
       "name": "string",
-      "source_region": "string",
+      "source_region": "string — specific Indian states or districts",
       "percentage_share": null or float,
-      "notes": "string or null"
+      "cost_per_unit": "string — e.g. Rs 20-30 per kg",
+      "notes": "string — specific detail about this input in the Indian context"
     }
   ],
-  "manufacturing": [
+  "supply_chain": [
     {
-      "step_number": integer,
-      "title": "string",
-      "description": "string",
-      "energy_intensity": "low|medium|high or null",
-      "by_products": ["string"] or null
+      "stage": "string — e.g. Farm, Village Collection Centre, Processing Plant",
+      "location": "string — specific Indian states or cities",
+      "workers_involved": ["string — job titles of people working at this stage"],
+      "description": "string — vivid prose description of what happens at this stage",
+      "key_equipment": ["string — specific machines or tools used"],
+      "cost_added_inr": "string — e.g. Rs 1-2 per litre added at this stage"
     }
   ],
   "geography": {
-    "producing_countries": ["string"],
-    "major_trade_routes": ["string"] or null,
-    "consuming_countries": ["string"] or null
+    "producing_states": ["string — Indian states with brief reason why"],
+    "major_clusters": ["string — specific towns or districts known for this product"],
+    "trade_routes": ["string — how product moves within India"]
   },
   "economics": {
-    "farm_gate_pct": null or float,
-    "processing_pct": null or float,
-    "transport_pct": null or float,
-    "retail_pct": null or float,
-    "avg_retail_price_usd": null or float,
-    "market_size_usd_bn": null or float
+    "farm_gate_price_inr": "string — e.g. Rs 25-32 per litre",
+    "retail_price_inr": "string — e.g. Rs 64-68 per litre",
+    "cost_breakdown": [
+      {
+        "stage": "string",
+        "cost_inr": "string",
+        "percentage_of_retail": null or float
+      }
+    ],
+    "gst_rate": "string — e.g. 0% (exempt) or 5% or 12% or 18%",
+    "gst_notes": "string — any nuances, exemptions, or different rates for variants",
+    "market_size_india": "string — e.g. Rs X lakh crore or $X billion"
   },
+  "retail_prices": [
+    {
+      "brand": "string",
+      "product_name": "string",
+      "pack_size": "string",
+      "price_inr": float,
+      "retailer": "string — kirana, BigBasket, DMart, etc.",
+      "location": "string — city",
+      "date": "string — month and year"
+    }
+  ],
   "sustainability": {
-    "carbon_kg_per_unit": null or float,
-    "water_liters_per_unit": null or float,
-    "certifications": ["string"] or null,
-    "key_concerns": ["string"] or null
+    "carbon_footprint": "string — with Indian context where possible",
+    "water_usage": "string — specific to Indian production methods",
+    "key_concerns": ["string — India-specific environmental or social issues"],
+    "certifications_schemes": ["string — Indian schemes like FSSAI, Agmark, BIS, etc."]
+  },
+  "government_policy": {
+    "key_schemes": ["string — government schemes supporting this sector"],
+    "regulatory_body": "string — which ministry or body oversees this",
+    "import_export_policy": "string — brief note on India trade position"
   },
   "sources": [
     {
@@ -67,6 +122,7 @@ The JSON must follow this exact structure:
 
 
 def research_product(product_name: str) -> str:
+    """Call Claude with web search and return the raw response string."""
     print(f"  Researching: {product_name}...")
 
     response = client.messages.create(
@@ -77,23 +133,61 @@ def research_product(product_name: str) -> str:
         messages=[{
             "role": "user",
             "content": (
-                f"Research the everyday product: '{product_name}'. "
-                "Search for its raw materials, supply chain, manufacturing process, "
-                "geography, economics, and sustainability data. "
-                "Return only the JSON object. No markdown, no explanation, no code fences."
+                f"Research the everyday product: '{product_name}' "
+                f"from an India-specific perspective. "
+                f"Search for the Indian supply chain, Indian brands and cooperatives, "
+                f"state-wise production, worker roles at each stage, real rupee prices "
+                f"from Indian shops (2025-26), GST rates, government schemes, and "
+                f"sustainability concerns specific to India. "
+                f"Return only the JSON object with no markdown or explanation."
             )
         }]
     )
-
-    # Debug — print every content block so you can see what came back
-    print(f"\n  DEBUG — {len(response.content)} content blocks:")
-    for i, block in enumerate(response.content):
-        print(f"    block[{i}] type={block.type}")
-        if block.type == "text":
-            print(f"    text preview: {block.text[:200]}")
 
     for block in reversed(response.content):
         if block.type == "text":
             return block.text.strip()
 
-    raise ValueError(f"No text response returned for {product_name}")
+    raise ValueError(f"No text response returned for '{product_name}'")
+
+
+def extract_and_validate(raw_response: str, product_name: str) -> ProductKnowledge:
+    """Clean, parse, and validate Claude's JSON response."""
+
+    if not raw_response or not raw_response.strip():
+        raise ValueError(f"Empty response for '{product_name}'")
+
+    cleaned = raw_response.strip()
+    cleaned = re.sub(r"^```(?:json)?\s*\n?", "", cleaned)
+    cleaned = re.sub(r"\n?```\s*$", "", cleaned).strip()
+
+    json_start = cleaned.find("{")
+    json_end = cleaned.rfind("}")
+
+    if json_start == -1:
+        raise ValueError(
+            f"No JSON found for '{product_name}'.\n"
+            f"Response preview:\n{raw_response[:300]}"
+        )
+    if json_end == -1 or json_end < json_start:
+        raise ValueError(
+            f"JSON appears truncated for '{product_name}' — try increasing max_tokens.\n"
+            f"Last 200 chars:\n{raw_response[-200:]}"
+        )
+
+    cleaned = cleaned[json_start:json_end + 1]
+
+    try:
+        data = json.loads(cleaned)
+    except json.JSONDecodeError as e:
+        raise ValueError(
+            f"JSON parse error for '{product_name}': {e}\n"
+            f"Near error:\n{cleaned[max(0, e.pos - 100):e.pos + 100]}"
+        )
+
+    try:
+        model = ProductKnowledge.model_validate(data)
+    except Exception as e:
+        raise ValueError(f"Pydantic validation error for '{product_name}': {e}")
+
+    return model
