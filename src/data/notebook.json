@@ -1,0 +1,286 @@
+{
+  "product": "Notebook (Paper)",
+  "overview": {
+    "name": "Paper Notebook",
+    "category": "household",
+    "description": "A bound collection of paper sheets used for writing, note-taking, journaling, and drawing. Available in various formats including spiral-bound, hardcover, and softcover, notebooks serve students, professionals, and creatives worldwide.",
+    "origin_country": "China",
+    "year_invented": 1888,
+    "fun_fact": "Over 2.4 billion paper notebooks were sold globally in 2023, despite widespread adoption of digital devices — proving the humble notebook remains an enduring everyday essential."
+  },
+  "raw_materials": [
+    {
+      "name": "Wood Pulp (Virgin Cellulose Fiber)",
+      "source_region": "Scandinavia (Finland, Sweden), Brazil, Indonesia, Russia",
+      "percentage_share": 55.0,
+      "notes": "Approximately 2.2 kg of wood is needed to produce 1 kg of paper from virgin fibers. Major sourcing from boreal forests and tropical plantations."
+    },
+    {
+      "name": "Recycled Paper Fiber",
+      "source_region": "Global (post-consumer waste streams)",
+      "percentage_share": 25.0,
+      "notes": "Around 40% of global notebooks used recycled paper content in 2023, with share expected to rise to ~50% by 2025 driven by regulation and consumer demand."
+    },
+    {
+      "name": "Cardboard / Paperboard (Cover)",
+      "source_region": "China, Europe, North America",
+      "percentage_share": 8.0,
+      "notes": "Used for softcover and hardcover notebook covers. Increasingly sourced as FSC-certified or recycled board."
+    },
+    {
+      "name": "Metal Wire / Steel Spiral (Binding)",
+      "source_region": "China, India, South Korea",
+      "percentage_share": 4.0,
+      "notes": "Used in spiral- and Wire-O-bound notebooks, which account for over 60% of global notebook sales by volume."
+    },
+    {
+      "name": "Adhesive Glue (PVA / Hot Melt)",
+      "source_region": "China, Germany, United States",
+      "percentage_share": 3.0,
+      "notes": "Used in perfect-bound and case-bound notebooks. Eco-conscious manufacturers substitute with water-based or non-toxic adhesives."
+    },
+    {
+      "name": "Printing Ink (Petroleum-based or Soy/Water-based)",
+      "source_region": "China, United States, Germany",
+      "percentage_share": 3.0,
+      "notes": "Used to print ruling lines, covers, and branding. Soy-based and water-based inks are preferred eco-alternatives to petroleum-based inks."
+    },
+    {
+      "name": "Processing Chemicals (Bleaching Agents, Sizing)",
+      "source_region": "Global",
+      "percentage_share": 2.0,
+      "notes": "Chlorine-free (TCF) and elemental-chlorine-free (ECF) bleaching are increasingly adopted to reduce dioxin discharge into waterways."
+    }
+  ],
+  "manufacturing": [
+    {
+      "step_number": 1,
+      "title": "Raw Material Preparation",
+      "description": "Logs are debarked and mechanically chipped into small fragments. Chips are screened to remove fines and oversized pieces before being fed into the pulping process. Wood species selection (e.g., eucalyptus, pine, spruce) affects final paper quality.",
+      "energy_intensity": "high",
+      "by_products": [
+        "Bark biomass fuel",
+        "Wood chips fines",
+        "Sawdust"
+      ]
+    },
+    {
+      "step_number": 2,
+      "title": "Pulping & Bleaching",
+      "description": "Wood chips are chemically or mechanically broken down into a soft cellulose slurry. The pulp is then bleached — ideally using chlorine-free methods (TCF/ECF) — to achieve the desired whiteness. This step consumes the most water and energy, with a ~99:1 ratio of water to wood pulp.",
+      "energy_intensity": "high",
+      "by_products": [
+        "Lignin (used for energy recovery)",
+        "Black liquor",
+        "Effluent wastewater"
+      ]
+    },
+    {
+      "step_number": 3,
+      "title": "Sheet Formation & Calendering",
+      "description": "Bleached pulp is diluted and spread in thin layers onto a moving wire mesh, where water drains away and the fibers bond. The wet sheet is pressed and dried. Calendering rolls then smooth and compress the paper to the required thickness (typically 52–100 g/m² for notebooks).",
+      "energy_intensity": "high",
+      "by_products": [
+        "Steam condensate",
+        "Paper trim waste"
+      ]
+    },
+    {
+      "step_number": 4,
+      "title": "Ruling & Printing",
+      "description": "Large rolls of paper (parent rolls) are fed through roller-based printing presses that apply ink to create ruled lines, grids, or dot patterns. Cover materials are also printed with branding, designs, and logos using screen, digital, or offset printing. Ink is dried to prevent smudging.",
+      "energy_intensity": "medium",
+      "by_products": [
+        "Ink waste",
+        "Volatile organic compounds (VOCs) from solvent inks"
+      ]
+    },
+    {
+      "step_number": 5,
+      "title": "Cutting & Collating",
+      "description": "Printed paper rolls are cut to the required notebook size (e.g., A4, A5, B5) using precision guillotine or rotary cutting machines. Individual sheets are collated into page bundles of the correct count for each notebook SKU.",
+      "energy_intensity": "low",
+      "by_products": [
+        "Paper trim offcuts (recycled)"
+      ]
+    },
+    {
+      "step_number": 6,
+      "title": "Binding",
+      "description": "Page bundles are bound using one of three primary methods: (1) Spiral/Wire-O — metal coils threaded through punched holes; (2) Perfect/Glue binding — pages glued at the spine using PVA or hot-melt adhesive; (3) Sewn/Thread binding — signatures stitched together for premium durability.",
+      "energy_intensity": "medium",
+      "by_products": [
+        "Metal wire offcuts",
+        "Adhesive waste"
+      ]
+    },
+    {
+      "step_number": 7,
+      "title": "Cover Attachment & Finishing",
+      "description": "Covers made from cardboard, leatherette, or plastic are attached to the bound page block. Finishing operations include corner rounding, foil stamping, embossing, lamination, and elastic band or ribbon attachment for premium products.",
+      "energy_intensity": "low",
+      "by_products": [
+        "Laminate film waste",
+        "Cardboard offcuts"
+      ]
+    },
+    {
+      "step_number": 8,
+      "title": "Quality Inspection",
+      "description": "Finished notebooks undergo quality checks for ink adhesion, paper thickness, binding strength, cover alignment, and page count accuracy. Defective units are rejected and materials recovered where possible.",
+      "energy_intensity": "low",
+      "by_products": [
+        "Rejected notebooks (reprocessed or recycled)"
+      ]
+    },
+    {
+      "step_number": 9,
+      "title": "Packaging & Distribution",
+      "description": "Approved notebooks are wrapped in protective film, stacked into cartons, labeled with barcodes, and palletized for shipping. Products are distributed to wholesalers, retailers, and online marketplaces globally.",
+      "energy_intensity": "low",
+      "by_products": [
+        "Stretch wrap plastic",
+        "Cardboard carton waste"
+      ]
+    }
+  ],
+  "geography": {
+    "producing_countries": [
+      "China",
+      "India",
+      "Brazil",
+      "Germany",
+      "United States",
+      "Vietnam",
+      "Indonesia",
+      "South Korea",
+      "Japan"
+    ],
+    "major_trade_routes": [
+      "China → North America (Trans-Pacific)",
+      "China → Europe (Trans-Pacific / Suez Canal)",
+      "India → Middle East & Africa",
+      "Brazil → Latin America",
+      "Scandinavia (pulp) → European paper mills",
+      "Indonesia / Brazil (pulp) → Global converting mills"
+    ],
+    "consuming_countries": [
+      "China",
+      "United States",
+      "India",
+      "Brazil",
+      "Germany",
+      "Japan",
+      "United Kingdom",
+      "France",
+      "Nigeria",
+      "South Africa"
+    ]
+  },
+  "economics": {
+    "farm_gate_pct": 18.0,
+    "processing_pct": 42.0,
+    "transport_pct": 10.0,
+    "retail_pct": 30.0,
+    "avg_retail_price_usd": 4.5,
+    "market_size_usd_bn": 76.28
+  },
+  "sustainability": {
+    "carbon_kg_per_unit": 1.0,
+    "water_liters_per_unit": 180.0,
+    "certifications": [
+      "FSC (Forest Stewardship Council)",
+      "PEFC (Programme for the Endorsement of Forest Certification)",
+      "ISO 14001 (Environmental Management)",
+      "EU Ecolabel",
+      "Blue Angel (Germany)",
+      "Cradle to Cradle",
+      "B Corp Certification",
+      "Oeko-Tex"
+    ],
+    "key_concerns": [
+      "Deforestation and loss of biodiversity from virgin wood pulp sourcing",
+      "High water consumption — producing 1 kg of paper requires at least 324 liters of water",
+      "Water pollution from chlorine bleaching releasing dioxins and toxins into waterways",
+      "Energy-intensive pulping and papermaking contributing ~1.0–1.5 kg CO2 per kg of paper",
+      "Plastic binding components (spiral wire, laminate covers) hinder full recyclability",
+      "Petroleum-based inks releasing volatile organic compounds (VOCs)",
+      "Short fiber lifespan — paper can only be recycled 5–7 times before fibers degrade",
+      "Supply chain carbon from long-distance transport of pulp and finished goods"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Paper Notebooks Market Growth Analysis - Size and Forecast 2025-2029",
+      "url": "https://www.technavio.com/report/paper-notebooks-market-industry-analysis",
+      "source_type": "industry",
+      "year": 2025
+    },
+    {
+      "title": "Paper Notebook Market Size, Share & 2030 Trends Report",
+      "url": "https://www.mordorintelligence.com/industry-reports/paper-notebook-market",
+      "source_type": "industry",
+      "year": 2025
+    },
+    {
+      "title": "Global Paper Notebooks Market Size, Share and Forecast 2034",
+      "url": "https://www.marketreportsworld.com/market-reports/paper-notebooks-market-14713502",
+      "source_type": "industry",
+      "year": 2024
+    },
+    {
+      "title": "How Notebooks Are Made: A Step-by-Step Guide to Notebook Manufacturing",
+      "url": "https://www.nobleresourceproducts.com/how-notebooks-are-made/",
+      "source_type": "industry",
+      "year": 2025
+    },
+    {
+      "title": "Paper Supply Chain: Understanding the Basics and Challenges",
+      "url": "https://shippingandcommodityacademy.com/blog/paper-supply-chain-understanding-the-basics-and-challenges/",
+      "source_type": "industry",
+      "year": 2024
+    },
+    {
+      "title": "Sustainable Supply Chain in Pulp and Paper — OSCM Forum",
+      "url": "https://journal.oscm-forum.org/journal/proceeding/download_paper/20201228143051_OSCM_2020_45_FULL_PAPER.pdf",
+      "source_type": "academic",
+      "year": 2020
+    },
+    {
+      "title": "Carbon Footprint of Paper vs Digital — Except Integrated Sustainability",
+      "url": "https://except.eco/knowledge/is-digital-more-environmentally-friendly-than-paper/",
+      "source_type": "ngo",
+      "year": 2022
+    },
+    {
+      "title": "Carbon Footprint of Office Paper — ResearchGate",
+      "url": "https://www.researchgate.net/figure/Carbon-footprint-of-office-paper_fig2_235712203",
+      "source_type": "academic",
+      "year": 2021
+    },
+    {
+      "title": "Paper Manufacturing — Different Raw Materials and Production Processes",
+      "url": "https://www.labelprint24.com/en/magazine/paper-manufacturing-different-raw-materials-and-production-processes-1091",
+      "source_type": "industry",
+      "year": 2023
+    },
+    {
+      "title": "Best Eco-Friendly Notebooks 2026 — Dingbats*",
+      "url": "https://www.dingbats-notebooks.com/blogs/the-dingbats-blog/best-eco-friendly-notebook-2026-dingbats",
+      "source_type": "industry",
+      "year": 2026
+    },
+    {
+      "title": "Water Footprint of Paper — Responsible Water Scientists",
+      "url": "https://responsiblewaterscientists.wordpress.com/2019/02/04/the-water-footprint-of-paper/",
+      "source_type": "ngo",
+      "year": 2019
+    },
+    {
+      "title": "The Real Carbon Impact of Paper Use — Milgro",
+      "url": "https://www.milgro.eu/en/blog/co2-impact-of-paper-use-three-strategies-to-reduce-it",
+      "source_type": "industry",
+      "year": 2024
+    }
+  ]
+}

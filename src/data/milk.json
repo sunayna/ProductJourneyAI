@@ -1,0 +1,240 @@
+{
+  "product": "Milk",
+  "overview": {
+    "name": "Cow's Milk (Whole Fresh Milk)",
+    "category": "food",
+    "description": "Milk is a nutrient-rich liquid food produced by the mammary glands of dairy cattle and other mammals. It is one of the most widely consumed beverages in the world, serving as a primary source of protein, fat, carbohydrates, calcium, and vitamins. It forms the foundation of the global dairy industry, yielding products such as cheese, butter, yogurt, and cream.",
+    "origin_country": "Global (domesticated cattle origins trace to the Fertile Crescent / Near East)",
+    "year_invented": null,
+    "fun_fact": "Global milk production has nearly tripled since 1961, reaching approximately 979 million metric tons in 2024, with India alone accounting for roughly 24% of world output."
+  },
+  "raw_materials": [
+    {
+      "name": "Raw Cow's Milk",
+      "source_region": "Global — India, USA, Pakistan, EU, Brazil, New Zealand",
+      "percentage_share": 88.0,
+      "notes": "Whole fresh cow's milk dominates, representing ~88% of global milk volume. Buffalo, goat, sheep, and camel milk account for the remainder."
+    },
+    {
+      "name": "Pasture Grass and Forage Crops",
+      "source_region": "All major dairy regions — North America, Europe, Oceania, South Asia",
+      "percentage_share": null,
+      "notes": "Primary natural feed for dairy cattle. Pasture is the dominant input in grass-based systems (e.g., New Zealand, Ireland)."
+    },
+    {
+      "name": "Supplementary Feed (Corn, Soy, Grain)",
+      "source_region": "USA, Brazil, Argentina, EU",
+      "percentage_share": null,
+      "notes": "Used in intensive dairy farming to supplement pasture. Feed crops involve fossil fuels, fertilizers, and transportation inputs."
+    },
+    {
+      "name": "Water",
+      "source_region": "Global",
+      "percentage_share": null,
+      "notes": "Approximately 628 liters of water are required to produce 1 liter of cow's milk, encompassing drinking water, cleaning, and feed crop irrigation."
+    },
+    {
+      "name": "Vitamins and Minerals (Supplements)",
+      "source_region": "Global (manufactured)",
+      "percentage_share": null,
+      "notes": "Added to feed or milk during processing for nutritional standardization. Includes calcium, Vitamin D, and Vitamin A."
+    }
+  ],
+  "manufacturing": [
+    {
+      "step_number": 1,
+      "title": "Dairy Farming and Milking",
+      "description": "Dairy cows are raised on farms using pasture grazing supplemented by feed crops. Modern farms use automated milking equipment and herd management software to maximize yield and quality. Cows are milked typically twice daily, and raw milk is stored in refrigerated tanks on-farm until collection.",
+      "energy_intensity": "medium",
+      "by_products": [
+        "Manure (used as fertilizer or biogas feedstock)",
+        "Slurry"
+      ]
+    },
+    {
+      "step_number": 2,
+      "title": "Raw Milk Collection and Transport",
+      "description": "Raw milk is collected by refrigerated or uninsulated bulk tankers and transported to processing plants, typically within 48 hours. Quality testing is conducted to ensure the milk meets regulatory standards for safety, fat content, and freshness before acceptance at the plant.",
+      "energy_intensity": "medium",
+      "by_products": null
+    },
+    {
+      "step_number": 3,
+      "title": "Standardization and Separation",
+      "description": "At the processing facility, raw milk is separated into skim and cream fractions using centrifugal separation. Cream is then added back to the skim portion to achieve the desired fat content (e.g., 3.3% milkfat for whole milk). This step ensures a consistent fat profile across batches.",
+      "energy_intensity": "medium",
+      "by_products": [
+        "Cream (for butter, whipped cream)",
+        "Skim milk"
+      ]
+    },
+    {
+      "step_number": 4,
+      "title": "Pasteurization",
+      "description": "Milk is heated to destroy harmful pathogens. High-Temperature Short-Time (HTST) pasteurization heats milk to 72°C (161°F) for at least 15 seconds, then rapidly cools it. Ultra-High Temperature (UHT) processing holds milk at 140°C (284°F) for 4 seconds to extend shelf life without refrigeration.",
+      "energy_intensity": "high",
+      "by_products": null
+    },
+    {
+      "step_number": 5,
+      "title": "Homogenization",
+      "description": "Following pasteurization, milk is forced at high pressure through narrow tubes to break down fat globules into smaller, uniformly sized droplets. This prevents cream from separating to the top of the container and produces a smooth, consistent texture and whiter appearance. This process uses no chemicals.",
+      "energy_intensity": "medium",
+      "by_products": null
+    },
+    {
+      "step_number": 6,
+      "title": "Fortification (Optional)",
+      "description": "Vitamins such as Vitamin D and Vitamin A are added to the milk during processing to meet nutritional standards and regulatory requirements. Reduced-fat and skim milk variants are typically fortified as fat-soluble vitamins are partially removed with the cream.",
+      "energy_intensity": "low",
+      "by_products": null
+    },
+    {
+      "step_number": 7,
+      "title": "Packaging and Cold Chain Distribution",
+      "description": "Processed milk is filled into cartons, plastic jugs, or glass bottles under sterile conditions. Products are stored in refrigerated warehouses and distributed via temperature-controlled trucks to retailers. UHT milk can be stored at ambient temperature in aseptic packaging. Cold chain management is critical given milk's perishable nature.",
+      "energy_intensity": "medium",
+      "by_products": [
+        "Packaging waste (plastic, cardboard, foil)"
+      ]
+    }
+  ],
+  "geography": {
+    "producing_countries": [
+      "India",
+      "United States",
+      "Pakistan",
+      "China",
+      "Brazil",
+      "European Union (Germany, France, Netherlands, Poland, Ireland)",
+      "Russia",
+      "New Zealand",
+      "Australia",
+      "Turkey"
+    ],
+    "major_trade_routes": [
+      "Europe to North Africa and Middle East (Mediterranean sea lanes)",
+      "New Zealand and Australia to East Asia (Pacific sea routes — Japan, China, South Korea)",
+      "USA to Mexico and Latin America",
+      "EU intra-regional trade (Germany, Netherlands, Belgium, France)",
+      "New Zealand to Southeast Asia and Middle East"
+    ],
+    "consuming_countries": [
+      "India",
+      "United States",
+      "Pakistan",
+      "China",
+      "Germany",
+      "France",
+      "Russia",
+      "Brazil",
+      "Mexico",
+      "Algeria"
+    ]
+  },
+  "economics": {
+    "farm_gate_pct": 49.0,
+    "processing_pct": 25.0,
+    "transport_pct": 8.0,
+    "retail_pct": 18.0,
+    "avg_retail_price_usd": 3.98,
+    "market_size_usd_bn": 917.0
+  },
+  "sustainability": {
+    "carbon_kg_per_unit": 3.2,
+    "water_liters_per_unit": 628.0,
+    "certifications": [
+      "USDA Organic",
+      "Certified Grass-Fed (AGA)",
+      "Regenerative Organic Certified (ROC)",
+      "Non-GMO Project Verified",
+      "Animal Welfare Approved",
+      "Fair Trade Certified",
+      "EU Organic"
+    ],
+    "key_concerns": [
+      "Enteric fermentation (methane emissions from cattle) is a major GHG source",
+      "Dairy industry produces approximately 4% of all anthropogenic greenhouse gas emissions (~1.2 billion tons CO₂ per year)",
+      "High water consumption — 628 liters per liter of milk produced",
+      "Deforestation for pastureland and feed crop expansion (corn, soy)",
+      "Manure management releases methane and nitrous oxide",
+      "Antibiotic use and resistance concerns in conventional dairy",
+      "Biodiversity loss from large-scale intensive farming",
+      "EU regulatory pressure via the European Green Deal on nitrogen emissions and animal welfare"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Global Milk Market Analysis and Forecast 2024–2035 — IndexBox",
+      "url": "https://www.indexbox.io/blog/milk-world-market-overview-2024-4/",
+      "source_type": "industry",
+      "year": 2024
+    },
+    {
+      "title": "Top 10 Milk Producing Countries in the World 2024 — DevelopmentAid / FAO Dairy Market Review",
+      "url": "https://www.developmentaid.org/news-stream/post/200444/top-10-milk-producing-countries-in-the-world",
+      "source_type": "government",
+      "year": 2025
+    },
+    {
+      "title": "Farmers Earn About Half of Retail Price for Whole Milk — USDA Economic Research Service",
+      "url": "https://www.ers.usda.gov/data-products/charts-of-note/112769",
+      "source_type": "government",
+      "year": 2024
+    },
+    {
+      "title": "Dairy Supply Chain Management: A Deep Dive into Logistics — Soft-Trace",
+      "url": "https://www.soft-trace.com/blogs/dairy-supply-chain-management-logistics/",
+      "source_type": "industry",
+      "year": 2024
+    },
+    {
+      "title": "Which (Plant) Milk Is the Most Sustainable? — Statista / Oxford University Study",
+      "url": "https://www.statista.com/chart/22659/cows-milk-plant-milk-sustainability/",
+      "source_type": "industry",
+      "year": 2023
+    },
+    {
+      "title": "Top Milk Exporting Countries 2024 — World's Top Exports",
+      "url": "https://www.worldstopexports.com/top-milk-exporting-countries/",
+      "source_type": "industry",
+      "year": 2024
+    },
+    {
+      "title": "Carbon Footprint of Dairy Milk — 8 Billion Trees",
+      "url": "https://8billiontrees.com/carbon-offsets-credits/carbon-ecological-footprint-calculators/carbon-footprint-of-milk/",
+      "source_type": "ngo",
+      "year": 2024
+    },
+    {
+      "title": "Homogenization of Milk: What It Is and How to Process — Ginhong",
+      "url": "https://ginhong.com/homogenization-of-milk-what-it-is-and-how-to-process/",
+      "source_type": "industry",
+      "year": 2022
+    },
+    {
+      "title": "Pasteurization and Homogenization — Medicine LibreTexts (Kansas State University)",
+      "url": "https://med.libretexts.org/Courses/Kansas_State_University/FNDH_313:_Science_of_Food/02:_Proteins/2.04:_Milk/2.4.01:_Pasteurization_and_Homogenization",
+      "source_type": "academic",
+      "year": 2025
+    },
+    {
+      "title": "Dairy Market Review: Overview of Global Market Developments in 2024 — FAO",
+      "url": "https://openknowledge.fao.org/items/dea8246a-7374-48a2-884d-5c9d6992faa6",
+      "source_type": "government",
+      "year": 2025
+    },
+    {
+      "title": "Transforming the Dairy Supply Chain — Tracex Technologies",
+      "url": "https://tracextech.com/dairy-supply-chain/",
+      "source_type": "industry",
+      "year": 2025
+    },
+    {
+      "title": "The Environmental Cost of Dairy and Plant-Based Milks — Climate Adaptation Platform",
+      "url": "https://climateadaptationplatform.com/the-environmental-cost-of-dairy-and-plant-based-milks/",
+      "source_type": "ngo",
+      "year": 2025
+    }
+  ]
+}
