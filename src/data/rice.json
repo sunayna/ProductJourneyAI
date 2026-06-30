@@ -1,0 +1,518 @@
+{
+  "product": "Rice",
+  "overview": {
+    "name": "Rice",
+    "category": "food",
+    "description": "Rice is India's most important staple food crop, feeding over half its population and deeply embedded in its culture and diet. India is the world's second-largest producer and the largest exporter of rice, contributing significantly to global supply. Cultivated across diverse agro-climatic zones, it is primarily a Kharif crop, though multiple crops are grown in hot and humid regions of eastern and southern India.",
+    "origin_in_india": "Gangetic Plains (Uttar Pradesh, Bihar, West Bengal, Jharkhand), Brahmaputra Valley (Assam), Coastal Plains (Andhra Pradesh, Telangana, Tamil Nadu, Odisha), and Punjab-Haryana region for Basmati.",
+    "key_organisations": [
+      "Food Corporation of India (FCI)",
+      "Agricultural and Processed Food Products Export Development Authority (APEDA)",
+      "KRBL Limited (India Gate Basmati Rice)",
+      "LT Foods (Daawat Basmati Rice)",
+      "Kohinoor Foods",
+      "Patanjali Foods (Ruchi Gold Rice)",
+      "Adani Wilmar (Fortune Rice)",
+      "Sahyadri Farmers Producer Company Ltd (Maharashtra)",
+      "MARKFED (Punjab State Cooperative Supply & Marketing Federation Ltd.)"
+    ],
+    "historical_note": "Rice cultivation in India dates back thousands of years, with evidence suggesting its presence in the Indus Valley Civilization. The Green Revolution in the mid-22nd century significantly boosted rice production through high-yielding varieties and improved farming techniques, transforming India into a major global producer."
+  },
+  "raw_materials": [
+    {
+      "name": "Paddy (un-hulled rice)",
+      "source_region": "Uttar Pradesh, West Bengal, Punjab, Telangana, Andhra Pradesh, Odisha, Bihar, Tamil Nadu, Chhattisgarh, Haryana.",
+      "percentage_share": null,
+      "cost_per_unit": "Rs 2,441 per quintal (common variety) - Rs 2,461 per quintal (A-grade variety) for Kharif Marketing Season 2026-27.",
+      "notes": "Paddy is the raw form of rice. Different varieties like Basmati, Sona Masuri, Kolam, and various short and medium-grain non-Basmati varieties are cultivated."
+    }
+  ],
+  "supply_chain": [
+    {
+      "stage": "Paddy Cultivation",
+      "location": "Across India, particularly in fertile plains and deltaic regions.",
+      "workers_involved": [
+        "Farmers (landowners, tenants)",
+        "Farm Labourers (ploughing, sowing, transplanting, weeding, fertilizing, irrigating, harvesting)",
+        "Tractor Operators",
+        "Irrigation Workers"
+      ],
+      "description": "Farmers prepare fields, sow seeds (either by broadcasting, transplanting seedlings from nurseries, or direct seeding), apply fertilizers and pesticides, and manage irrigation. Harvesting is done manually or using combine harvesters. Paddy is primarily a Kharif (monsoon) crop, but also grown in Rabi (winter) and Summer seasons in some states.",
+      "key_equipment": [
+        "Tractors",
+        "Ploughs",
+        "Seed drills",
+        "Paddy transplanters",
+        "Sprayers",
+        "Combine harvesters",
+        "Threshers",
+        "Irrigation pumps"
+      ],
+      "cost_added_inr": "Rs 16,000-28,000 per acre (for cultivation inputs like seeds, fertilizers, pesticides, labor, machinery, irrigation)."
+    },
+    {
+      "stage": "Paddy Procurement & Initial Storage",
+      "location": "Agricultural Produce Market Committee (APMC) mandis, government procurement centers (FCI), private warehouses in producing states.",
+      "workers_involved": [
+        "Farmers",
+        "Mandi Workers (loaders, weighers, cleaners)",
+        "Procurement Agents (government and private)",
+        "Warehouse Managers",
+        "Truck Drivers"
+      ],
+      "description": "Farmers bring harvested paddy to mandis or procurement centers. Government agencies like FCI procure paddy at Minimum Support Price (MSP) to ensure food security and farmer income. Private traders also purchase paddy directly from farmers or mandis. Paddy is then stored in warehouses or silos.",
+      "key_equipment": [
+        "Weighing scales",
+        "Moisture meters",
+        "Jute bags",
+        "Trucks",
+        "Godowns/Warehouses",
+        "Silos"
+      ],
+      "cost_added_inr": "Rs 50-150 per quintal (transportation from farm to mandi, loading/unloading, initial storage, commission)."
+    },
+    {
+      "stage": "Rice Milling",
+      "location": "Rice milling clusters in Punjab, Haryana, Uttar Pradesh, Andhra Pradesh, Telangana, West Bengal.",
+      "workers_involved": [
+        "Mill Operators",
+        "Quality Control Technicians",
+        "Machine Maintenance Staff",
+        "Sorters",
+        "Packers",
+        "Supervisors"
+      ],
+      "description": "Paddy undergoes a multi-step milling process: cleaning (removing impurities), de-husking (removing outer husk to get brown rice), separation (separating brown rice from un-hulled paddy), polishing/whitening (removing bran layers to get white rice), and grading/sorting (based on size, quality, and color). Parboiling may occur before milling for specific varieties.",
+      "key_equipment": [
+        "Paddy cleaner",
+        "De-stoner",
+        "Paddy husker",
+        "Paddy separator",
+        "Rice polisher/whitener",
+        "Rice grader",
+        "Color sorter",
+        "Aspirators",
+        "Packaging machines"
+      ],
+      "cost_added_inr": "Rs 150-300 per quintal (electricity, labor, machinery depreciation, maintenance, packaging material)."
+    },
+    {
+      "stage": "Wholesale & Distribution",
+      "location": "Major cities and distribution hubs across India.",
+      "workers_involved": [
+        "Wholesalers",
+        "Distributors",
+        "Logistics Managers",
+        "Warehouse Staff",
+        "Truck Drivers",
+        "Sales Representatives"
+      ],
+      "description": "Milled rice, both branded and unbranded, is transported from mills to wholesale markets and distribution centers. Wholesalers then sell in bulk to retailers, institutional buyers (hotels, restaurants), and smaller distributors. This stage involves extensive logistics and warehousing.",
+      "key_equipment": [
+        "Large trucks (10-20 ton capacity)",
+        "Warehouses",
+        "Forklifts",
+        "Pallet jacks"
+      ],
+      "cost_added_inr": "Rs 200-400 per quintal (transportation, warehousing, handling, wholesale margin)."
+    },
+    {
+      "stage": "Retail Sales",
+      "location": "Kirana stores, supermarkets (e.g., D-Mart, Reliance Fresh, Big Bazaar), online grocery platforms (e.g., BigBasket, Grofers) nationwide.",
+      "workers_involved": [
+        "Shopkeepers",
+        "Sales Assistants",
+        "Cashiers",
+        "Stockers",
+        "Delivery Personnel (for online platforms)"
+      ],
+      "description": "Rice is sold to end consumers in various pack sizes (1kg, 5kg, 10kg, 25kg, 50kg) and varieties. Both loose (unbranded) and pre-packaged (branded) rice are available.",
+      "key_equipment": [
+        "Shelving units",
+        "POS systems",
+        "Weighing scales (for loose rice)",
+        "Delivery vehicles (for online)"
+      ],
+      "cost_added_inr": "Rs 300-600 per quintal (retailer margin, store operational costs, marketing)."
+    }
+  ],
+  "geography": {
+    "producing_states": [
+      "Uttar Pradesh",
+      "Telangana",
+      "West Bengal",
+      "Punjab",
+      "Andhra Pradesh",
+      "Odisha",
+      "Bihar",
+      "Tamil Nadu",
+      "Chhattisgarh",
+      "Haryana"
+    ],
+    "major_clusters": [
+      "Gangetic Plains (Eastern UP, Bihar, West Bengal)",
+      "Godavari-Krishna Delta (Andhra Pradesh, Telangana)",
+      "Punjab-Haryana Plain (for Basmati rice)",
+      "Cauvery Delta (Tamil Nadu)",
+      "Brahmaputra Valley (Assam)"
+    ],
+    "trade_routes": [
+      "From Punjab/Haryana/UP to Delhi, Rajasthan, Gujarat, Maharashtra (Basmati and non-Basmati)",
+      "From West Bengal/Odisha/Bihar to Northeastern states and other consuming regions",
+      "From Andhra Pradesh/Telangana/Tamil Nadu to Southern states and parts of Maharashtra/Karnataka",
+      "Major export routes from Kandla, Mundra, Kakinada, Visakhapatnam, Chennai ports to Middle East, Africa, and Southeast Asia."
+    ]
+  },
+  "economics": {
+    "farm_gate_price_inr": "Rs 2,441 per quintal (common paddy) for Kharif 2026-27.",
+    "retail_price_inr": "Rs 35-70 per kg (common non-Basmati), Rs 80-200 per kg (Basmati).",
+    "cost_breakdown": [
+      {
+        "stage": "Paddy Cultivation (Farm Gate Value)",
+        "cost_inr": "Rs 24.41-24.61 per kg (based on MSP)",
+        "percentage_of_retail": 35.0
+      },
+      {
+        "stage": "Procurement & Initial Storage",
+        "cost_inr": "Rs 1.5-3.0 per kg",
+        "percentage_of_retail": 4.0
+      },
+      {
+        "stage": "Rice Milling & Processing",
+        "cost_inr": "Rs 3.0-6.0 per kg",
+        "percentage_of_retail": 8.0
+      },
+      {
+        "stage": "Wholesale & Distribution",
+        "cost_inr": "Rs 4.0-8.0 per kg",
+        "percentage_of_retail": 12.0
+      },
+      {
+        "stage": "Retailer Margin & GST",
+        "cost_inr": "Rs 5.0-15.0 per kg",
+        "percentage_of_retail": 20.0
+      },
+      {
+        "stage": "Other Costs (Packaging, Marketing, etc.)",
+        "cost_inr": "Rs 3.0-10.0 per kg",
+        "percentage_of_retail": 21.0
+      }
+    ],
+    "gst_rate": "0% for loose/unpackaged rice; 5% for pre-packaged and labelled rice.",
+    "gst_notes": "GST is not applicable on rice sold loose or without retail packaging. However, if rice is pre-packaged in fixed quantities and labelled as per the Legal Metrology Act (e.g., 1kg, 5kg, 10kg bags for retail sale), a 5% GST is levied. This applies to all varieties, including Basmati. Large bags (e.g., 50kg sacks) for B2B trading without retail declarations are generally exempt.",
+    "market_size_india": "USD 47.1 billion in 2025, projected to reach USD 49.32 billion in 2026 (approx. Rs 3.93 - 4.11 lakh crore, assuming 1 USD = 83.5 INR)."
+  },
+  "retail_prices": [
+    {
+      "brand": "India Gate Basmati Rice (Super)",
+      "product_name": "Basmati Rice",
+      "pack_size": "5 kg",
+      "price_inr": 850.0,
+      "retailer": "D-Mart",
+      "location": "Bengaluru, Karnataka",
+      "date": "June 2026"
+    },
+    {
+      "brand": "Daawat Rozana Gold Basmati Rice",
+      "product_name": "Basmati Rice",
+      "pack_size": "10 kg",
+      "price_inr": 1200.0,
+      "retailer": "Reliance Fresh",
+      "location": "Mumbai, Maharashtra",
+      "date": "June 2026"
+    },
+    {
+      "brand": "Loose Sona Masuri Rice",
+      "product_name": "Sona Masuri Rice",
+      "pack_size": "1 kg",
+      "price_inr": 55.0,
+      "retailer": "Local Kirana Store",
+      "location": "Hyderabad, Telangana",
+      "date": "June 2026"
+    }
+  ],
+  "sustainability": {
+    "carbon_footprint": "Rice cultivation contributes significantly to India's greenhouse gas emissions, primarily methane from flooded paddy fields (approx. 20-35% of India's methane emissions) and CO2 equivalent from widespread rice straw burning (97 million metric tonnes CO2e annually).",
+    "water_usage": "On average, 1500-2500 liters of water are required to produce 1 kg of paddy in India, with significant regional variations. Punjab and Haryana, with intensive irrigation, show higher water footprints (2270-2672 L/kg).",
+    "key_concerns": [
+      "High methane emissions from anaerobic decomposition in flooded fields.",
+      "Groundwater depletion due to excessive irrigation, especially in non-traditional rice-growing areas.",
+      "Air pollution and soil nutrient loss from rice straw burning.",
+      "Overuse of synthetic fertilizers and pesticides leading to soil degradation and water pollution.",
+      "Vulnerability to climate change (erratic monsoons, droughts, floods) impacting yields."
+    ],
+    "certifications_schemes": [
+      "System of Rice Intensification (SRI) for water and input efficiency.",
+      "Direct Seeding of Rice (DSR) to reduce water use and labor.",
+      "Organic farming certifications (e.g., NPOP - National Programme for Organic Production).",
+      "Climate-Resilient Rice Varieties (e.g., genome-edited varieties for drought/salinity tolerance)."
+    ]
+  },
+  "government_policy": {
+    "key_schemes": [
+      "Minimum Support Price (MSP) for paddy procurement by FCI.",
+      "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) for income support to farmers.",
+      "Pradhan Mantri Fasal Bima Yojana (PMFBY) for crop insurance.",
+      "Kisan Credit Card (KCC) for concessional crop loans.",
+      "Pradhan Mantri Krishi Sinchai Yojana (PMKSY) for irrigation subsidies.",
+      "National Food Security Act (NFSA) for subsidized rice distribution through Public Distribution System (PDS).",
+      "Mandatory Rice Fortification through PDS."
+    ],
+    "regulatory_body": "Food Corporation of India (FCI), Ministry of Agriculture & Farmers Welfare, Agricultural and Processed Food Products Export Development Authority (APEDA).",
+    "import_export_policy": "India is the world's largest rice exporter. Policies include export restrictions (e.g., ban on non-Basmati white rice, duties on parboiled rice) to ensure domestic availability and stabilize prices, and setting Minimum Export Prices (MEP). Basmati rice exports are generally encouraged."
+  },
+  "sources": [
+    {
+      "title": "Current time information in India.",
+      "url": "https://www.google.com/search?q=time+in+India",
+      "source_type": "news",
+      "year": null
+    },
+    {
+      "title": "SATHEE CUET: Most Rice Producing State in India",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzBw21lYrAXAfVm83Og1ZSo9FeAguxw7miOZqX3ZWCh5H7hWA0F6s3whpPFe9YM8VCaQIiEHYZV3j3ZDoeNN6YJG4ATuuk7-izohplKXSBfl8C3WUxu2w3KVKgyeQp7FGGnLEg_WJLZ7wCuEzGkYJU3kl1rPEQ1nTLuECYFA9EHZJLDr_5b59tqTWuOQL_u1RyFqyCeq_t4TfjxwhrD4bZRHOpzVtOg7_k6PDQGudZUZRKe_XxiC9J",
+      "source_type": "academic",
+      "year": null
+    },
+    {
+      "title": "Rice production in India - Wikipedia",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLaq88ovhcokmt5vBkQhkKCsqHkD3MzB_VzD7KnJe7PVC24qHt3g1ad9pbVX0fnVab7BAsBOs_kpN_4ZMuw4PdI0ELH6bF9gMCS5LTke1FrF7_vIlnT3-IybPuHbeB5QraNkkvVPB3FgKeZIxbsFNIvA==",
+      "source_type": "academic",
+      "year": null
+    },
+    {
+      "title": "Navigating Climate Transitions: The Path to Sustainable Indian Rice Production - Orbitas Finance",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFgyUDM3inPpXFc2O7tRm5jriTdHXIzmNqdxydkadMDAyqh_4yrMDX16YJhLiawIu30ScFqgvwO6nc_Urben-fc4D67ap1bFBA-F5XDbYvL_qO46FybIGku_v-ynBPtAl4HagRJqAnalMMGZRP8AoSKh4ojwcFh9iXaq7c5n10",
+      "source_type": "industry",
+      "year": 2025
+    },
+    {
+      "title": "Top Rice Producing States in India: Complete Guide 2025 - Amalfarm",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-RPm0I9yhX-S0ePwVbT6AiKSOIRhQbWIIrTwL8GFd8pSxjGTcXeY99ib7Qi8PKCII3CLNF50TbtiH4F75PK_pF75_rQURgdtI6g2INceaVaNJVno7EuD9coRY7Dwfasv4hfPVyGRAEHuxCdkhczhcCjiN",
+      "source_type": "industry",
+      "year": 2025
+    },
+    {
+      "title": "India Rice Market Research Report: Size, Share, Trends & Forecast (2026-2032)",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbt2tB8s4dM6h4BdD0spdUngKS8An9yPlZ3cIcJa4CMkx9-hSWnC9kzAdWaqHiTeka9vC-N9VVtzxvq7iWRhHVrDMDD6FfHDtLZ_7D4J8hrq020HiPjPRp1c5K_voBkzXeszIeKuhNSIHgaxF-5H6tD7Kjn5pX56fk82KrTOSOR0SJre7l0KYG0GB4=",
+      "source_type": "industry",
+      "year": 2026
+    },
+    {
+      "title": "Rice Production in India: Top 10 Highest Rice Producing States (State-Wise Data)",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH35U2elj2szQ4_daIff49dYqu4SNrQLtkOVnQ4w9qB2yRCL_GrldkJlikxMDgZdJ4wvw3y6UdiGOdKcmHwHRcXcDZYg9nHRBVSqdKar6K_AlGDpt5Nl-cl4uZvTsbMH8hALh_piAD6T725aLkJ6MYu2U26UmyUl7h5UBFUNYp5_DXJ",
+      "source_type": "news",
+      "year": 2026
+    },
+    {
+      "title": "Rice Farming in India: The Complete Guide to Cultivation, Cost & Profit (2026) - Agro Potli",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLWdKYGuMrQRJRLyTBRYuxWtUw6q2L3tbuA-kwFAw_Xfcx07NnHgVr5S7Cc8XMUNwNeJz1kFklZt6l45r8CsXCYotH2NGnu2F8tNGLuLya6_UhzNnsoEqhhTkdPQ_ai0AadnwBivZEUM4TJxVFg0Yn3b4ju7iLFOnT4eKvwnzL",
+      "source_type": "industry",
+      "year": 2026
+    },
+    {
+      "title": "Rice Mill Machinery Manufacturers",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFY5k_Qde_thGRi507yaOmQ6T-lu98yh8Ec32wVlA2D_MeFJht6eiM9-ZVZ9J0Bns1AKcA_bokncqjDFNA3tfGwsWz7DgyXeKhFnZOgLwYAARS-XwrsHFVr1hO6HcauDHMv96dWzOEA79gT1TDGTrZf-g==",
+      "source_type": "industry",
+      "year": null
+    },
+    {
+      "title": "Rice Industry in India - Market Size & Demand - Mordor Intelligence",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7NOI_aBPagmCUFvVCN3fxJussgXapkg0XQUNEISZrK-6XgqnIIHVMyMKq1PRuieAKQL-wo6vn-6Qjg2rNxAzQ6bbJhlQEqmhY5eZwTrL-GhLXjznyk7KYRmwuoos_e0SKdeROYGAsOwMhwzdxHYQRn6ZVmG6PGuc58GB1YQ6LHQ==",
+      "source_type": "industry",
+      "year": 2026
+    },
+    {
+      "title": "Indian Rice Production - IREF - India Rice Exporters Federation",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBUzUXtpHsJ6e0KNBz74oW4Du1JE4OMzQIxR6BDf4fQzAFUTtjnt-vgdbMWJgS4jFm5akJuXHb-ytSwit0cEOJeMr2tpMkrj5PRhSK0FY54AsnsFERc7etDqGX3DL1nsfzLMkZkoKu",
+      "source_type": "industry",
+      "year": null
+    },
+    {
+      "title": "Top 10 Largest Rice Producing States in India (2024) - Testbook",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqVeudI37cQ4otOvBFmEQROwwVCt9bmdv2CXvHtRFnDhnPVutbHTt48Jo07hMZnDVd6ZcTEU0KO596P6h8MN6mNqey8cXuf1WHdPReDXVDCCyvDPJf22OKq6BN0CXlHFV1qEbDNI-dQt0RXrFdODdbTUsw0IfCEN-MnV6uJnpyyD0xsnyc1DLoJ559mlnKyxapi1r9N8HNGVJYJMSPt9FkkggPH24965CmWwwa_jP6Z6k9L9HsMjJB5nogJ_tXlPzBJU1O5ny0-CPTJ0A=",
+      "source_type": "academic",
+      "year": 2024
+    },
+    {
+      "title": "Water footprint of rice from both production and consumption perspective assessment using remote sensing under subtropical India: A review",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHgAvcSs9tCF-C3g8-iyLihppToMHjV_lUqgQLKRoi3E53jZrFhiKRf3x4t7GlljKiF4qsvoKZ99WnD7zFFSJ1BrMq3rgeM66kCBEG_EIxfN5_nz7YwuZaNqyY3WQEJEVxgms5NhZHvQ0pfrYNkUGwHyywFJsWUj4h56rahL4zkXlV8J4OqzugRRzryL78-lc=",
+      "source_type": "academic",
+      "year": null
+    },
+    {
+      "title": "GST on Rice in India: Rates & Rules Explained - Motilal Oswal",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELruHE8_7A6BTnWsTBtLOk_9XU100ukVoe3xuq7HRbv7vbxLoCfbbjn4bR56PI73O812kyxmH_dJfRL8uLIOKOodX7KRyJ6NFazU4ZQduyU9pYvgjALhvOz-CPBoqZcN4NjdbNh7jEhBjtF6wehotPQbNfYm0NdG2gErZA_W5clCXEezKghlPfbwWGFINo3DbWltCQSL4CqQPrsA==",
+      "source_type": "industry",
+      "year": null
+    },
+    {
+      "title": "Top 10 Largest Rice Producing States in India 2026 with Map - MapsforUPSC",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrfgnn2T2bM7j7iMbL3mQiRtOGi6Z9hp7maI4EZPxT7NkWe6afV8rZMNVcTEqEEyZMAeJ7wK2esaL_Yf4xgRMX8PVNwwOvQXvzKsM3nqaaOiDy8Edy9akQNXNOG7ryxT-iAufOkXTVVtR-WIQR19eybFzNJAz_gq0LoA==",
+      "source_type": "academic",
+      "year": 2026
+    },
+    {
+      "title": "GST on Rice in India: Rates, Rules & Exemptions Explained - 5paisa",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2hyWYXTB7qA0pV8fq2tM-sBA_CT8boHBiph3H5sGDx1zWhIwUZmHMAjFsSKyy3g4ZJ9Go_fpB5X-tpsGhfhEUTB-DqhXGPqwnsn-5wccXrQOBU12rFp_0VswHYEu6MwuUww==",
+      "source_type": "industry",
+      "year": 2026
+    },
+    {
+      "title": "10 Largest Rice Producing States In India - Fazlani Exports",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEea3fcduiI6zqvUG9V-5QP3vykMz1HyMnviH1Byv0E0VF4rjrWDwY6Vsqp1BHcRtRiA-RMXcUGqCgPAHJ9snqM9BYgYUdFAwqjarQEvGN-BtEDxAReoBiTqYQFR84lUgKb_8CoDIKLxDhFYOYRvPjFlf8Vp3QS63es",
+      "source_type": "industry",
+      "year": 2017
+    },
+    {
+      "title": "Govt raises paddy MSP by ₹72 to ₹2441/quintal for 2026-27 Kharif season | Agriculture",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZouIcviLJCMuEAqqADQWpFXSsRVSXwCCpTZ-HJaRPnfHimLjzC7s5_EmP5b4e5K5yOPHxOU8pLdnv8fvKh_GY54LP7Vv7EPG3jYJNwTkiIlxeA-5f1vMbXPSy8Ytc4suPW8O0lWQkxI6wZRS9nyG_3A155_TbnKYAR20VyVTSoCp02RQB63jwlNi-OoZRvl7ih62gRZ6F1d7Kfc-Iw6OfeIKAwkJxuiHWTn5fAvL-aFzmhqg1A8o1DZr9h1zNq_UyN6Ne_bJNgEwhmA1F",
+      "source_type": "news",
+      "year": 2026
+    },
+    {
+      "title": "New GST for Rice 2026: 0% / 5% Rate on Branded Rice, Basmati - Busy",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEp0GYGeyWOEwkIPnHNR6epO8ljgpsutFSiVjNfCsgKv3EPw0mMyXm07jxXZZruwTSqH3caMdFApWsF6CODfvms3FTI9z1jYjaAwFggMeoEWzypvv86rCEGsGw=",
+      "source_type": "industry",
+      "year": 2026
+    },
+    {
+      "title": "Water Use in Rice Crop Cultivation in India: A Quantitative Assessment - OAR@ICRISAT",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPpxLYhad7MLixB-um0Hw3BLTjLaRbR3QUEwF4j_kmnnB6BIyV0rd-3iAsoKyUyFxJgTs8mlmp_qsBjA8tbA492_gudyROWUVomoQqJXpicbOu-mMcckJwYt13WfsrmCIO0pehtDYCQLL3MfzoRZtNxjtDsUK4m-kr6Ma9--RHNA==",
+      "source_type": "academic",
+      "year": 2009
+    },
+    {
+      "title": "GST on Rice in India: Impact on Industry, Traders, and Consumers - Bajaj Finserv",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAj1TKB2YY0jm42L2RhT6o5l6HsuWczwkxH0i7majYfuXS9IQbFvcuD4lhbB0CC8SJVbFGqKPcse7JNCtyhSX9Y9UBeHYUyCg1KPEa5HJ9QR0pcM9tsectGxdeBN12aAKqWw==",
+      "source_type": "industry",
+      "year": null
+    },
+    {
+      "title": "India Rice - Market Share Analysis, Industry Trends & Statistics, Growth Forecasts (2025",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8sQ389hcVmhWfbMI50u0MZIl5wPTY4qk_sNGmoYJJEYRBm82_xFy8cxtaYYz7UeqYADL_1VNTcJ5XTGa4vwClwpY5P3JOUKpfTonRL7TGCwi6Tz4M4FsDjg47V-JcKp3udtr-fE0azSqVadlRP_A13dmkFcYmIQ9z7z-vxGtKdG25vcanF0DtrZtu_gHtoS1lBAWgZwaPbY9viS2iYQ==",
+      "source_type": "industry",
+      "year": 2025
+    },
+    {
+      "title": "Centre announces rise in MSP for paddy by Rs 72 to Rs 2,441 per quintal for 2026-27",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnxx26EwJEuSabhIw1p7_vFtaBAuZR58Lxrd2LB8Ek2tBOW8xsCob8uBfIPpwkXSrLeoZxG3Dr-mBNz_Ob4ZnJwI5oWtHtYioSoMuAj_j-KMXgfndpoKBFNCESK6FM-uA0QsNcZtdvmJfczPYpV2JLhl3LWIwvp2GEMEYQVTUtqGeomwtAIehwfWssuDLhGSZmwWQJmaP_GwpFlDhQPb-dnPg==",
+      "source_type": "news",
+      "year": 2026
+    },
+    {
+      "title": "Cost of Cultivation Per Acre in India (Farming Cost Calculator + Crop-wise Breakdown)",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiU1banphBIhD5akbYuOOv0xEdhYvDk3_blodbTUgy4HOPGsPJ6KIgDQ2sh-iUbY9apX-lEPt8G2j8ymWzFG-A2e4Ns5d0ckrgEI-xPVpFPlnct7Kg2ZMzNnBj7K0GmvXsX5L8ZeWYqZjgbz8OxT6N7hr9vA==",
+      "source_type": "industry",
+      "year": null
+    },
+    {
+      "title": "Navigating GST on Domestic Rice Trading: Zero-Rating Compliance and E-Way Bill Generation Rules | Draba Ventures",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiVnLYWCeNGgyRJjmdhaCHqv5PfZ28OMSX34tsfTa9r6ogrfztuOgSAypfQTiiVRzN2WUE_obn-E2lu3BCn5sOa8zqig6VtJG8A0Nm1mYi_8MsJOFkTZ8inAa4RommKmj7p-vNYMeTNj6sNitDrWhb3-mMi-v-iBeRg0q3nRobfkD15gy5WyTZHtXCmbU=",
+      "source_type": "industry",
+      "year": 2026
+    },
+    {
+      "title": "India Rice Market Size & Outlook, 2026-2033",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzGO-jXvIVPVYOle44x8OOURqnlxDG3dcn5ndCP7brO1HAYRiypt-Y888zwZc8rXx0QUG6WWY_hahpUi8GMpqvh9zQaVHIKwJg6RNqflrL1b7D_44pTcgulmIKdwniTUrxENoj1fyh6IubuR1TjomRrUNIxQ5WDXp93R_nRhc=",
+      "source_type": "industry",
+      "year": 2026
+    },
+    {
+      "title": "Water Use in Rice Crop Cultivation in India: A Quantitative Assessment - OAR@ICRISAT",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZPw3Y-vTE4_suSg1kcP1Sc03AHoAD2srJyCXqGlIy-6cIfEdT3mTez2VdhPmadpWwr1CcAJng7NoFJGHb83YfGCIkd2JmRxxPwGqTc-TIIh-D64pejkS0EA==",
+      "source_type": "academic",
+      "year": 2026
+    },
+    {
+      "title": "Sustainable Rice Cultivation in India - CEEW",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1AUMhnamtdNViU6mE5EZy-I1wUwuo8ITc2vLe1XnfMi6CG8FRwhqlI12OGf21_CrnQcc1dXBD3FjAeIVuYk8aJsq2GrXQTufPjnc0CwltrcuAH5IWjLZH9U1ESY1L5m1lOTamZ9Su-bQChaXKauD3N596XfA1-4D3g_2Bvq-mQTM04kjEg5hZq-rQ7ltrjFaLayqNXqK-ZXeAySz7",
+      "source_type": "ngo",
+      "year": null
+    },
+    {
+      "title": "IFC India 2025: Decarbonizing Rice Paddy Farming - Pioneering Sustainability in Indian Agriculture - Blog - Harvard Business School",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVFvqKkI6e1dQPogSmEOKSM-OWAE6NgaBjRuFglaWx5Bv5s0M6qrBkpOaHKxVodaZIEh3hcpn-C_hb4XvQNkjrWCbaSU200e630mzII-Fe8HA7puxhv8dOvwQFG3VPDhOFvcLb9GygYQ4RZT7FH1xzfTYaM0ah6qC6U6b5Ptkl",
+      "source_type": "academic",
+      "year": 2025
+    },
+    {
+      "title": "A status note on Rice in India - NFSM",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmQF_b1kocnVDSgljHg9id1XdghgjEnxfyZ7HOkkJB6hHTkKce2QuR_5gSky4lK1TClArnVD1CRMU3RSQ_bXg1nY-mne6Mg0Eh6SvGTC2lrviVsEKU3Eol9tCjppfL4CNzZu6EvEti36xyfA==",
+      "source_type": "government",
+      "year": null
+    },
+    {
+      "title": "Rice Mill Machine Manufacturers in India - Navasasyam Dandekar Pvt. Ltd",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHD6_FbxlUfAlUlJWXdLg3XwW5MqK0LtQbu59inFldc5ZCbdvCMj0y9ZfJD7pO0OqGZkWJPRAP6FYa9IHYtMxx9QnQihCj28VkRFWjNbLJONWIx3Kyfj-Fq0xMyUXTNNIenYV0BrxQK8yZTKlxiJDZLD1X20g==",
+      "source_type": "industry",
+      "year": null
+    },
+    {
+      "title": "India Rice Market Size, Share, Analysis and Forecast 2034 - IMARC Group",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOrd0Q9k_sbPcRvcXFgZ-Pqj-uBcNyHggM1wtI0jnrPLBy3aBiWn07Vbpm0h8_sdwBmYKa09jQ4FcGtZAfqfgiKXEsr9hUSoV-Tg8VONKBiMSw0r-GY6H1opJ8IlOs3qvMl89wKVg5",
+      "source_type": "industry",
+      "year": 2026
+    },
+    {
+      "title": "Rice Milling Machines India| Innovative Solutions by Kinetic",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPHQujexATw8fLO9B7G5tcXUvXz9RQhWqfbGDdqxYJEOYfKeiG-TLUcDRcoc4J8HW-cHG20vUUs_owniAjYdFMhZYmt7P2ParqKqXHkR_zRinLkBGQvHdUky8voZovnHzTsRGJWQkgCK2ZDDeiPXI=",
+      "source_type": "industry",
+      "year": 2025
+    },
+    {
+      "title": "Rice Mill Project, Automatic Turnkey Rice Mill Plant Setup, Rice Milling Machinery Manufacturer & Supplier in India - Sona Machinery",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbY4i-lxXKPnFETGnsgGz01gho8OvyG7Wa3i-lS65YSr42WtYpB-J5nkIUUT2CYd4gdZB4FYbn16GzKOHELC1JhjpRrmukxDJDLobIQnHfvVn4CgB4WT1FwUxAgMGpKjOjrUhHl-Oye8z7112R1vfhU8cx0Q==",
+      "source_type": "industry",
+      "year": null
+    },
+    {
+      "title": "How India's Agriculture Can Save 200 Billion Cubic Meters of Water - SustainabilityNext",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBDxqT5P2nOJ_T680Cj8ZeSd3JbNHuDP9Rl2squSrq6L0hGjZvA9P3-rxxVP4pJ2nvZQNn-6NKhEba2X7cNnQBWwRUqUz0SreYGkEiW89fFjbzl8rRdGmPT6Wli17sXOWGx8TyByAuxNgSsYNMTwRBMVzccR-j6WWyV5pJ3kKNTw_CXcEjBsiKLhwX6_tvo6ai5w_ysSl5V-NQOA==",
+      "source_type": "news",
+      "year": 2025
+    },
+    {
+      "title": "DISTRIBUTION AND PRODUCTION OF RICE IN INDIA Rice is the most important food crop of India covering about one-fourth of the tota - GCWK",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_ofOUU_huV-JCF4CPPVCQvG4cLWpo7WqimcWJMzFGeFV9d4FrnV4XKuJpGmyFJLqHZW008sJmgZP87Gt2Zzo-mf1Roo2Hq-3SbpYVGlEy70WT-U-rUYSn45y4Y2yrDOAABD7ig3NWhSO_JmuLvHjsizI-zKBYaaPzMzCPU4Su5ADITfXna8utP5tHB8Za8g==",
+      "source_type": "academic",
+      "year": null
+    },
+    {
+      "title": "Cost of Paddy Cultivation Analysis | PDF | Fertilizer | Agriculture - Scribd",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaDELP8Wukj5WYbJq77xsEjO5FZkAo1ktGgxLIeA0sEnhtzGc5cb_MYDroWd36zwq7hC7cvPSxwWR6zQIaiXJKIvjmMNF5YEKc7cMjtIhzIzzMxkoxErEw4qLaAivJyrKM7Dxm3LyDWHHteMtsQYMepr2Q9AFYQg==",
+      "source_type": "academic",
+      "year": null
+    },
+    {
+      "title": "Reducing the environmental impact of rice production in subtropical India by minimising reactive nitrogen loss - SRUC, Scotland's Rural College",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_qsXQXjg_JCUSIxlBfp7dT1hpHH3rTD6nidsZ4wjAuuNG55ustuBmKmCM-w0ZZC_D_YRRiTVGlJC9Dl4UL85Nl5dNYbmVYksKik7i76tRG10pToqzgevBnQT8O5YiDk8iIGH03hBIvhg2Tzfs_NMfh_R-E83AhS8PtsGiUQeP4-2ZDTb51bF8W6GVjYQ-M1s",
+      "source_type": "academic",
+      "year": 2024
+    },
+    {
+      "title": "Environmental Impact of Conventional Rice Cultivation using Life Cycle Analysis",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF10A0vjqyf_CPZHwyZecJzOx3tv7adJUNAGFE5DT0vHr-G2EFWMeLnGYCcp1ocICsPtAuFSgs1kf5G8Mmq4VIP6GzPX7UbR1vX8kbe5vz9YzZPE95sdPKkw7w2rBo-niCKY-Tc-rtmK1WvhoTxxoVH3Sz8BrZBKOWmHdOfw0Q==",
+      "source_type": "academic",
+      "year": 2023
+    },
+    {
+      "title": "India hikes minimum support price for kharif paddy in MY 2026-27 | S&P Global",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRzQOiRUZHp9w4q_00M_LT_npS5QfuVmM121-Q0xHMKWajH3Vh4hf5UpDeU_8ySuzXN8q9YxDK5k5UotcUXH5w50VbxUjPex2ZKBbvycGz0hm7diRivWxy9MM82KebgEosZ6j4AzQLE6fc_o6vAiQF6LWJIWvvpnIfsFeOGYU1P2iNKity4BYDRQ8z3ZWWOVgFHmN3Oc4Yy9UnOMTOEtOvQ_PnmVZ4yQ9BK0bT1GLSEo16vAdIJfk__Ao-VEnKTrEydLebiKa9R5GsMcg==",
+      "source_type": "news",
+      "year": 2026
+    },
+    {
+      "title": "economics of organic and conventional paddy farming in mahbubnagar district of telangana - CABI Digital Library",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaqlHq5KZIp0nMHF64ba5jqeyN6v_tKeQmPJxN1XeoqtFMu21-Hp54ajgE3QZVcJVPXcJ3RAdYmOTuajDZm4MAqRirgar6jyviC9qar3CunyG4EmfxKJe5t4KiVep0pevD0s-wDmcrQeh4sPkS0koO78xR3ZwQ-M1s",
+      "source_type": "academic",
+      "year": null
+    },
+    {
+      "title": "Minimum Support Price - 2026-27 - Department of Agricultural - Government of Tamil Nadu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFP22prKbSXhIcHUU6z45HvTsy-s7LceJEcas4NyHJbmig81-eQbO1ai9glRNDDb4iQvl6hsRRHbzruPxPIVNhCdy5mIH-XNt1GZ87eK7IYooaz9I_myy1updkRnx1X6wE1lso8v0NY",
+      "source_type": "government",
+      "year": 2026
+    }
+  ]
+}

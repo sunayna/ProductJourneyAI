@@ -1,0 +1,384 @@
+{
+  "product": "T-shirt",
+  "overview": {
+    "name": "T-shirt",
+    "category": "textile",
+    "description": "The T-shirt is a ubiquitous casual wear garment in India, forming a significant part of the country's vast textile and apparel industry. India is a major global producer and exporter of T-shirts, leveraging its abundant cotton resources and skilled workforce. The domestic market for T-shirts is driven by a large youth population and increasing fashion consciousness, with production hubs like Tiruppur being globally renowned for knitwear manufacturing.",
+    "origin_in_india": "The heartland of T-shirt manufacturing in India is primarily the knitwear cluster of Tiruppur in Tamil Nadu. Other significant regions include Ludhiana in Punjab for hosiery and knitwear, and garment manufacturing hubs in Bengaluru (Karnataka) and Delhi-NCR.",
+    "key_organisations": [
+      "Arvind Limited",
+      "Raymond Limited",
+      "Vardhman Group",
+      "KPR Mill Limited",
+      "Gokaldas Exports Ltd.",
+      "Ministry of Textiles, Government of India",
+      "Textile Committee",
+      "Confederation of Indian Textile Industry (CITI)",
+      "Apparel Export Promotion Council (AEPC)"
+    ],
+    "historical_note": "The history of textiles in India dates back over 5000 years, with evidence of cotton cultivation and textile production found in the Indus Valley Civilization around 3000 BCE. India was a major global textile leader, known for its fine cottons and dyed fabrics, long before modern T-shirt manufacturing."
+  },
+  "raw_materials": [
+    {
+      "name": "Cotton Fibre",
+      "source_region": "Maharashtra (Yavatmal, Akola, Amravati), Gujarat (Rajkot, Surendranagar, Bhavnagar, Amreli), Telangana (Warangal, Adilabad, Nizamabad), Karnataka (Raichur, Bellary, Haveri), Madhya Pradesh (Khargone, Khandwa, Barwani), Punjab (Bathinda, Muktsar, Fazilka), Haryana (Hisar, Sirsa, Fatehabad), Rajasthan (Ganganagar, Hanumangarh, Churu), Andhra Pradesh (Kurnool, Guntur, Anantapur), Tamil Nadu, Odisha (Koraput, Kalahandi, Rayagada).",
+      "percentage_share": null,
+      "cost_per_unit": "Rs 6,000-8,000 per quintal (100 kg) for raw cotton (kapas) [approx. 2024-25]",
+      "notes": "India is the largest producer of cotton globally, accounting for 23% of total global cotton production. Different varieties like MCU 5, LRA 5166, and JK Cotton Hybrid are grown."
+    },
+    {
+      "name": "Polyester Fibre/Yarn",
+      "source_region": "Gujarat (Surat), Maharashtra, Uttar Pradesh",
+      "percentage_share": null,
+      "cost_per_unit": "Rs 165-170 per kg for polyester fibre (as of April 2026).",
+      "notes": "Used for blended T-shirts, offering durability and wrinkle resistance. Prices for synthetic materials have seen increases."
+    }
+  ],
+  "supply_chain": [
+    {
+      "stage": "Cotton Farming",
+      "location": "Maharashtra, Gujarat, Telangana, Karnataka, Rajasthan, Punjab, Haryana, Madhya Pradesh, Andhra Pradesh, Tamil Nadu, Odisha.",
+      "workers_involved": [
+        "Farmers",
+        "Farm Laborers (sowing, weeding, picking)",
+        "Pesticide Sprayers"
+      ],
+      "description": "Farmers cultivate cotton as a Kharif crop, typically sowing from March-May in northern India and June-July with monsoon onset in central and southern states. Manual picking is common, involving laborers harvesting cotton bolls.",
+      "key_equipment": [
+        "Tractors",
+        "Seed drills",
+        "Sprayers",
+        "Harvesters (limited use)"
+      ],
+      "cost_added_inr": "Rs 2,500-4,000 per quintal (for seeds, fertilizers, pesticides, labor, irrigation)"
+    },
+    {
+      "stage": "Ginning",
+      "location": "Major cotton-producing districts in Maharashtra, Gujarat, Telangana, Madhya Pradesh.",
+      "workers_involved": [
+        "Ginning Machine Operators",
+        "Loaders",
+        "Quality Checkers"
+      ],
+      "description": "Raw cotton (kapas) is transported from farms to ginning mills where lint (fibre) is separated from seeds. The lint is then pressed into bales of 170 kg each.",
+      "key_equipment": [
+        "Saw gins",
+        "Roller gins",
+        "Baling presses"
+      ],
+      "cost_added_inr": "Rs 300-500 per quintal of kapas (ginning charges, transport)"
+    },
+    {
+      "stage": "Spinning",
+      "location": "Tamil Nadu (Tiruppur, Coimbatore), Gujarat, Maharashtra, Punjab (Ludhiana).",
+      "workers_involved": [
+        "Spinning Machine Operators",
+        "Technicians",
+        "Quality Controllers",
+        "Material Handlers"
+      ],
+      "description": "Cotton bales are opened, cleaned, carded (fibres separated), combed (for finer yarn), drawn (fibres aligned), and then spun into yarn using ring frames or open-end spinning machines. Common yarn counts for T-shirts are 30s and 40s combed cotton.",
+      "key_equipment": [
+        "Blowroom machinery",
+        "Carding machines",
+        "Combers",
+        "Draw frames",
+        "Ring frames",
+        "Open-end spinning machines"
+      ],
+      "cost_added_inr": "Rs 50-80 per kg of yarn (processing, labor, energy). Cotton yarn prices have risen from Rs 260 per kg to around Rs 292 per kg as of April 2026."
+    },
+    {
+      "stage": "Knitting",
+      "location": "Tiruppur (Tamil Nadu), Ludhiana (Punjab), Bengaluru (Karnataka).",
+      "workers_involved": [
+        "Knitting Machine Operators",
+        "Technicians",
+        "Fabric Inspectors"
+      ],
+      "description": "Yarn is fed into circular knitting machines to produce tubular fabric. Single jersey is the most common knit structure for T-shirts. A typical circular knitting machine produces 200-400 kg of fabric per day.",
+      "key_equipment": [
+        "Circular knitting machines",
+        "Flat knitting machines (for collars/cuffs)"
+      ],
+      "cost_added_inr": "Rs 20-40 per kg of grey fabric (knitting charges, labor, machine maintenance)"
+    },
+    {
+      "stage": "Dyeing & Finishing",
+      "location": "Tiruppur (Tamil Nadu), Surat (Gujarat), Bhiwandi (Maharashtra).",
+      "workers_involved": [
+        "Dyeing Technicians",
+        "Chemical Handlers",
+        "Machine Operators",
+        "Quality Checkers"
+      ],
+      "description": "The grey knitted fabric undergoes pre-treatment (scouring, bleaching), dyeing to achieve desired colors, and various finishing processes like compacting, bio-washing, and calendering to enhance feel, reduce shrinkage, and improve fabric stability.",
+      "key_equipment": [
+        "Jet dyeing machines",
+        "Soft flow dyeing machines",
+        "Stenters",
+        "Compacting machines",
+        "Effluent Treatment Plants (ETPs)"
+      ],
+      "cost_added_inr": "Rs 40-70 per kg of dyed and finished fabric (dyes, chemicals, water, energy, labor)"
+    },
+    {
+      "stage": "Garment Manufacturing (Cutting & Stitching)",
+      "location": "Tiruppur (Tamil Nadu), Bengaluru (Karnataka), Delhi-NCR, Ludhiana (Punjab).",
+      "workers_involved": [
+        "Pattern Makers",
+        "Cutters",
+        "Sewing Machine Operators (tailors)",
+        "Trimmers",
+        "Quality Checkers",
+        "Pressers",
+        "Packers"
+      ],
+      "description": "The finished fabric is inspected, patterns are made using CAD software, and fabric layers are precisely cut. Cut pieces are then stitched together by sewing machine operators. A basic T-shirt involves 6-8 stitching operations, while premium ones can have 10-22. This stage also includes printing or embroidery.",
+      "key_equipment": [
+        "CAD systems",
+        "Automated cutting machines",
+        "Industrial sewing machines (overlock, flatlock, single needle)",
+        "Buttonhole machines",
+        "Printing machines (screen, digital)",
+        "Embroidery machines",
+        "Steam irons"
+      ],
+      "cost_added_inr": "Rs 50-150 per T-shirt (cutting, stitching, embellishment, labor, overheads)"
+    },
+    {
+      "stage": "Wholesale & Distribution",
+      "location": "Major cities across India (Mumbai, Delhi, Bengaluru, Chennai, Kolkata).",
+      "workers_involved": [
+        "Logistics Managers",
+        "Warehouse Workers",
+        "Sales Representatives",
+        "Truck Drivers"
+      ],
+      "description": "Finished and packaged T-shirts are transported from manufacturing units to warehouses, distributors, and wholesalers across the country. This involves inventory management, order fulfillment, and transportation.",
+      "key_equipment": [
+        "Warehouses",
+        "Forklifts",
+        "Trucks",
+        "Logistics software"
+      ],
+      "cost_added_inr": "Rs 10-30 per T-shirt (transportation, warehousing, sales commission)"
+    },
+    {
+      "stage": "Retail",
+      "location": "Pan-India (online, offline stores, boutiques).",
+      "workers_involved": [
+        "Sales Associates",
+        "Store Managers",
+        "Cashiers",
+        "Merchandisers"
+      ],
+      "description": "T-shirts are displayed and sold to end-consumers through various channels, including large format stores, brand outlets, multi-brand retailers, local shops, and e-commerce platforms.",
+      "key_equipment": [
+        "POS systems",
+        "Display racks",
+        "Security systems"
+      ],
+      "cost_added_inr": "Rs 50-300+ per T-shirt (store rent, staff salaries, marketing, profit margin)"
+    }
+  ],
+  "geography": {
+    "producing_states": [
+      "Tamil Nadu",
+      "Gujarat",
+      "Maharashtra",
+      "Punjab",
+      "Karnataka",
+      "Madhya Pradesh",
+      "Rajasthan",
+      "Telangana",
+      "Andhra Pradesh",
+      "Uttar Pradesh",
+      "West Bengal",
+      "Tripura"
+    ],
+    "major_clusters": [
+      "Tiruppur, Tamil Nadu (Knitwear Capital of India)",
+      "Ludhiana, Punjab (Hosiery and Knitwear)",
+      "Bengaluru, Karnataka (Garment manufacturing)",
+      "Delhi-NCR (Garment manufacturing and exports)",
+      "Surat, Gujarat (Textile processing, MMF)",
+      "Erode, Tamil Nadu (Textile hub, processing)"
+    ],
+    "trade_routes": [
+      "Road networks connecting production clusters to major ports (Mumbai, Chennai, Mundra, Kolkata)",
+      "Rail freight for domestic distribution",
+      "Air cargo for high-value or urgent international shipments",
+      "Sea routes for international exports to USA, Bangladesh, Sri Lanka, UK, UAE, Germany, China, Vietnam, Indonesia."
+    ]
+  },
+  "economics": {
+    "farm_gate_price_inr": "Rs 6,000-8,000 per quintal (100 kg) for raw cotton (kapas) [approx. 2024-25]",
+    "retail_price_inr": "Rs 199 - 5,900+ per T-shirt (depending on brand, material, and design)",
+    "cost_breakdown": [
+      {
+        "stage": "Raw Material (Cotton Fibre/Yarn)",
+        "cost_inr": "Rs 100-200",
+        "percentage_of_retail": 20.0
+      },
+      {
+        "stage": "Knitting & Dyeing",
+        "cost_inr": "Rs 50-100",
+        "percentage_of_retail": 15.0
+      },
+      {
+        "stage": "Garment Manufacturing (Cutting, Stitching, Embellishment)",
+        "cost_inr": "Rs 50-150",
+        "percentage_of_retail": 25.0
+      },
+      {
+        "stage": "Logistics & Distribution",
+        "cost_inr": "Rs 10-30",
+        "percentage_of_retail": 5.0
+      },
+      {
+        "stage": "Retailer Margin & Overheads",
+        "cost_inr": "Rs 50-300+",
+        "percentage_of_retail": 35.0
+      }
+    ],
+    "gst_rate": "5% or 18%",
+    "gst_notes": "Effective September 22, 2025, T-shirts and other knitted or crocheted garments are subject to 5% GST if the sale value is up to Rs 2,500 per piece, and 18% GST if the sale value is above Rs 2,500 per piece. Raw cotton is generally subject to 5% GST on a reverse charge basis.",
+    "market_size_india": "The Indian textile and apparel market is substantial, with the apparel segment being a major contributor. Specific market size for T-shirts is part of the broader apparel market, which is projected to grow significantly."
+  },
+  "retail_prices": [
+    {
+      "brand": "Zudio (Tata Trent)",
+      "product_name": "Men's Solid Round Neck T-shirt",
+      "pack_size": "1 piece",
+      "price_inr": 199.0,
+      "retailer": "Zudio Store",
+      "location": "Bengaluru, Karnataka",
+      "date": "June 2026"
+    },
+    {
+      "brand": "Max Fashion",
+      "product_name": "Men's Printed Cotton T-shirt",
+      "pack_size": "1 piece",
+      "price_inr": 399.0,
+      "retailer": "Max Fashion Store",
+      "location": "Mumbai, Maharashtra",
+      "date": "June 2026"
+    },
+    {
+      "brand": "Reliance Trends",
+      "product_name": "DNMX Men's Graphic Print T-shirt",
+      "pack_size": "1 piece",
+      "price_inr": 599.0,
+      "retailer": "Trends Store",
+      "location": "Delhi-NCR",
+      "date": "June 2026"
+    },
+    {
+      "brand": "Wrogn (Virat Kohli)",
+      "product_name": "Men's Edgy Graphic T-shirt",
+      "pack_size": "1 piece",
+      "price_inr": 1299.0,
+      "retailer": "Myntra (Online)",
+      "location": "Pan-India",
+      "date": "June 2026"
+    },
+    {
+      "brand": "BLUORNG",
+      "product_name": "Fade Flora Ombre T-Shirt",
+      "pack_size": "1 piece",
+      "price_inr": 5900.0,
+      "retailer": "BLUORNG Official Website",
+      "location": "Pan-India (Online)",
+      "date": "June 2026"
+    }
+  ],
+  "sustainability": {
+    "carbon_footprint": "The textile industry, including T-shirt manufacturing, has a significant carbon footprint due to energy-intensive processes in spinning, weaving, dyeing, and transportation. Cotton cultivation also contributes through fertilizer and pesticide use.",
+    "water_usage": "High water usage is a major concern, particularly in cotton cultivation (often rainfed, but irrigated areas consume significant water) and wet processing stages like dyeing and finishing. Water pollution from dye effluents is also a critical issue.",
+    "key_concerns": [
+      "Water pollution from dyeing and finishing units (discharge of untreated effluents)",
+      "High water consumption in cotton farming and processing",
+      "Pesticide and insecticide use in conventional cotton cultivation",
+      "Textile waste from cutting and post-consumer garments",
+      "Labor conditions and wages in garment factories",
+      "Energy consumption in manufacturing processes"
+    ],
+    "certifications_schemes": [
+      "Organic Cotton Certification (e.g., Global Organic Textile Standard - GOTS)",
+      "Better Cotton Initiative (BCI)",
+      "OEKO-TEX Standard 100 (for textile safety)",
+      "Sustainable Apparel Coalition (SAC) - Higg Index",
+      "Zero Liquid Discharge (ZLD) initiatives in dyeing clusters"
+    ]
+  },
+  "government_policy": {
+    "key_schemes": [
+      "Production Linked Incentive (PLI) Scheme for Textiles: Aims to boost domestic manufacturing and exports of high-value MMF garments, fabrics, and technical textiles with an outlay of Rs 10,683 crore.",
+      "SAMARTH (Scheme for Capacity Building in Textile Sector): Focuses on skill development and training for workers across the textile value chain, excluding spinning and weaving, to address skill gaps.",
+      "PM Mega Integrated Textile Region and Apparel (PM MITRA) Parks Scheme: Aims to develop world-class integrated textile parks with plug-and-play facilities to reduce logistics costs and improve competitiveness. Seven parks are being established with an outlay of Rs 4,445 crore.",
+      "Amended Technology Upgradation Fund Scheme (ATUFS): Provides credit-linked capital investment subsidy to textile units for technology upgradation and modernization, promoting investment and employment.",
+      "Scheme for Integrated Textile Parks (SITP): Supports the creation of world-class infrastructure facilities for textile units.",
+      "National Technical Textiles Mission (NTTM): Promotes research, innovation, and usage of technical textiles.",
+      "Rebate of State and Central Taxes and Levies (RoSCTL): Boosts textile exports by reimbursing embedded taxes."
+    ],
+    "regulatory_body": "Ministry of Textiles, Government of India; Textile Committee",
+    "import_export_policy": "India generally promotes textile exports through schemes like RoSCTL and PLI. Import policies are designed to balance domestic industry protection with raw material availability, with specific duties on various textile products. India exports cotton yarn and fabrics to countries like Bangladesh, China, Vietnam, and Indonesia."
+  },
+  "sources": [
+    {
+      "title": "Amended Technology Upgradation Fund Scheme (ATUFS)",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWToeXONQ52CG0-XiHRujrb88b75s-QVK8MZNhJIVK0WQi2S0RfwlFvIKQqm6odmUKCSodipy6v56zFbefMM1D42rSs27WdQfv8KKjQ",
+      "source_type": "government",
+      "year": 2022
+    },
+    {
+      "title": "Schemes and Services - Ministry of Textiles",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHR4ojU7bY8zAzGymBRCfmPBilCaC23TnEJn9oyG6oAKFMvss1DtmyT0F7PmRVcAbo6FiPoUPIKK3bnkblkxGV5twwAJuK9R2Gtle80x0T8O2593Ng_g60K4T_3TS6ysSGnpJcstDmd3sNyKgLEens=",
+      "source_type": "government",
+      "year": 2026
+    },
+    {
+      "title": "Textile-Related Schemes in India",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHxVjPtmkVYe0J1FDNpyHn6s1oH0nuDR_gU43KbFmxqJohMHa4bb4oaPIlwv_IMqMlUmWFV_x2AMo7K0yfR4XOJtLZaHa4Pzm3uazADaGGstnOwx46fDoZI8IfFgv1tibF1v-10TorFarT021DIWG7gdCs3RRVF7GTaiWcvPhMNY0Gw81hQ==",
+      "source_type": "news",
+      "year": 2024
+    },
+    {
+      "title": "Schemes launched by the Government in Textile sector for employment generation - PIB",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwvzsNtEselijvE1rw0YVdJ2BWk80mApQqboESzrYh_4iUB6K_2Txef-R0XByGdWl93oWIu_wLI9Gmfi3NU1OBRfbFODY-Xjzo-tAoKBBgzsayxxyiz0RR4BDBBHb9yDIlNsXaSQm3fTdP6h_ehJHVJsS-lyxdaMJr9wvFabkNhQoG",
+      "source_type": "government",
+      "year": null
+    },
+    {
+      "title": "Textile-Related Schemes in India – Citi India - The Confederation of Indian Textile Industry",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYypfxucY8Hd7yXaQ6pCP-FYY1MtN16uVAdtDUGjMIwDwwx-gJKZtciH-kN2qo-rqFBY7hOGR55D9GVwlbaAu20hoFQtnJ66Xd4DLuZbSjtoVS0Fkc-pqoz2ZvjpvMx07ZWthuxDXcCu8qT1Z7",
+      "source_type": "industry",
+      "year": null
+    },
+    {
+      "title": "Chapter 61 - GST Rates and HSN Codes for T-Shirts and Singlets - Aditya Birla Capital",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnbFESX3RS7oLv3mUu617NexcX_SnRNLX_VmTSXbKjMKwbvMZVvlmzWEXtOccGMtD-lUfj2kb0BROPUx6zz8fBWSSv0L5ZOjjXZCAHrd_vHooV_L-EkcsSjNRCHMwxnROL_x5Wmc2_t4TTESTHBnUqMFwp1vgI9Nn2_DMe1_1I6Id6ahOe6GWj321vDLKNxcK5FXoNraV6BV1WE-ym",
+      "source_type": "industry",
+      "year": 2022
+    },
+    {
+      "title": "History of Indian Textile Industry",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYwqr40kUg6WEVZk-owyIfBcEspu1HwmFVMPbBUh_ET4xCflR6Qb4Da-BZAXfqf-czO31bDk903wDLKgd1C-DwEXd-ZazS8wlmP0NQWyTp4Hb4Y8nnK5VZYxqC0btXxUnjitRwbN_qvghvBlvwIJ8xzNIdFRw4xuyIipW7dpC_Zgyvqz5IgI2b",
+      "source_type": "news",
+      "year": 2022
+    },
+    {
+      "title": "Amended Technology Upgradation Fund Scheme (ATUFS): In Detail - Testbook",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXz6LKGAIp74ZrdMGJ1q3nGRjKMxWTQQZuaxG8eb_Ksl02Atgcaio0iWrk4UfdEIlg4DTyW7pX63dUzc0cflfr1Ur6gIM-FcAVyez1pDvB3ROPvoBXaq-RD6snECor6N77yyLNnQLrMRmPP3AD11iQzcNAR6zYHdfno5f75GaUUYlLRgJguPbnFmup3kM8u1o=",
+      "source_type": "academic",
+      "year": 2022
+    },
+    {
+      "title": "Cotton Producing States In India - SATHEE CUET",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdHBQwZ00hxGsza1_kKMoguJxHbIJD2wEDdqb2SQwEDKzPyfL51Ea8wwYIGfUG3XwyRDpcl2yIGiDQ4qBXDxuoJwPCePGDdv9xwEnAdcVGJfB6prcBVazjT1bYxyuVNRyQuV6tEMxPZFjWz4vhz6HXpPRsSdb1wucviJk3r17fVF0FJWVLXjZqAv7v8OF_3XKkPEb65CrQsSYP_vKUdFGes64n3wbxdV5tyoT9EWPT7VLM",
+      "source_type": "academic",
+      "year": null
+    }
+  ]
+}

@@ -1,0 +1,368 @@
+{
+  "product": "Bicycle",
+  "overview": {
+    "name": "Bicycle",
+    "category": "sport",
+    "description": "The Indian bicycle industry is one of the largest globally, producing millions of units annually for both domestic use and international export. It caters to diverse needs, from affordable utility bicycles for daily commuting in rural and urban areas to high-performance mountain, road, and electric bikes for fitness and recreation. India ranks as one of the world's largest bicycle manufacturers, with a production capacity exceeding 15 million units per year.",
+    "origin_in_india": "Ludhiana in Punjab is often referred to as the 'Bicycle Capital of India', hosting approximately 80% of India's bicycle manufacturing units. Other significant manufacturing centers include Chennai (Tamil Nadu), Sonepat (Haryana), Noida and Ghaziabad (Uttar Pradesh), Kanpur, Mumbai, Kolkata, Patna, and Rajpura (Punjab).",
+    "key_organisations": [
+      "Hero Cycles",
+      "TI Cycles (BSA, Hercules, Montra, Philips, Roadeo, Track & Trail)",
+      "Avon Cycles",
+      "Atlas Cycles",
+      "Eastman Industries",
+      "Radiant Cycles",
+      "Neelam Cycles",
+      "Youngstar Cycles",
+      "Inder Industries",
+      "Jagatjit Industries",
+      "Laxmi Trading Company",
+      "Bajaj Industries",
+      "Sonalika Industries",
+      "R. R. Industries",
+      "Firefox Bikes",
+      "Ninety One Cycles",
+      "OMOBIKES",
+      "WaltX",
+      "Fantom Bikes",
+      "Unirox Bikes",
+      "Cosmic Cycles",
+      "FitTrip",
+      "EMotorad",
+      "Avitree Bikes",
+      "Hippo Cycles",
+      "Mahajan Exports",
+      "Orion Exports",
+      "All India Cycle Manufacturers' Association (AICMA)",
+      "United Cycle and Parts Manufacturers (UCPMA)"
+    ],
+    "historical_note": "The bicycle industry in India originated in 1939 with Hind Cycles Ltd. (a Birla company) and Hindustan Bicycle Corporation. Major manufacturing activities accelerated after independence, with companies like Atlas Cycle Industries Ltd. (1950), Hero Cycles Ltd. (1951), and Avon Cycles Ltd. (1952) coming into existence. Atlas Cycles introduced India's first racing bicycle in 1978 and was the official supplier for the 1982 Asian Games in Delhi."
+  },
+  "raw_materials": [
+    {
+      "name": "Steel",
+      "source_region": "Odisha, Chhattisgarh, Jharkhand, Karnataka (for raw steel); Ludhiana (for tubes)",
+      "percentage_share": null,
+      "cost_per_unit": "Rs 80-150 per kg (for bicycle-grade steel tubes, estimated)",
+      "notes": "Primarily used for frames, forks, handlebars, and other structural components, especially in utility and entry-level bicycles. Atlas Cycles established a steel tube mill in Gurgaon for self-sufficiency."
+    },
+    {
+      "name": "Aluminum",
+      "source_region": "Odisha, Chhattisgarh (for raw aluminum); Ludhiana, Chennai (for tubes/components)",
+      "percentage_share": null,
+      "cost_per_unit": "Rs 200-350 per kg (for bicycle-grade aluminum tubes, estimated)",
+      "notes": "Used for lighter frames, rims, and components, especially in mid-to-high end and performance bicycles."
+    },
+    {
+      "name": "Rubber",
+      "source_region": "Kerala, Tamil Nadu (for natural rubber)",
+      "percentage_share": null,
+      "cost_per_unit": "Rs 230-260 per kg (for natural rubber, as of June 2026)",
+      "notes": "Essential for tires, inner tubes, handlebar grips, and pedal treads. Both natural and synthetic rubber are used."
+    },
+    {
+      "name": "Plastics",
+      "source_region": "Gujarat, Maharashtra (for raw plastic granules)",
+      "percentage_share": null,
+      "cost_per_unit": "Rs 80-150 per kg (for various plastic grades, estimated)",
+      "notes": "Used for mudguards, chain guards, reflectors, some pedal bodies, cable housings, and saddle bases."
+    },
+    {
+      "name": "Carbon Fiber",
+      "source_region": "Primarily imported, some processing in India",
+      "percentage_share": null,
+      "cost_per_unit": "Rs 2000-5000+ per kg (for composite materials, estimated)",
+      "notes": "Used in high-end performance bicycles for lightweight frames and components. Montra introduced India's first carbon frame bike."
+    }
+  ],
+  "supply_chain": [
+    {
+      "stage": "Raw Material Sourcing & Primary Processing",
+      "location": "Odisha, Chhattisgarh, Jharkhand, Karnataka (steel, aluminum); Kerala, Tamil Nadu (rubber); Gujarat, Maharashtra (plastics)",
+      "workers_involved": [
+        "Miners",
+        "Smelter operators",
+        "Rolling mill workers",
+        "Rubber plantation workers",
+        "Rubber processing technicians",
+        "Chemical plant operators"
+      ],
+      "description": "Extraction of iron ore, bauxite, crude oil, and rubber latex. Primary processing involves converting these into steel billets, aluminum ingots, rubber sheets/blocks, and plastic granules. Steel tubes for frames are then manufactured.",
+      "key_equipment": [
+        "Mining machinery",
+        "Blast furnaces",
+        "Basic oxygen furnaces",
+        "Rolling mills",
+        "Extrusion presses",
+        "Rubber tapping tools",
+        "Rubber sheet presses",
+        "Polymerization reactors"
+      ],
+      "cost_added_inr": null
+    },
+    {
+      "stage": "Component Manufacturing",
+      "location": "Ludhiana (Punjab), Noida (Uttar Pradesh), Ghaziabad (Uttar Pradesh), Chennai (Tamil Nadu), Sonepat (Haryana)",
+      "workers_involved": [
+        "Machinists",
+        "Welders",
+        "Tool and die makers",
+        "Mould operators",
+        "Foundry workers",
+        "Quality control inspectors",
+        "Painters",
+        "Electroplaters"
+      ],
+      "description": "Specialized units manufacture various bicycle components. This includes frame fabrication (cutting, shaping, welding of steel/aluminum tubes), production of rims, spokes, hubs, gears, chains, pedals, brakes, handlebars, saddles, and tires/tubes. Many MSMEs in Ludhiana contribute to this stage.",
+      "key_equipment": [
+        "CNC cutting machines",
+        "Tube bending machines",
+        "Robotic welding stations",
+        "Stamping presses",
+        "Injection molding machines",
+        "Die casting machines",
+        "Tire vulcanizing machines",
+        "Paint booths",
+        "Electroplating tanks"
+      ],
+      "cost_added_inr": null
+    },
+    {
+      "stage": "Bicycle Assembly",
+      "location": "Ludhiana (Punjab), Chennai (Tamil Nadu), Sonepat (Haryana), Rajpura (Punjab), Sahibabad (Uttar Pradesh), Patna (Bihar)",
+      "workers_involved": [
+        "Assembly line workers",
+        "Fitters",
+        "Mechanics",
+        "Quality assurance technicians",
+        "Painters",
+        "Decal applicators",
+        "Packaging operators"
+      ],
+      "description": "All manufactured and sourced components are brought to assembly plants. Frames undergo painting and finishing. Components like wheels, handlebars, drivetrains, brakes, and saddles are then fitted onto the frame on assembly lines. Final adjustments, quality checks, and packaging are performed.",
+      "key_equipment": [
+        "Automated assembly lines",
+        "Robotic painting systems",
+        "Torque wrenches",
+        "Wheel truing stands",
+        "Brake adjustment tools",
+        "Testing jigs",
+        "Conveyor systems",
+        "Packaging machinery"
+      ],
+      "cost_added_inr": null
+    },
+    {
+      "stage": "Distribution & Retail",
+      "location": "Pan-India, with major distribution hubs in Delhi, Mumbai, Bangalore, Chennai, Kolkata",
+      "workers_involved": [
+        "Logistics managers",
+        "Warehouse staff",
+        "Truck drivers",
+        "Sales executives",
+        "Retail shopkeepers",
+        "Online order fulfillment staff",
+        "Cycle mechanics (for assembly and service at retail points)"
+      ],
+      "description": "Finished bicycles are transported from manufacturing units to regional distribution centers and then to various retail channels. These include multi-brand bicycle stores, exclusive brand showrooms (e.g., Track & Trail, Hero Lectro stores), large format retail chains (e.g., Decathlon), and online e-commerce platforms. Local cycle mechanics play a crucial role in final assembly and after-sales service.",
+      "key_equipment": [
+        "Trucks and trailers",
+        "Warehousing facilities",
+        "Forklifts",
+        "Inventory management systems",
+        "Point-of-sale (POS) systems",
+        "E-commerce platforms"
+      ],
+      "cost_added_inr": null
+    }
+  ],
+  "geography": {
+    "producing_states": [
+      "Punjab",
+      "Tamil Nadu",
+      "Haryana",
+      "Uttar Pradesh",
+      "West Bengal",
+      "Bihar",
+      "Maharashtra"
+    ],
+    "major_clusters": [
+      "Ludhiana (Punjab)",
+      "Chennai (Tamil Nadu)",
+      "Sonepat (Haryana)",
+      "Noida (Uttar Pradesh)",
+      "Ghaziabad (Uttar Pradesh)",
+      "Rajpura (Punjab)"
+    ],
+    "trade_routes": [
+      "Road transport networks connect manufacturing hubs (e.g., Ludhiana) to major consumption centers across India.",
+      "Rail freight is used for bulk transportation of raw materials and finished goods.",
+      "Sea routes from ports like Chennai, Mumbai, and Kolkata are used for international exports and imports of components and high-end bicycles. Ludhiana is landlocked, requiring extensive road/rail connectivity to ports."
+    ]
+  },
+  "economics": {
+    "farm_gate_price_inr": null,
+    "retail_price_inr": "Rs 4,000 - 2,00,000+ (depending on type, brand, and features)",
+    "cost_breakdown": [
+      {
+        "stage": "Raw Materials",
+        "cost_inr": null,
+        "percentage_of_retail": null
+      },
+      {
+        "stage": "Component Manufacturing",
+        "cost_inr": null,
+        "percentage_of_retail": null
+      },
+      {
+        "stage": "Assembly & Finishing",
+        "cost_inr": null,
+        "percentage_of_retail": null
+      },
+      {
+        "stage": "Logistics & Distribution",
+        "cost_inr": null,
+        "percentage_of_retail": null
+      },
+      {
+        "stage": "Marketing & Brand Building",
+        "cost_inr": null,
+        "percentage_of_retail": null
+      },
+      {
+        "stage": "Retailer Margin",
+        "cost_inr": null,
+        "percentage_of_retail": null
+      },
+      {
+        "stage": "GST",
+        "cost_inr": null,
+        "percentage_of_retail": null
+      }
+    ],
+    "gst_rate": "5%",
+    "gst_notes": "As of September 2025, the GST rate on non-motorized bicycles (HSN 8712) and all bicycle parts and accessories (HSN 8714) was rationalized to 5%. This was reduced from a previous rate of 12% to promote affordability and sustainable mobility.",
+    "market_size_india": "USD 3.08 Billion in 2025, projected to reach USD 5.06 Billion by 2034, growing at a CAGR of 5.65% from 2026-2034."
+  },
+  "retail_prices": [
+    {
+      "brand": "Hero Cycles",
+      "product_name": "Hero Sprint Blunt Mountain Bike 29T S/Speed DUALDISC",
+      "pack_size": "1 unit (29T)",
+      "price_inr": 10000.0,
+      "retailer": "Online retailers / Local cycle shops",
+      "location": "Pan-India",
+      "date": "June 2026"
+    },
+    {
+      "brand": "Firefox",
+      "product_name": "Firefox 27.5 Tremor X 21-Speed D/Disc Bicycle",
+      "pack_size": "1 unit (27.5T)",
+      "price_inr": 15740.0,
+      "retailer": "Just Buy Cycles / Online retailers",
+      "location": "Pan-India",
+      "date": "June 2026"
+    },
+    {
+      "brand": "BSA",
+      "product_name": "BSA Champ 16T Kids Bicycle",
+      "pack_size": "1 unit (16T)",
+      "price_inr": 4745.0,
+      "retailer": "Track & Trail / Local cycle shops",
+      "location": "Pan-India",
+      "date": "June 2026"
+    }
+  ],
+  "sustainability": {
+    "carbon_footprint": "Manufacturing processes, especially steel and aluminum production, are energy-intensive and contribute to carbon emissions. Transportation across the supply chain also adds to the footprint. The shift towards e-bicycles also has implications for battery production and disposal.",
+    "water_usage": "null",
+    "key_concerns": [
+      "Resource depletion from raw material extraction (metals, rubber)",
+      "Energy consumption in manufacturing, particularly for welding, painting, and component production",
+      "Waste generation from manufacturing processes (metal scrap, paint sludge, plastic waste)",
+      "End-of-life disposal of bicycles and components, especially non-recyclable parts",
+      "Lack of dedicated cycling infrastructure in many Indian cities, hindering wider adoption and safety."
+    ],
+    "certifications_schemes": [
+      "ISO 9001 (Quality Management)",
+      "EN 14766 (Mountain Bicycle Safety Standard)",
+      "BSCI (Business Social Compliance Initiative)",
+      "AEO (Authorized Economic Operator)",
+      "ZED (Zero Defect Zero Effect) certifications (for some manufacturers like Eastman Industries).",
+      "Bureau of Indian Standards (BIS) for quality standards."
+    ]
+  },
+  "government_policy": {
+    "key_schemes": [
+      "Smart Cities Mission: Supports sustainable urban development and provisions for cycling infrastructure. Includes initiatives like Cycles4Change Challenge and Streets4People Challenge to promote cycling-friendly infrastructure in over 100 cities.",
+      "National Urban Transport Policy (NUTP): Emphasizes the implementation of Non-Motorised Transport (NMT) infrastructure.",
+      "Public Bicycle Sharing (PBS) schemes: Promoted in various cities to increase bicycle access and adoption.",
+      "Government tenders for bicycles: States like Bihar, Karnataka, Chhattisgarh, Tamil Nadu, Assam, West Bengal, and Kerala procure basic, low-cost bicycles for distribution to low-income sections of society.",
+      "Make in India initiative: Encourages domestic manufacturing of bicycles and components."
+    ],
+    "regulatory_body": "Bureau of Indian Standards (BIS) for quality and safety standards. Industry associations like AICMA and UCPMA advocate for the sector.",
+    "import_export_policy": "India is a significant exporter of bicycle components to global markets (Europe, North America, Southeast Asia, Africa). There has been an increasing trend of imported bicycles and parts, with imports growing faster than exports. The government aims to boost domestic manufacturing and reduce reliance on imports."
+  },
+  "sources": [
+    {
+      "title": "Top Bicycle Manufacturers in India: A Comprehensive Guide - Radiant Cycles",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsX5G0dhiqwmQKXNV-SSzRcxPQOYGvOnccExi1GF2sTMrNmI-4NQIZ4Q4fSDqWAqqHOnCqgZkdTFYcj1GHtwCddUSOK96V2ZRCM8jgIWi5GxmUTH7lAOoJtn_ARGJ2jSoAQjk-15EbJQ7TE3_rFioWzrmkmQ3X27GV3gptEd1XXQ==",
+      "source_type": "industry",
+      "year": 2025
+    },
+    {
+      "title": "Promoting Bicycles in India",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7rbGH10qmKUE1ek4qGmIBIjc9aAC8OwqHMFGo7ejIrvWESP3lopdtIzRf6HX6nogePwBJzY_8y3Dj93AU76SDJ9fhLwPo7z-p9ai_lSZPBYiiq_X0G4UVWWnnBGhYLLnelV2YkHwVypYTtpe1yTYQX2aQKVRM_mMS70BbVOeRsbZwGzaZilLhVsegw12ee0dXFSqANFma",
+      "source_type": "government",
+      "year": 2017
+    },
+    {
+      "title": "India Bicycle Market Size, Share, Growth and Forecast 2034 - IMARC Group",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENjLY0a7CeEU5rASMnpEz8aiUmtvOvA58wyjirgBml4sglH3lgF1syUD83n55_T68aFNhKXY0btzodHxVQwq2foTagjut6yT2wToSVvrak0RcQEyhaIksrD7Ccnc7KODmVfmsp8t7AVhP1",
+      "source_type": "industry",
+      "year": 2025
+    },
+    {
+      "title": "India Bicycle Market Forecast & Industry Analysis to 2030 - Ken Research",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtlsaSPSPBResEUkcL7IPyeFd8A91ZbleL3qt_ejB7eQBQXPPddCozG23X0W1n_-CethF9bczjXkLPk7T4b0vhoX2bXnzgro7Yz_68hyapOij3xRaIT3h-1GYDc9rh5h2KovhbC5-BVdVYGOjJXSoZ8YxuCl_mY1bkJvao",
+      "source_type": "industry",
+      "year": null
+    },
+    {
+      "title": "Top 9 Online Cycling Stores in India!",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7oDGrsgfjxEiu6lM_VhCFXqM9LZ55TOFiM-jIBIXEtefLyyCo-XHVp_AaoVxRVriMh7rhhyDCTop4jpbsohrNRrB5_MAa0HLVidHwjKzn8ysIo6GNirFix0CNuBdqlsBgzeoWqLfRp5iX1Xd_qw9rOPY3y6po",
+      "source_type": "news",
+      "year": 2026
+    },
+    {
+      "title": "Export of Bicycle's Components from India | TaxTMI",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8-vRTTyOqfrW5ImYozfI_8rjcSmJXkscO_p-brNH2KfiwHk60icyv54A0GIjuMq9mHG8EauonPkVLiambwLJfP_Vhn6PagFpn8Ql6poPmb2SToj1Sr67u1l6XcuPrPHgknaFgVdulzUl2fQ==",
+      "source_type": "industry",
+      "year": 2025
+    },
+    {
+      "title": "The Rise and Fall of Atlas Cycles | by Anurag Shukla - Medium",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJz9ec7LgqmopaHr2vfsPMZNB-uF9aBLTioxXJMYb1lw3icT53xWRxHsd0oOVJVAx8bB3xPLoehdWcQckahOJmLbxLuwhRpZGwu1ixzicFAk_kXitPAExzNG4C9nrhDmyNdkj14vq4XBT9r8HI9fV5YufYT0Ar3z7B4xwcrQHsc3RmfvcGlA_zkGE=",
+      "source_type": "news",
+      "year": 2023
+    },
+    {
+      "title": "GST on Bicycles – Tax Rates, Charges and Pricing Impact Guide - Shriram Finance",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEf3OynhTJWeFWjSOi7tRmY2qSf6gfpJmvgUt2KnJJbgm7KpDMeDT6VljDX5FIxyGl58esTt0BZQbrFhlP07SInVoVs2oJBwhPM73fjQkRkTN-9VIU3pUPr7rpr_LI1ao307ciXZJK_wejgPS4=",
+      "source_type": "industry",
+      "year": 2025
+    },
+    {
+      "title": "GST Rate and HSN Code for Cycles and Bicycle Parts - Bajaj Finserv",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtKvIuklTJiEU2hqyeNE8RnGo2ZteUQOG8yzl7v_SN2th2b2TWZ5ys_yaaPsMOM5-8UcFE-vEO5h0OvahwzlEPAHpMg0Sc1hrWNsL7JiL9BMAuS6-WO6Hrx2_GDttXfObEixc=",
+      "source_type": "industry",
+      "year": 2026
+    },
+    {
+      "title": "India Bicycle Market Size and Growth Forecast 2030 - TechSci Research",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxOiUAKmvL2qWpDLt_hSxFBXU2GPp1IDjLFyExmFi21674I8zrsUo5gN3z2QVix4dNy_qFweJd5PqddIPpZmDozIlhqQl2dI830iz9FTT8tnUgbCM7toIH39uhv2z8nwv5thG51O5o0Z6WPXc-cOCLdNzvHDnDdueSAFcQGPictkY=",
+      "source_type": "industry",
+      "year": 2026
+    }
+  ]
+}

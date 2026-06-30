@@ -1,0 +1,75 @@
+{
+  "product": "Bicycle",
+  "audience": "middle_school",
+  "reading_level": "ages 11-14",
+  "title": "My Product Journey: Bicycle — Product Fact Card",
+  "intro_note": "This document provides detailed information about the bicycle industry in India. Read it carefully to extract facts for your graphic organiser.",
+  "sections": [
+    {
+      "title": "Why Bicycle Matters — and Where It Comes From",
+      "content": "The Indian bicycle industry stands as one of the world's largest, boasting a production capacity exceeding 15 million units annually, catering to both vast domestic demand and international exports. This vital sector provides everything from affordable utility bicycles for daily commuting in rural and urban areas to advanced mountain, road, and electric bikes for fitness and recreation. Ludhiana in Punjab, often celebrated as the 'Bicycle Capital of India,' hosts approximately 80% of the nation's manufacturing units, with other significant production hubs located in Chennai (Tamil Nadu), Sonepat (Haryana), Noida and Ghaziabad (Uttar Pradesh), Kanpur, Mumbai, Kolkata, Patna, and Rajpura (Punjab). The industry's roots in India trace back to 1939 with Hind Cycles Ltd. (a Birla company) and Hindustan Bicycle Corporation. Post-independence, major players like Atlas Cycle Industries Ltd. (1950), Hero Cycles Ltd. (1951), and Avon Cycles Ltd. (1952) emerged, with Atlas famously introducing India's first racing bicycle in 1978 and serving as the official supplier for the 1982 Asian Games in Delhi. Today, key organisations include industry giants like Hero Cycles, TI Cycles (encompassing brands like BSA, Hercules, Montra), Avon Cycles, and newer entrants such as Firefox Bikes and Ninety One Cycles, all guided by bodies like the All India Cycle Manufacturers' Association (AICMA) and United Cycle and Parts Manufacturers (UCPMA)."
+    },
+    {
+      "title": "The Journey: From Raw Material to Final Product",
+      "content": "The journey of a bicycle begins with raw material sourcing and primary processing, where miners extract iron ore and bauxite in regions like Odisha, Chhattisgarh, Jharkhand, and Karnataka. Smelter operators and rolling mill workers then transform these into steel billets and aluminum ingots. Simultaneously, rubber plantation workers in Kerala and Tamil Nadu tap natural rubber latex, which rubber processing technicians convert into sheets or blocks, while chemical plant operators in Gujarat and Maharashtra produce plastic granules. Specialized steel tube manufacturers in Ludhiana then process the steel into bicycle-grade tubes. In the component manufacturing stage, machinists, welders, tool and die makers, mould operators, foundry workers, quality control inspectors, painters, and electroplaters in clusters like Ludhiana, Noida, Ghaziabad, Chennai, and Sonepat create individual parts. They utilize CNC cutting machines, tube bending machines, robotic welding stations, stamping presses, injection molding machines, die casting machines, and tire vulcanizing machines to produce frames, rims, spokes, gears, chains, pedals, brakes, handlebars, saddles, and tires. Subsequently, at bicycle assembly plants in Ludhiana, Chennai, Sonepat, Rajpura, Sahibabad, and Patna, assembly line workers, fitters, mechanics, quality assurance technicians, painters, and decal applicators bring all components together. They first prepare frames with painting and finishing using robotic painting systems, then meticulously fit wheels, handlebars, drivetrains, and brakes onto the frame on automated assembly lines, employing tools like torque wrenches and wheel truing stands. Final adjustments and quality checks are performed by quality assurance technicians using testing jigs, before packaging operators prepare the finished bicycles using packaging machinery. Finally, logistics managers, warehouse staff, and truck drivers transport these bicycles from manufacturing units to regional distribution centers in major cities like Delhi, Mumbai, Bangalore, Chennai, and Kolkata. Sales executives, retail shopkeepers, and online order fulfillment staff then make them available to customers through various channels, with local cycle mechanics often performing final assembly and crucial after-sales service."
+    },
+    {
+      "title": "Raw Materials, Inputs, and Natural Resources",
+      "content": "Bicycle manufacturing relies on a diverse range of raw materials, each contributing to the product's structure and function. Steel, primarily sourced as raw steel from Odisha, Chhattisgarh, Jharkhand, and Karnataka, and then processed into tubes in Ludhiana, forms the backbone for many utility and entry-level bicycles, including frames, forks, and handlebars. Bicycle-grade steel tubes are estimated to cost between Rs 80-150 per kilogram. Historically, Atlas Cycles even established its own steel tube mill in Gurgaon for self-sufficiency. Aluminum, another critical metal, is sourced raw from Odisha and Chhattisgarh, with tubes and components manufactured in Ludhiana and Chennai. Priced higher at an estimated Rs 200-350 per kilogram for bicycle-grade tubes, aluminum is favored for lighter frames, rims, and components in mid-to-high-end and performance bicycles. Rubber, essential for tires, inner tubes, handlebar grips, and pedal treads, is harvested as natural rubber latex by rubber plantation workers in Kerala and Tamil Nadu, costing approximately Rs 230-260 per kilogram as of June 2026. Plastics, derived from raw plastic granules produced in Gujarat and Maharashtra, with an estimated cost of Rs 80-150 per kilogram for various grades, are used for mudguards, chain guards, reflectors, and certain pedal bodies. For high-end performance bicycles, carbon fiber, primarily imported and then processed in India, offers exceptional lightness and strength, with composite materials costing an estimated Rs 2000-5000+ per kilogram. Montra notably introduced India's first carbon frame bicycle, showcasing its application in advanced designs."
+    },
+    {
+      "title": "How Bicycle Is Made — Step by Step",
+      "content": "The manufacturing of a bicycle involves several distinct stages, each performed by skilled workers using specialized equipment. \n1.  **Frame Fabrication:** Machinists first cut and shape steel or aluminum tubes to precise dimensions using CNC cutting machines and tube bending machines. Subsequently, robotic welding station operators meticulously join these shaped tubes to form the bicycle frame, ensuring structural integrity.\n2.  **Component Production:** Tool and die makers, mould operators, and foundry workers then produce a myriad of other parts. They utilize stamping presses for metal components like chainrings, injection molding machines for plastic parts such as mudguards, and die casting machines for intricate metal components. Tire vulcanizing machine operators are responsible for shaping and curing rubber into durable tires and inner tubes.\n3.  **Finishing and Coating:** Once frames and metal components are formed, painters apply protective and aesthetic coatings in controlled paint booths. Electroplaters treat certain metal parts in electroplating tanks to enhance durability and appearance. Decal applicators then carefully apply brand logos and graphics to the finished surfaces.\n4.  **Assembly Line Integration:** On automated assembly lines, assembly line workers and fitters begin the crucial process of bringing all components together. They use precision tools like torque wrenches to secure parts and wheel truing stands to ensure wheels are perfectly balanced before attaching them, along with handlebars, drivetrains, and brake systems, to the frame.\n5.  **Quality Assurance and Packaging:** After assembly, quality assurance technicians meticulously inspect each bicycle using testing jigs to ensure all parts function correctly and meet safety standards. Finally, packaging operators prepare the completed bicycles for shipment, using packaging machinery to protect them during transit to distribution centers and retail outlets."
+    },
+    {
+      "title": "What It Costs to Bring Bicycle to You",
+      "content": "The final retail price of a bicycle reflects a cumulative build-up of costs from raw materials through manufacturing, assembly, and distribution. While specific cost breakdowns per stage are proprietary, the journey begins with the cost of raw materials. For instance, bicycle-grade steel tubes cost an estimated Rs 80-150 per kilogram, aluminum tubes Rs 200-350 per kilogram, natural rubber Rs 230-260 per kilogram (as of June 2026), and various plastic grades Rs 80-150 per kilogram. High-end carbon fiber composite materials can cost significantly more, ranging from Rs 2000-5000+ per kilogram. To these material costs, component manufacturers add value through processes like cutting, welding, molding, and finishing, incurring labor, energy, and machinery expenses. Assembly plant operators then further add value through the intricate process of fitting all components, painting, and quality checks. Subsequently, logistics managers and truck drivers incur costs for transporting the finished bicycles from manufacturing hubs like Ludhiana and Chennai to distribution centers and retail points across India. Additional expenses are factored in for marketing, brand building, and the retailer's margin, which covers their operational costs and profit. The final retail price for a bicycle in India can range broadly from approximately Rs 4,000 for basic models to over Rs 2,00,000 for high-performance or electric variants. As of September 2025, the Indian government rationalized the Goods and Services Tax (GST) rate on non-motorized bicycles (HSN 8712) and all bicycle parts and accessories (HSN 8714) to 5%, a reduction from the previous 12%, aiming to promote affordability and sustainable mobility for consumers."
+    },
+    {
+      "title": "What Bicycle Costs in Shops — Price Research",
+      "content": "When purchasing a bicycle in India, consumers encounter a range of prices depending on the brand, type, and retail channel. For example, a Hero Sprint Blunt Mountain Bike (29T S/Speed DUALDISC) was observed at a price of Rs 10,000.0 in June 2026, commonly available through online retailers and local cycle shops across Pan-India. For a slightly more advanced option, the Firefox 27.5 Tremor X 21-Speed D/Disc Bicycle was priced at Rs 15,740.0, available from specialized outlets like Just Buy Cycles and various online retailers nationwide during the same period. For younger riders, a BSA Champ 16T Kids Bicycle retailed for Rs 4,745.0, found at exclusive brand showrooms like Track & Trail and general local cycle shops across India. These price variations between channels can be attributed to several factors. Online retailers often benefit from lower overheads, such as reduced rent and staff costs compared to physical stores, allowing them to offer competitive pricing. Specialized brand showrooms like Track & Trail or Just Buy Cycles might offer a premium experience, including expert advice, professional assembly by cycle mechanics, and dedicated after-sales service, which can be reflected in their pricing. Local cycle shops, while offering convenience and immediate availability, may have varying pricing strategies based on their individual business models, location-specific operational costs, and the level of personalized service they provide, often including assembly and basic maintenance support at the point of sale."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Top Bicycle Manufacturers in India: A Comprehensive Guide - Radiant Cycles",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsX5G0dhiqwmQKXNV-SSzRcxPQOYGvOnccExi1GF2sTMrNmI-4NQIZ4Q4fSDqWAqqHOnCqgZkdTFYcj1GHtwCddUSOK96V2ZRCM8jgIWi5GxmUTH7lAOoJtn_ARGJ2jSoAQjk-15EbJQ7TE3_rFioWzrmkmQ3X27GV3gptEd1XXQ=="
+    },
+    {
+      "title": "Promoting Bicycles in India",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7rbGH10qmKUE1ek4qGmIBIjc9aAC8OwqHMFGo7ejIrvWESP3lopdtIzRf6HX6nogePwBJzY_8y3Dj93AU76SDJ9fhLwPo7z-p9ai_lSZPBYiiq_X0G4UVWWnnBGhYLLnelV2YkHwVypYTtpe1yTYQX2aQKVRM_mMS70BbVOeRsbZwGzaZilLhVsegw12ee0dXFSqANFma"
+    },
+    {
+      "title": "India Bicycle Market Size, Share, Growth and Forecast 2034 - IMARC Group",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENjLY0a7CeEU5rASMnpEz8aiUmtvOvA58wyjirgBml4sglH3lgF1syUD83n55_T68aFNhKXY0btzodHxVQwq2foTagjut6yT2wToSVvrak0RcQEyhaIksrD7Ccnc7KODmVfmsp8t7AVhP1"
+    },
+    {
+      "title": "India Bicycle Market Forecast & Industry Analysis to 2030 - Ken Research",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtlsaSPSPBResEUkcL7IPyeFd8A91ZbleL3qt_ejB7eQBQXPPddCozG23X0W1n_-CethF9bczjXkLPk7T4b0vhoX2bXnzgro7Yz_68hyapOij3xRaIT3h-1GYDc9rh5h2KovhbC5-BVdVYGOjJXSoZ8YxuCl_mY1bkJvao"
+    },
+    {
+      "title": "Top 9 Online Cycling Stores in India!",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7oDGrsgfjxEiu6lM_VhCFXqM9LZ55TOFiM-jIBIXEtefLyyCo-XHVp_AaoVxRVriMh7rhhyDCTop4jpbsohrNRrB5_MAa0HLVidHwjKzn8ysIo6GNirFix0CNuBdqlsBgzeoWqLfRp5iX1Xd_qw9rOPY3y6po"
+    },
+    {
+      "title": "Export of Bicycle's Components from India | TaxTMI",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8-vRTTyOqfrW5ImYozfI_8rjcSmJXkscO_p-brNH2KfiwHk60icyv54A0GIjuMq9mHG8EauonPkVLiambwLJfP_Vhn6PagFpn8Ql6poPmb2SToj1Sr67u1l6XcuPrPHgknaFgVdulzUl2fQ=="
+    },
+    {
+      "title": "The Rise and Fall of Atlas Cycles | by Anurag Shukla - Medium",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJz9ec7LgqmopaHr2vfsPMZNB-uF9aBLTioxXJMYb1lw3icT53xWRxHsd0oOVJVAx8bB3xPLoehdWcQckahOJmLbxLuwhRpZGwu1ixzicFAk_kXitPAExzNG4C9nrhDmyNdkj14vq4XBT9rXHI9fV5YufYT0Ar3z7B4xwcrQHsc3RmfvcGlA_zkGE="
+    },
+    {
+      "title": "GST on Bicycles – Tax Rates, Charges and Pricing Impact Guide - Shriram Finance",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEf3OynhTJWeFWjSOi7tRmY2qSf6gfpJmvgUt2KnJJbgm7KpDMeDT6VljDX5FIxyGl58esTt0BZQbrFhlP07SInVoVs2oJBwhPM73fjQkRkTN-9VIU3pUPr7rpr_LI1ao307ciXZJK_wejgPS4="
+    },
+    {
+      "title": "GST Rate and HSN Code for Cycles and Bicycle Parts - Bajaj Finserv",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtKvIuklTJiEU2hqyeNE8RnGo2ZteUQOG8yzl7v_SN2th2b2TWZ5ys_yaaPsMOM5-8UcFE-vEO5h0OvahwzlEPAHpMg0Sc1hrWNsL7JiL9BMAuS6-WO6Hrx2_GDttXfObEixc="
+    },
+    {
+      "title": "India Bicycle Market Size and Growth Forecast 2030 - TechSci Research",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxOiUAKmvL2qWpDLt_hSxFBXU2GPp1IDjLFyExmFi21674I8zrsUo5gN3z2QVix4dNy_qFweJd5PqddIPpZmDozIlhqQl2dI830iz9FTT8tnUgbCM7toIH39uhv2z8nwv5thG51O5o0Z6WPXc-cOCLdNzvHDnDdueSAFcQGPictkY="
+    }
+  ]
+}

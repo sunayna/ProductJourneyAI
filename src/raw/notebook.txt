@@ -1,0 +1,434 @@
+{
+  "product": "Notebook",
+  "overview": {
+    "name": "Notebook",
+    "category": "household",
+    "description": "Notebooks are essential stationery products widely used in India by students, professionals, and institutions for writing, drawing, and record-keeping. The Indian notebook market is characterized by a mix of organized players offering branded products and a large unorganized sector providing affordable options. The industry relies heavily on paper manufacturing, which has significant environmental considerations in India.",
+    "origin_in_india": "The heartland of paper and notebook manufacturing in India spans states like Maharashtra, Uttar Pradesh, Gujarat, West Bengal, Andhra Pradesh, Tamil Nadu, Karnataka, and Odisha, driven by raw material availability and industrial infrastructure. [cite: 3, 24, 31, 38]",
+    "key_organisations": [
+      "ITC Classmate",
+      "Navneet Education Limited",
+      "JK Paper Limited",
+      "Century Pulp and Paper",
+      "Ballarpur Industries Limited (BILT)",
+      "Tamil Nadu Newsprint and Papers Limited (TNPL)",
+      "West Coast Paper Mills Limited",
+      "Emami Paper Mills Limited",
+      "Pudumjee Pulp & Paper Mills Ltd."
+    ],
+    "historical_note": "The first paper factory in India was established in 1812 in Serampore, West Bengal. Mechanized paper manufacturing began in the 1830s near Calcutta. The Titagarh Paper Mills, built in 1882, became the first large-scale paper manufacturing plant in India. [cite: 43] ITC launched its Classmate brand in 2003, while Navneet Education, founded in 1959, expanded into stationery manufacturing with a facility in Daman in 1994-1995. [cite: 5, 6, 23, 34]"
+  },
+  "raw_materials": [
+    {
+      "name": "Paper (Writing & Printing Grade)",
+      "source_region": "Maharashtra, Uttar Pradesh, Gujarat, West Bengal, Andhra Pradesh, Tamil Nadu, Karnataka, Odisha, Punjab, Haryana, Assam. [cite: 3, 24, 31, 38]",
+      "percentage_share": null,
+      "cost_per_unit": "Rs 70-82 per kg (for 60-90 GSM, as of July 2025) [cite: 26], Rs 49-77 per kg (for Maplitho paper, as of April 2026) [cite: 27]",
+      "notes": "Sourced from domestic paper mills. Raw material for paper includes wood pulp, bamboo, bagasse, wheat straw, and recycled paper. [cite: 4, 32, 43]"
+    },
+    {
+      "name": "Pulpwood",
+      "source_region": "Forest-rich regions of India, often through farm forestry programs. [cite: 22]",
+      "percentage_share": null,
+      "cost_per_unit": "Rs 8,000-15,000 per tonne (FY25-26) [cite: 47]",
+      "notes": "Wood pulp prices surged to USD 650 per metric ton (approx. Rs 54,000 per MT) in April 2026 due to supply chain disruptions and geopolitical issues. [cite: 32]"
+    },
+    {
+      "name": "Bagasse/Agricultural Waste",
+      "source_region": "Sugarcane producing states like Uttar Pradesh, Maharashtra, Karnataka, Tamil Nadu. [cite: 3, 31, 32]",
+      "percentage_share": null,
+      "cost_per_unit": "null",
+      "notes": "Cost-effective raw material, but subject to seasonal availability. [cite: 32] TNPL uses bagasse for paper production. [cite: 7]"
+    },
+    {
+      "name": "Cover Material (Cardstock/Paperboard)",
+      "source_region": "Paper mills across India. [cite: 4]",
+      "percentage_share": null,
+      "cost_per_unit": "Rs 3.50 per board (for 220 GSM laminated with printing, as of Oct 2025, for a 295x210mm notebook) [cite: 43]",
+      "notes": "Often laminated and pre-printed with designs. Recycled materials are also used. [cite: 4]"
+    },
+    {
+      "name": "Stitching Wire/Binding Wire",
+      "source_region": "Manufacturers in Maharashtra (Vasai), Gujarat (Vapi), West Bengal (Kolkata), Delhi. [cite: 15, 33, 34, 36, 37, 41]",
+      "percentage_share": null,
+      "cost_per_unit": "Rs 80-120 per kg (Galvanised Iron, SWG 18-24, as of June 2026) [cite: 15, 33, 34, 36, 41]",
+      "notes": "Used for saddle stitching or center pinning. Available in various gauges (e.g., 18-30 SWG). [cite: 15, 33, 34]"
+    },
+    {
+      "name": "Glue/Adhesive",
+      "source_region": "Chemical manufacturers across India.",
+      "percentage_share": null,
+      "cost_per_unit": "null",
+      "notes": "Used for perfect binding or securing covers. [cite: 4, 28]"
+    }
+  ],
+  "supply_chain": [
+    {
+      "stage": "Raw Material Procurement",
+      "location": "Forests (for wood/bamboo), agricultural fields (for bagasse/wheat straw), urban centers (for waste paper) across India.",
+      "workers_involved": [
+        "Forestry workers",
+        "Farmers",
+        "Waste pickers",
+        "Logistics coordinators",
+        "Truck drivers"
+      ],
+      "description": "Wood and bamboo are harvested from forests, often through farm forestry programs. Agricultural residues like bagasse and wheat straw are collected from farms. Waste paper is collected from various sources by waste pickers and recycling centers. These raw materials are then transported to paper mills. [cite: 4, 22, 32, 43]",
+      "key_equipment": [
+        "Chainsaws",
+        "Harvesters",
+        "Tractors",
+        "Baling machines",
+        "Trucks"
+      ],
+      "cost_added_inr": "Rs 8,000-15,000 per tonne (for pulpwood) [cite: 47]"
+    },
+    {
+      "stage": "Pulping and Paper Manufacturing",
+      "location": "Major paper mills in Maharashtra (e.g., Pune, Ballarpur), Gujarat (e.g., Vapi, Morbi), Uttar Pradesh (e.g., Saharanpur, Lalkuan), Andhra Pradesh (e.g., Sarapaka, Rajahmundry), Tamil Nadu (e.g., Kagithapuram), Karnataka (e.g., Dandeli), West Bengal (e.g., Titagarh), Odisha (e.g., Rayagada). [cite: 3, 7, 19, 26, 27, 31, 38, 39, 43]",
+      "workers_involved": [
+        "Pulp mill operators",
+        "Chemical engineers",
+        "Machine operators (paper machine)",
+        "Quality control technicians",
+        "Maintenance engineers",
+        "Electrical technicians",
+        "Environmental compliance officers"
+      ],
+      "description": "Raw materials are processed into pulp through mechanical or chemical methods. The pulp is then bleached (often using Elemental Chlorine Free - ECF technology) and fed into large paper machines. These machines dewater the pulp, press it, and dry it to form large rolls of paper. Water consumption is high, but the industry has significantly reduced it. [cite: 4, 8, 22, 32, 43]",
+      "key_equipment": [
+        "Digesters",
+        "Refiners",
+        "Bleaching towers",
+        "Fourdrinier machines",
+        "Drying cylinders",
+        "Calenders",
+        "Slitters/Rewinders"
+      ],
+      "cost_added_inr": "Rs 40-50 lakh per TPD (for capital expenditure) [cite: 2]. Operational costs for paper manufacturing can be significant, with raw material (pulp) being a major component. [cite: 29, 32]"
+    },
+    {
+      "stage": "Paper Conversion and Printing",
+      "location": "Paper mills or specialized printing and stationery manufacturing units across industrial clusters in states like Maharashtra, Gujarat, Delhi-NCR, Tamil Nadu, West Bengal. [cite: 4, 28, 37, 39]",
+      "workers_involved": [
+        "Paper handlers",
+        "Guillotine operators",
+        "Printing machine operators",
+        "Pre-press technicians",
+        "Designers",
+        "Quality checkers"
+      ],
+      "description": "Large paper rolls are cut into sheets of specific sizes. These sheets are then ruled (single line, double line, square, unruled) and sometimes printed with logos or designs for covers using precision printing presses. Covers are also printed and often laminated. [cite: 4, 28, 43]",
+      "key_equipment": [
+        "Sheet cutting machines",
+        "Ruling machines",
+        "Offset printing presses",
+        "Digital printing machines",
+        "Lamination machines"
+      ],
+      "cost_added_inr": "Rs 1-5 per notebook (for printing and cutting, depending on complexity and volume)"
+    },
+    {
+      "stage": "Notebook Assembly and Finishing",
+      "location": "Small, medium, and large-scale notebook manufacturing units across India, including MSMEs in industrial areas and smaller towns. [cite: 28, 49]",
+      "workers_involved": [
+        "Machine operators (stitching/binding)",
+        "Assemblers",
+        "Edge squaring operators",
+        "Quality control inspectors",
+        "Packaging workers",
+        "Supervisors"
+      ],
+      "description": "The cut and ruled paper sheets are collated, covers are added, and then bound using various methods like saddle stitching (pinning), perfect binding (gluing), or spiral binding. Edges are squared for a neat finish. Quality control checks are performed at various stages. [cite: 4, 28, 48, 49]",
+      "key_equipment": [
+        "Collating machines",
+        "Stitching machines (center pin, thread binding)",
+        "Perfect binding machines",
+        "Spiral binding machines",
+        "Edge squaring machines",
+        "Pressing machines"
+      ],
+      "cost_added_inr": "Rs 2-10 per notebook (for assembly, binding, and finishing, depending on binding type and automation level) [cite: 18, 43]"
+    },
+    {
+      "stage": "Packaging and Distribution",
+      "location": "Manufacturing units, regional warehouses, wholesale markets, retail stores across India.",
+      "workers_involved": [
+        "Packaging machine operators",
+        "Manual packers",
+        "Warehouse staff",
+        "Logistics managers",
+        "Truck drivers",
+        "Sales representatives",
+        "Retail staff"
+      ],
+      "description": "Finished notebooks are packed into bundles, cartons, and then transported to distributors, wholesalers, and retailers nationwide. This involves a vast network reaching urban and rural areas. [cite: 4, 28, 41]",
+      "key_equipment": [
+        "Shrink-wrapping machines",
+        "Carton sealing machines",
+        "Palletizers",
+        "Forklifts",
+        "Delivery vans",
+        "Trucks"
+      ],
+      "cost_added_inr": "Rs 1-5 per notebook (for packaging, logistics, and distribution margins)"
+    }
+  ],
+  "manufacturing": [
+    {
+      "step_number": 1,
+      "title": "Conceptualization and Design",
+      "description": "Market research is conducted to identify target audiences (students, professionals) and trends. Designers create mockups and prototypes, experimenting with sizes, layouts, cover art, and binding types. This stage defines the notebook's features and aesthetic. [cite: 4]",
+      "key_equipment": [
+        "CAD software",
+        "Graphic design workstations",
+        "Prototyping tools"
+      ],
+      "energy_intensity": "low",
+      "by_products": []
+    },
+    {
+      "step_number": 2,
+      "title": "Material Sourcing and Preparation",
+      "description": "Paper (writing/printing grade), cover board, binding wire, and adhesives are procured. Paper is often sourced from domestic mills, sometimes imported. Cover materials are selected based on design and durability requirements. [cite: 4]",
+      "key_equipment": [
+        "Material handling equipment",
+        "Storage facilities"
+      ],
+      "energy_intensity": "low",
+      "by_products": []
+    },
+    {
+      "step_number": 3,
+      "title": "Printing and Ruling",
+      "description": "Large sheets of paper are fed into ruling machines to print lines (single, double, square, etc.). Covers are printed with designs, branding, and sometimes laminated for durability. [cite: 4, 28]",
+      "key_equipment": [
+        "Ruling machines",
+        "Offset printing presses",
+        "Digital printing machines",
+        "Lamination machines"
+      ],
+      "energy_intensity": "medium",
+      "by_products": [
+        "Ink waste",
+        "Paper trimmings"
+      ]
+    },
+    {
+      "step_number": 4,
+      "title": "Cutting and Collating",
+      "description": "Printed and ruled paper sheets are precisely cut to the desired notebook size using automated cutting machines. These cut sheets are then collated into the required number of pages per notebook. [cite: 4, 28, 48]",
+      "key_equipment": [
+        "Automated cutting machines (guillotines)",
+        "Collating machines"
+      ],
+      "energy_intensity": "medium",
+      "by_products": [
+        "Paper trimmings"
+      ]
+    },
+    {
+      "step_number": 5,
+      "title": "Binding",
+      "description": "The collated pages and cover are bound together. Common methods include saddle stitching (using wire staples), perfect binding (using hot melt glue), or spiral binding (using metal or plastic spirals). [cite: 4, 28, 48, 49]",
+      "key_equipment": [
+        "Stitching machines (center pin, thread binding)",
+        "Perfect binding machines",
+        "Spiral binding machines"
+      ],
+      "energy_intensity": "medium",
+      "by_products": [
+        "Binding wire scraps",
+        "Glue residue"
+      ]
+    },
+    {
+      "step_number": 6,
+      "title": "Edge Squaring and Finishing",
+      "description": "After binding, the edges of the notebooks are trimmed and squared to ensure uniformity and a professional finish. This step enhances the aesthetic appeal and usability of the notebook. [cite: 4, 28, 48, 49]",
+      "key_equipment": [
+        "Edge squaring machines",
+        "Pressing machines"
+      ],
+      "energy_intensity": "low",
+      "by_products": [
+        "Paper dust",
+        "Small paper trimmings"
+      ]
+    },
+    {
+      "step_number": 7,
+      "title": "Quality Control and Packaging",
+      "description": "Finished notebooks undergo final quality checks for binding, printing, and overall finish. They are then counted, bundled, shrink-wrapped, and packed into cartons for dispatch to distributors and retailers. [cite: 4, 28, 48]",
+      "key_equipment": [
+        "Counting machines",
+        "Shrink-wrapping machines",
+        "Carton sealing machines"
+      ],
+      "energy_intensity": "low",
+      "by_products": [
+        "Packaging waste (plastic film, cardboard scraps)"
+      ]
+    }
+  ],
+  "geography": {
+    "producing_states": [
+      "Maharashtra",
+      "Uttar Pradesh",
+      "Gujarat",
+      "West Bengal",
+      "Andhra Pradesh",
+      "Tamil Nadu",
+      "Karnataka",
+      "Odisha",
+      "Punjab",
+      "Haryana",
+      "Assam"
+    ],
+    "major_clusters": [
+      "Nepanagar (Madhya Pradesh) - Newsprint",
+      "Sarapaka (Andhra Pradesh) - ITC Bhadrachalam",
+      "Kagithapuram (Tamil Nadu) - TNPL",
+      "Dandeli (Karnataka) - West Coast Paper Mills",
+      "Saharanpur (Uttar Pradesh) - Star Paper",
+      "Pune (Maharashtra) - Pudumjee Pulp & Paper Mills",
+      "Vapi (Gujarat) - Shree Ajit Pulp & Paper Limited",
+      "Morbi (Gujarat) - Millenium Papers",
+      "Ghaziabad (Uttar Pradesh) - Notebook manufacturing units",
+      "Mumbai (Maharashtra) - Navneet Education headquarters and distribution"
+    ],
+    "trade_routes": [
+      "National Highways and railway networks connecting paper mills to major consumption centers (e.g., Delhi, Mumbai, Kolkata, Chennai, Bengaluru).",
+      "Coastal shipping for inter-state movement of raw materials and finished goods.",
+      "Local distribution networks (road transport) from wholesale hubs to retail outlets."
+    ]
+  },
+  "economics": {
+    "farm_gate_price_inr": "Rs 8,000-15,000 per tonne (for pulpwood, FY25-26) [cite: 47]",
+    "retail_price_inr": "Rs 10-260 per notebook (depending on brand, size, pages, and binding) [cite: 4, 9, 12, 13, 17, 20, 25, 30, 31, 35, 37, 39, 40, 44, 46]",
+    "cost_breakdown": [
+      {
+        "stage": "Raw Material (Paper)",
+        "cost_inr": "Rs 20-35 per notebook (for a 120-172 page notebook, based on paper cost of Rs 70-80/kg and approx 100kg paper for 300 notebooks) [cite: 18, 26, 43]",
+        "percentage_of_retail": "40-60%"
+      },
+      {
+        "stage": "Raw Material (Cover, Wire, Glue)",
+        "cost_inr": "Rs 4-8 per notebook (cover Rs 3.50, wire Rs 0.90 per 300 notebooks, glue minimal) [cite: 18, 43]",
+        "percentage_of_retail": "8-15%"
+      },
+      {
+        "stage": "Labor Cost (Manufacturing)",
+        "cost_inr": "Rs 1-3 per notebook (based on daily labor cost of Rs 2,923 for 2400 notebooks) [cite: 18, 43]",
+        "percentage_of_retail": "2-6%"
+      },
+      {
+        "stage": "Electricity/Power",
+        "cost_inr": "Rs 0.15-0.20 per notebook (based on Rs 400/day for 2400 notebooks) [cite: 18, 43]",
+        "percentage_of_retail": "<1%"
+      },
+      {
+        "stage": "Overheads (Rent, Depreciation, Maintenance)",
+        "cost_inr": "Rs 2-5 per notebook",
+        "percentage_of_retail": "4-10%"
+      },
+      {
+        "stage": "Manufacturer's Profit",
+        "cost_inr": "Rs 2-5 per notebook [cite: 18]",
+        "percentage_of_retail": "5-10%"
+      },
+      {
+        "stage": "Wholesale/Retailer Margin & Logistics",
+        "cost_inr": "Rs 5-15 per notebook",
+        "percentage_of_retail": "10-25%"
+      }
+    ],
+    "gst_rate": "0% (on notebooks, exercise books, and registers after September 22, 2025) [cite: 12]",
+    "gst_notes": "Prior to September 22, 2025, notebooks attracted 12% GST. [cite: 12, 20, 40] However, raw materials like paper and printing services are taxed at 18% GST. This creates an inverted duty structure, making manufacturers ineligible for claiming Input Tax Credit (ITC) on raw materials, which can lead to embedded taxes in the production cost and potentially higher retail prices. [cite: 12, 27]",
+    "market_size_india": "USD 2.61 billion (2024), projected to reach USD 4.02 billion by 2030 with a CAGR of 5.64%. [cite: 16] Other estimates suggest USD 6 billion by 2025 with 5-15% CAGR. [cite: 15] Paper stationery accounts for about 42% of the market (approx. Rs 162 billion). [cite: 15]"
+  },
+  "retail_prices": [
+    {
+      "brand": "Classmate",
+      "product_name": "Single Line Spiral Notebook",
+      "pack_size": "180 Pages, A4 Size (30 x 21 cm)",
+      "price_inr": 156.0,
+      "retailer": "Zepto (online grocery/stationery delivery)",
+      "location": "Kolkata (online delivery to various cities)",
+      "date": "June 2026"
+    },
+    {
+      "brand": "Classmate",
+      "product_name": "School Notebook",
+      "pack_size": "140 Pages, A4 Size, Single Line",
+      "price_inr": 40.92,
+      "retailer": "Rapid Delivery Services (online)",
+      "location": "India (online delivery)",
+      "date": "June 2026"
+    },
+    {
+      "brand": "Navneet Youva",
+      "product_name": "Case Bound Note Book for Executives",
+      "pack_size": "240 Pages, A4 Size (14.8 x 21 cm), Single Line",
+      "price_inr": 230.0,
+      "retailer": "Navneetstore.com (official online store)",
+      "location": "India (online delivery)",
+      "date": "June 2026"
+    }
+  ],
+  "sustainability": {
+    "carbon_footprint": "High, primarily due to energy-intensive pulping and paper manufacturing processes. Efforts are being made to integrate renewable energy sources. [cite: 13, 32]",
+    "water_usage": "High in paper manufacturing, but the Indian paper industry has achieved an impressive 80% reduction in water consumption in recent years, with ongoing efforts towards zero-liquid discharge (ZLD) mechanisms. [cite: 8, 13, 22, 35]",
+    "key_concerns": [
+      "Raw material scarcity (wood and bamboo) leading to reliance on imports or agro-residues. [cite: 24, 32]",
+      "Water pollution from effluent discharge, though stringent norms and treatment technologies are being adopted. [cite: 32]",
+      "High energy consumption in paper mills, driving efforts towards energy efficiency and renewable sources. [cite: 8, 32]",
+      "Waste generation from paper trimmings and packaging materials."
+    ],
+    "certifications_schemes": [
+      "FSC (Forest Stewardship Council) certification for sustainably sourced paper. [cite: 39]",
+      "ECF (Elemental Chlorine Free) technology for bleaching pulp to reduce toxicity. [cite: 21, 22]",
+      "Ozone treatment for industrial effluents. [cite: 21]",
+      "Farm forestry programs by paper manufacturers to plant trees and ensure raw material availability. [cite: 22]",
+      "Increased use of recycled fiber and agricultural waste (bagasse, wheat straw) to reduce reliance on virgin wood pulp. [cite: 32, 43]"
+    ]
+  },
+  "government_policy": {
+    "key_schemes": [
+      "Prime Minister's Employment Generation Programme (PMEGP): Offers subsidies (up to 35% for rural, 25% for urban) and project funding up to Rs 25 lakh for new manufacturing entrepreneurs, including paper cup units (relevant for small-scale stationery). [cite: 2, 47, 48]",
+      "Stand-Up India Scheme: Provides loans between Rs 10 lakh to Rs 1 crore for women and SC/ST entrepreneurs for greenfield projects. [cite: 47]",
+      "MUDRA Loans under PMMY (Pradhan Mantri Mudra Yojana): Offers loans up to Rs 10 lakh (Shishu, Kishore, Tarun categories) for micro-enterprises. [cite: 47]",
+      "Technology Upgradation Fund (TUF) Scheme: Benefits are being extended to the paper industry to encourage modernization and combat technology obsolescence. [cite: 42]",
+      "National Packaging Initiative: Focuses on promoting sustainable packaging solutions and improving efficiency, indirectly benefiting paperboard and cover material production. [cite: 36]",
+      "MSME Udyam Registration: Facilitates access to various government support and subsidies for Micro, Small, and Medium Enterprises. [cite: 2, 48]"
+    ],
+    "regulatory_body": "Central Pollution Control Board (CPCB) - Sets environmental norms for paper industries. [cite: 2, 38]",
+    "import_export_policy": "The Indian government imposed a Minimum Import Price (MIP) of Rs 67,220 per ton on virgin multi-layer paperboard (VPB) effective until March 31, 2026, to protect domestic mills. [cite: 27, 28, 38] There are concerns about large importers flooding Indian markets with finished notebooks from ASEAN countries. [cite: 27] The industry has recommended 0% GST for wood procured by paper manufacturers and 18% GST on the import of paper to discourage dumping. [cite: 27]"
+  },
+  "sources": [
+    {
+      "title": "Paper Manufacturing Plant Cost in India: 2026 Capex Guide",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSbFSPyOV-MnccxLjug6iazqZdrksEgCeV1hB8xYpYoDzty6WXGCHrYnz05qJCqO_XEZ8OTFr-zrcs3Q4TsM6PB-Le1nNdqWvOMrzXDfdaX_-tU56hZugC44_5pPXpmYwbuB0BJQRm9MVJaN6f7dCXQN4O4cpiSeM6sG20hExv",
+      "source_type": "industry",
+      "year": 2026
+    },
+    {
+      "title": "Geographical Distribution of the Paper Industry in India - Vedantu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNz5rA-V-WSMmmzNIy5W5PsQHxgu_gVY2KbwWjDhcfB0wbTdPRFmuX40IQ2QPyI1SwB1QJMvM-Lso7uccovh9LTPJmGcm8WYSlSUH_Gb-PKdeI9V__w4TyDW89HvKJVm3I0RADT29DXhkPr5YIqtNatytSPlAxfLvCMXc8LTyYTwFKBSgkNVt9cgQ-rYAuOckvUCLJuHgs8t0=",
+      "source_type": "academic",
+      "year": null
+    },
+    {
+      "title": "The Art of Creating: How are Notebooks Manufactured in India - Quillkart",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9MoNVKUPJJmFHIp_7UgmaV588v1DnCurk0146NN2X52bBLYkXoG8UNkiP6R71sAxIhLhwX8YTJQY0-ziOO5Om9qOtEm_Od0ad3WLzBqYNwtV_TTu-QSG9jI66RBdtQ8HQhcSWYxR6d4SClPkqHiVDgvkgrlGvrMNZ9KlXnfC3jQQ4TOv5yIQtg7sPUiLk3JWiWQ==",
+      "source_type": "industry",
+      "year": 2024
+    },
+    {
+      "title": "Navneet Education - Grokipedia",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd0rZsV1XjhMGmsezMRpPcNY3buQif4fmVIVyNISJuDRuN85BCZhhrHMqtfE4fZ-Ji6D0NepyCT26jrHXBz06ai2MClcpWfGW2TBjsFReBlYcj0WgPWzPlgn-1zEYY8Lq0BgectrbrWw==",
+      "source_type": "academic",
+      "year": null
+    }
+  ]
+}

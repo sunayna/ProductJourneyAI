@@ -45,10 +45,12 @@ class GeographyInfo(BaseModel):
     trade_routes: Optional[List[str]] = None
 
 
+from typing import Union
+
 class CostBreakdownItem(BaseModel):
     stage: str
-    cost_inr: str
-    percentage_of_retail: Optional[float] = None
+    cost_inr: Optional[str] = None
+    percentage_of_retail: Optional[Union[str, float]] = None
 
 
 class Economics(BaseModel):

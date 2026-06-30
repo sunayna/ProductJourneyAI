@@ -1,0 +1,375 @@
+{
+  "product": "Milk",
+  "overview": {
+    "name": "Milk",
+    "category": "food",
+    "description": "Milk is a staple everyday product in India, which holds the distinction of being the world's largest milk producer, contributing approximately 24% of the global output. The dairy sector is a crucial component of the Indian economy, contributing about 5% to the national GDP and providing a livelihood for over 80 million farmers, predominantly women. Most of the milk produced is consumed domestically, with a per capita availability of 471 grams per day in 2023-24. [cite: 6, 24, 25]",
+    "origin_in_india": "The heartland of milk production in India spans across several states, with Uttar Pradesh, Rajasthan, Andhra Pradesh, Gujarat, and Punjab being the top five contributors. The 'White Revolution' (Operation Flood), launched in 1970, transformed India into a self-sufficient and then the world's largest milk producer, establishing a robust cooperative dairy network. [cite: 2, 4, 7, 9, 10, 20, 41]",
+    "key_organisations": [
+      "Amul (Gujarat Cooperative Milk Marketing Federation - GCMMF)",
+      "Mother Dairy",
+      "Nandini (Karnataka Cooperative Milk Producers' Federation - KMF)",
+      "Aavin (Tamil Nadu Cooperative Milk Producers' Federation)",
+      "Parag Dairy (Uttar Pradesh)",
+      "Saras Dairy (Rajasthan Cooperative Dairy Federation - RCDF)",
+      "National Dairy Development Board (NDDB)",
+      "Food Safety and Standards Authority of India (FSSAI)"
+    ],
+    "historical_note": "Operation Flood, spearheaded by Dr. Verghese Kurien from 1970, revolutionized India's dairy industry by creating a national milk grid, linking rural milk producers with urban consumers through a cooperative structure. This initiative made India the world's largest milk producer. [cite: 4, 5, 7, 34, 41]"
+  },
+  "raw_materials": [
+    {
+      "name": "Cow Milk (raw)",
+      "source_region": "Across India, majorly Uttar Pradesh, Rajasthan, Madhya Pradesh, Punjab, Haryana, Gujarat, Maharashtra, Andhra Pradesh, Karnataka, Tamil Nadu, Bihar.",
+      "percentage_share": 43.0,
+      "cost_per_unit": "Rs 36.7 per litre (2025-26 average farm-gate price)",
+      "notes": "Predominant breeds include indigenous (Gir, Rathi, Tharparkar, Kankrej) and crossbreds (Holstein Friesian, Jersey). [cite: 2, 4, 25, 34]"
+    },
+    {
+      "name": "Buffalo Milk (raw)",
+      "source_region": "Across India, majorly Uttar Pradesh, Punjab, Haryana, Gujarat, Andhra Pradesh.",
+      "percentage_share": 48.0,
+      "cost_per_unit": "Rs 49.2 per litre (2025-26 average farm-gate price)",
+      "notes": "Murrah buffaloes are a high-yielding breed. Buffalo milk has higher fat content. [cite: 2, 4, 9, 10, 25]"
+    },
+    {
+      "name": "Goat Milk (raw)",
+      "source_region": "Arid and semi-arid regions of India.",
+      "percentage_share": 4.0,
+      "cost_per_unit": null,
+      "notes": "Contributes a smaller but significant portion, especially in certain regions. [cite: 4]"
+    },
+    {
+      "name": "Cattle Feed & Fodder",
+      "source_region": "Agricultural regions across India.",
+      "percentage_share": null,
+      "cost_per_unit": "Varies significantly, but rising costs are a major input for farmers. [cite: 4, 5, 8, 13, 24, 38]",
+      "notes": "Includes green fodder, dry fodder, and concentrate feed. Fodder scarcity is a concern due to shrinking grazing lands and erratic monsoons. [cite: 28]"
+    }
+  ],
+  "supply_chain": [
+    {
+      "stage": "Dairy Farming/Production",
+      "location": "Rural areas across India, e.g., Meerut, Muzaffarnagar, Bulandshahr, Aligarh (Uttar Pradesh); East Godavari, Chittoor, Guntur (Andhra Pradesh). [cite: 7, 10]",
+      "workers_involved": [
+        "Dairy farmers (smallholder, marginal)",
+        "Farmhands",
+        "Cattle rearers",
+        "Veterinary assistants"
+      ],
+      "description": "Farmers milk cows and buffaloes, either manually or using milking machines. Animals are fed and cared for. Emphasis is on clean milk production practices. [cite: 44, 45]",
+      "key_equipment": [
+        "Milking pails",
+        "Milking machines",
+        "Chaff cutters",
+        "Fodder choppers"
+      ],
+      "cost_added_inr": "Rs 36.7-49.2 per litre (farm-gate price, depending on milk type) [cite: 19]"
+    },
+    {
+      "stage": "Collection",
+      "location": "Village-level Milk Collection Centers (MCCs) or Dairy Cooperative Societies (DCS) in rural areas. [cite: 5, 12, 42, 44, 45]",
+      "workers_involved": [
+        "Milk collection agents",
+        "Society secretaries",
+        "Milk testers",
+        "Data entry operators"
+      ],
+      "description": "Farmers deliver milk to collection centers. Milk is weighed, tested for fat and Solids-Not-Fat (SNF) content to determine payment, and sometimes pre-chilled. [cite: 5, 12, 44, 45]",
+      "key_equipment": [
+        "Weighing scales",
+        "Lactometers",
+        "Fat testing machines (e.g., Milko-tester)",
+        "Automatic Milk Collection Systems (AMCS)",
+        "Stainless steel milk cans (40 litre)"
+      ],
+      "cost_added_inr": "Rs 1-2 per litre (for testing, initial handling, administrative overhead)"
+    },
+    {
+      "stage": "Chilling & Transportation to Processing Plant",
+      "location": "Bulk Milk Coolers (BMCs) at village/block level, chilling centers, and transportation routes across states. [cite: 5, 12, 19, 31, 36]",
+      "workers_involved": [
+        "Chilling plant operators",
+        "Tanker drivers",
+        "Helpers",
+        "Logistics coordinators"
+      ],
+      "description": "Raw milk is rapidly cooled to 4°C or lower at BMCs to inhibit bacterial growth. It is then transported in insulated, temperature-controlled stainless steel tankers to larger processing plants. [cite: 3, 5, 12, 23, 31, 43]",
+      "key_equipment": [
+        "Bulk Milk Coolers (BMCs)",
+        "Insulated milk tankers (stainless steel, 2,000-40,000 litre capacity)",
+        "Can washers"
+      ],
+      "cost_added_inr": "Rs 3-5 per litre (for chilling, fuel, vehicle maintenance, labor)"
+    },
+    {
+      "stage": "Processing",
+      "location": "Dairy processing plants in major cities and dairy clusters across India, including Anand (Gujarat), Delhi-NCR, Mumbai, Bengaluru, Chennai, Lucknow. [cite: 2, 7, 10, 14, 24, 41]",
+      "workers_involved": [
+        "Dairy technologists",
+        "Plant operators",
+        "Quality control chemists",
+        "Packaging machine operators",
+        "Maintenance staff",
+        "Sanitation workers"
+      ],
+      "description": "Milk undergoes reception, filtration, clarification, standardization (adjusting fat/SNF content), pasteurization (HTST at 72°C for 15s or UHT at 135-150°C for 2-4s), homogenization, and then packaging. [cite: 3, 21, 23, 43, 45]",
+      "key_equipment": [
+        "Plate Heat Exchangers (PHE)",
+        "Homogenizers",
+        "Cream separators",
+        "Filtration units",
+        "Storage tanks",
+        "Packaging machines (pouch fillers, Tetra Pak machines)"
+      ],
+      "cost_added_inr": "Rs 5-8 per litre (for energy, labor, chemicals, depreciation, quality control)"
+    },
+    {
+      "stage": "Distribution & Retail",
+      "location": "Warehouses, distribution centers, and various retail outlets (kirana stores, supermarkets, hypermarkets, online platforms) across urban and rural India. [cite: 33]",
+      "workers_involved": [
+        "Warehouse managers",
+        "Delivery drivers",
+        "Sales representatives",
+        "Retail staff",
+        "Merchandisers"
+      ],
+      "description": "Packaged milk is transported from processing plants to regional warehouses and then to retail points using refrigerated vans. It is stored in chillers and sold to consumers. [cite: 31, 36]",
+      "key_equipment": [
+        "Refrigerated delivery vans",
+        "Cold storage units",
+        "Retail display chillers",
+        "Point-of-sale (POS) systems"
+      ],
+      "cost_added_inr": "Rs 8-12 per litre (for logistics, marketing, retail margin, cold chain maintenance)"
+    }
+  ],
+  "manufacturing": [
+    {
+      "step_number": 1,
+      "title": "Reception and Pre-processing",
+      "description": "Raw milk arriving at the dairy plant is received, weighed, and sampled for quality checks (fat, SNF, adulterants, microbial load). It is then filtered to remove physical impurities and pre-heated to about 40°C for standardization. [cite: 43, 45]",
+      "key_equipment": [
+        "Weighing bowls",
+        "Sampling equipment",
+        "Plate Heat Exchangers (PHE) for pre-heating",
+        "Filters"
+      ],
+      "energy_intensity": "low",
+      "by_products": []
+    },
+    {
+      "step_number": 2,
+      "title": "Standardization and Homogenization",
+      "description": "Milk fat and SNF content are adjusted to meet specific product standards (e.g., toned, full cream). The milk is then heated to around 60°C and passed through a homogenizer at high pressure (e.g., 150-250 bar) to break down fat globules, preventing cream separation and ensuring a uniform texture. [cite: 43, 45]",
+      "key_equipment": [
+        "Cream separators",
+        "Standardization units",
+        "Homogenizers"
+      ],
+      "energy_intensity": "medium",
+      "by_products": [
+        "Cream (separated during standardization)"
+      ]
+    },
+    {
+      "step_number": 3,
+      "title": "Pasteurization",
+      "description": "The milk is heated to a specific temperature for a set time to kill pathogenic microorganisms while preserving nutritional quality. Common methods include High-Temperature Short Time (HTST) pasteurization (72-74°C for 15-20 seconds) or Ultra-High Temperature (UHT) pasteurization (135-150°C for 2-4 seconds for long-life milk). This is followed by rapid cooling to below 4°C. [cite: 3, 21, 23, 43]",
+      "key_equipment": [
+        "Plate Heat Exchangers (PHE)",
+        "Holding tubes",
+        "Cooling sections"
+      ],
+      "energy_intensity": "high",
+      "by_products": []
+    },
+    {
+      "step_number": 4,
+      "title": "Packaging",
+      "description": "Pasteurized and cooled milk is hygienically filled into various packaging formats such as pouches (most common in India), cartons (Tetra Pak), or bottles. Packaging ensures product safety, extends shelf life, and facilitates distribution. [cite: 21, 23, 43]",
+      "key_equipment": [
+        "Pouch filling machines",
+        "Carton filling machines (e.g., Tetra Pak machines)",
+        "Bottle filling machines"
+      ],
+      "energy_intensity": "low",
+      "by_products": [
+        "Packaging waste (plastic film, cartons)"
+      ]
+    }
+  ],
+  "geography": {
+    "producing_states": [
+      "Uttar Pradesh",
+      "Rajasthan",
+      "Andhra Pradesh",
+      "Gujarat",
+      "Punjab",
+      "Madhya Pradesh",
+      "Maharashtra",
+      "Karnataka",
+      "Bihar",
+      "Haryana",
+      "Tamil Nadu"
+    ],
+    "major_clusters": [
+      "Anand, Gujarat (home to Amul and NDDB)",
+      "Meerut, Muzaffarnagar, Bulandshahr, Aligarh (Uttar Pradesh)",
+      "East Godavari, Chittoor, Guntur, Prakasam, Krishna (Andhra Pradesh)",
+      "Delhi-NCR (major consumption and processing hub)",
+      "Pune, Nashik (Maharashtra)",
+      "Bengaluru (Karnataka)",
+      "Chennai (Tamil Nadu)"
+    ],
+    "trade_routes": [
+      "Extensive road networks for milk tankers connecting rural collection centers to urban processing plants and consumption centers.",
+      "Rail transport for bulk milk movement over long distances, a significant innovation during Operation Flood. [cite: 41]",
+      "Major trade flows from milk-surplus states (e.g., Uttar Pradesh, Punjab, Haryana, Gujarat) to milk-deficit urban centers and southern states."
+    ]
+  },
+  "economics": {
+    "farm_gate_price_inr": "Rs 36.7 per litre (cow milk, 2025-26 average) to Rs 49.2 per litre (buffalo milk, 2025-26 average) [cite: 19]",
+    "retail_price_inr": "Rs 54-80 per litre (for various types of pouch milk, May 2026) [cite: 4, 5, 8, 13]",
+    "cost_breakdown": [
+      {
+        "stage": "Raw Material (Farmer's Share)",
+        "cost_inr": "Rs 36.7-49.2 per litre",
+        "percentage_of_retail": 75.0
+      },
+      {
+        "stage": "Collection & Chilling",
+        "cost_inr": "Rs 4-7 per litre",
+        "percentage_of_retail": 7.0
+      },
+      {
+        "stage": "Processing & Packaging",
+        "cost_inr": "Rs 5-8 per litre",
+        "percentage_of_retail": 10.0
+      },
+      {
+        "stage": "Logistics & Distribution",
+        "cost_inr": "Rs 3-5 per litre",
+        "percentage_of_retail": 5.0
+      },
+      {
+        "stage": "Retailer Margin & Marketing",
+        "cost_inr": "Rs 2-4 per litre",
+        "percentage_of_retail": 3.0
+      }
+    ],
+    "gst_rate": "0% for fresh, unbranded, unflavored, raw, pasteurized, and UHT milk. [cite: 3, 10, 12]",
+    "gst_notes": "Flavored milk, condensed milk, and milk powder are typically taxed at 5% or 12% depending on processing and packaging. Dairy products like butter, cheese, and ghee have higher GST rates (5-18%). [cite: 3, 9, 10, 11]",
+    "market_size_india": "INR 21,318.5 Billion in 2025, projected to reach INR 58,034.0 Billion by 2034, exhibiting a CAGR of 11.8% during 2026-2034. [cite: 17]"
+  },
+  "retail_prices": [
+    {
+      "brand": "Amul",
+      "product_name": "Amul Gold Full Cream Milk",
+      "pack_size": "1 litre pouch",
+      "price_inr": 72.0,
+      "retailer": "Local Kirana Store/Supermarket",
+      "location": "Delhi-NCR, Uttar Pradesh",
+      "date": "May 14, 2026"
+    },
+    {
+      "brand": "Mother Dairy",
+      "product_name": "Mother Dairy Toned Milk",
+      "pack_size": "1 litre pouch",
+      "price_inr": 60.0,
+      "retailer": "Local Kirana Store/Mother Dairy Booth",
+      "location": "Delhi-NCR",
+      "date": "May 14, 2026"
+    },
+    {
+      "brand": "Nandini",
+      "product_name": "Nandini Toned Milk (Blue Packet)",
+      "pack_size": "1 litre pouch",
+      "price_inr": 46.0,
+      "retailer": "Local Kirana Store/Supermarket",
+      "location": "Karnataka",
+      "date": "March 27, 2025"
+    },
+    {
+      "brand": "Aavin",
+      "product_name": "Aavin Toned Milk (Non-card holders)",
+      "pack_size": "1 litre pouch",
+      "price_inr": 20.50,
+      "retailer": "Aavin Depot/Retailer",
+      "location": "Chennai, Tamil Nadu",
+      "date": "September 1, 2025"
+    }
+  ],
+  "sustainability": {
+    "carbon_footprint": "The dairy sector is a significant contributor to greenhouse gas emissions in India, primarily methane from enteric fermentation in ruminants. Livestock accounted for 63% of emissions from the agriculture, forestry, and other land use (AFOLU) sector in 2018, representing 7.5% of India's total emissions, with bovines contributing about 90% of livestock emissions. [cite: 11, 28, 37]",
+    "water_usage": "The total water footprint of milk production in India is approximately 1078 litres per kg, slightly higher than the global average. About 90-95% of this is for feed and fodder production. Direct water use in milk processing is around 3.31 litres per kg of milk processed, with an average total water footprint (direct and indirect, mainly electricity for processing) of 9.0 litres per kg. Groundwater over-extraction for agriculture (including fodder) is a major concern, especially in North-Western, Western, and Southern India. [cite: 11, 16, 27, 29, 32, 35]",
+    "key_concerns": [
+      "High greenhouse gas emissions (methane) from cattle.",
+      "Inefficient waste management leading to soil and water pollution.",
+      "Strain on land and water resources due to fodder cultivation and animal drinking water needs.",
+      "Biodiversity loss and soil degradation from intensive dairy farming.",
+      "Air pollution from ammonia emissions from manure.",
+      "Fodder scarcity due to urbanization, industrial expansion, and climate change.",
+      "Climate change impacts on milk yield, fertility, and animal health due to heat stress and erratic rainfall. [cite: 11, 28, 37, 38, 39]"
+    ],
+    "certifications_schemes": [
+      "FSSAI (Food Safety and Standards Authority of India) standards for milk pasteurization and quality. [cite: 3, 23]",
+      "Organic certifications (emerging for niche A2 milk market). [cite: 2]"
+    ]
+  },
+  "government_policy": {
+    "key_schemes": [
+      "National Programme for Dairy Development (NPDD) (2021-26): Aims to enhance milk quality, increase organized milk procurement, processing, value addition, and marketing. [cite: 19, 26]",
+      "Dairy Processing and Infrastructure Development Fund (DIDF): A corpus of Rs 8,004-10,881 crore under NABARD to modernize milk processing plants, create infrastructure, and provide low-interest loans to cooperatives. [cite: 13, 18, 19]",
+      "Rashtriya Gokul Mission (RGM): Focuses on enhancing milk production and productivity through genetic improvement of bovine breeds, conservation of indigenous breeds, and setting up Gokul Grams. [cite: 13, 17, 18, 19, 22, 26]",
+      "Animal Husbandry Infrastructure Development Fund (AHIDF): Incentivizes investments in dairy processing, value addition infrastructure, meat processing, and animal feed plants. [cite: 13, 26]",
+      "Supporting Dairy Cooperatives and Farmer Producer Organizations (SDCFPO): Central sector scheme with an outlay of Rs 500 Cr (2021-22 to 2025-26) to assist dairy cooperatives and FPOs. [cite: 26]"
+    ],
+    "regulatory_body": "Food Safety and Standards Authority of India (FSSAI) is the primary regulatory body for milk and dairy products. Other bodies include the Ministry of Animal Husbandry, Dairying and Fisheries, and the National Dairy Development Board (NDDB). [cite: 4, 19]",
+    "import_export_policy": "India's dairy imports are negligible and subject to tariffs to protect the domestic industry. The government allows 100% Foreign Direct Investment (FDI) in the dairy processing sector under the automatic route to foster technological advancements and investment. [cite: 4, 18]"
+  },
+  "sources": [
+    {
+      "title": "Current time information in India.",
+      "url": "https://www.google.com/search?q=time+in+India",
+      "source_type": "news",
+      "year": null
+    },
+    {
+      "title": "Top Milk-Producing States in India: Where Does Your State Stand? - | Kabilai Farm",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_e__g2Vy8fSkq9kwd_jTbMplARUyBNxYNjoPm3Amb69jP6QzuAlpmQOF85vEzf0TDSlm5kdkG8801uv3dkmF7K9gm6dyNmKa536MtfG58X3ESugFta78z7LiENoTTVB-w-B9pvLK_gC2YB5LaW7BYS0M=",
+      "source_type": "industry",
+      "year": 2026
+    },
+    {
+      "title": "Milk Pasteurization: Definition, Process, Temperature & Standards in India",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRR7n2yiB5YvMrmTThKz6uTqD_axuZfX866rVgAVoqdLWUUZPa37MeYBBj7xckfDSc2ACi3iIHAS1AEmTMHuLduL_-WsdQE5qsDsQewdW357H3bHWZc5d0IceEYFNFZA1gi-htPglAZtgKWF4dB8rBahxaZ6eyJEW92IHvMJBsCfqGptG-ib6T6eRLLoDiAe2JJk0LoLZFgEEviJunQO5w-CLh-FqESCIwO09sJhw=",
+      "source_type": "industry",
+      "year": null
+    },
+    {
+      "title": "Dairy in India - Wikipedia",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9qiGlZSYlXOFloVbo27uFIS0kiohQnUhiZW9W_H1ObnKgZHGd-8cgGspgW513aYu1m6L5FlFdapzt8rAAwU5qRq6VgX19Ax9k_85BRAOJJuX-wtSNh04RTOi6H8bpKbFkBJ2feJU=",
+      "source_type": "academic",
+      "year": 2020
+    },
+    {
+      "title": "From Farm To Table: The Journey of Milk in India - Prompt Equipments",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsqcmj8AlRxwOojcj---4QL3nUZ8Akt0z7rVyMukl0lqh_J869cdV1P5EHFuIZ6EHJky2434ufp8ArKqMoY7pCEZ4qGBJ2JReBJxwuEyjBTm8SaMU99ISK_klkrAfPtpxjh8BxF3bxR-sisJqMqXM2AKlAl92N6Iqmjbk6_HmGfzfLiP6ZLeofmrE=",
+      "source_type": "industry",
+      "year": 2024
+    },
+    {
+      "title": "Sector Profile DAIRY - Ministry of Food Processing Industries",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJGsdFX28Tq-ip8o22PB52DszmXwEgtHj0eUYWZixolhmC7WvM82NALhjJGiTIihztclaJqYo3qh3rZHMqsGuTQDlAjAaNGb2sSW4jprPDaw0NwBWH4oMrcCMRW1AkQuV168c1s3VcPHuyxZ-fL0TpBFNu0-K0i-_3wrQeZ_lcbbA3yKvI0O5CpNMOlSb3YrH_osaAr9tZ8OZjNB0MBP4RflIO5g==",
+      "source_type": "government",
+      "year": 2025
+    },
+    {
+      "title": "Highest Milk Producing State in India 2026 Update - Vedantu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFmIyOyCXweHaelBmj2HiBgIgO7pSn69QiDn0FMY2H1grR0o_o4CYwHRN0Uw0tEkBCHQoS5YfvvSDSeOza27Wo-mH2K8lUAvROSLj9JxfUAL0daxCHPwK2MTKB3niOEUP5-c29Qoa2slOq9b0YdxDElm9h-zbM_8A-djSNuEphBAo=",
+      "source_type": "academic",
+      "year": 2026
+    }
+  ]
+}

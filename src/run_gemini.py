@@ -1,15 +1,15 @@
 import json
 import time
 from pathlib import Path
-from researcher import research_product, extract_and_validate
+from researcher_gemini import research_product, extract_and_validate
 
 PRODUCTS = [
-    "Milk",
-#    "Rice",
-#    "T-shirt",
-#    "Notebook",
+ #   "Milk",
+    "Rice",
+ #   "T-shirt",
+ #   "Notebook",
 #    "Cricket bat",
-#    "Bicycle",
+ #   "Bicycle",
 ]
 
 OUTPUT_DIR = Path("data")
@@ -42,7 +42,7 @@ def run():
             print(f"  FAILED: {e}")
             results["failed"].append({"product": product, "error": str(e)})
 
-        time.sleep(2)
+        time.sleep(30)
 
     print(f"\nDone. {len(results['success'])} succeeded, {len(results['failed'])} failed.")
     if results["failed"]:

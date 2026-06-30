@@ -1,0 +1,368 @@
+{
+  "product": "Cricket bat",
+  "overview": {
+    "name": "Cricket Bat",
+    "category": "sport",
+    "description": "A cricket bat is a specialized piece of sporting equipment used by batsmen in the sport of cricket to hit the ball. In India, bats are primarily made from two types of willow: Kashmir willow, known for its durability and affordability, and English willow, preferred by professional players for its lightweight structure and superior performance. India is a major global hub for cricket bat manufacturing, catering to a wide range of players from beginners to professionals. [cite: 4]",
+    "origin_in_india": "The heartland of cricket bat manufacturing in India includes Meerut (Uttar Pradesh), Jalandhar (Punjab), and the Kashmir Valley (Jammu & Kashmir) for Kashmir willow production. [cite: 4, 27, 39]",
+    "key_organisations": [
+      "SS (Sareen Sports Industries)",
+      "SG (Sanspareils Greenlands)",
+      "MRF (Madras Rubber Factory)",
+      "BDM (B.D. Mahajan & Sons)",
+      "DSC (Delux Sports Company)",
+      "BAS (Beat All Sports)",
+      "Kookaburra (with Indian manufacturing facilities)",
+      "New Balance (manufactures in Jalandhar)",
+      "Ciel Sports",
+      "Elevar Bats"
+    ],
+    "historical_note": "Cricket bats were first made in India during the late 19th century, with local craftsmen in regions like Sialkot (pre-partition), Meerut, Jalandhar, and Saharanpur beginning production. The British introduced willow trees to the Kashmir Valley in the 1820s, laying the foundation for the Kashmir willow industry. [cite: 6, 27, 38, 39]"
+  },
+  "raw_materials": [
+    {
+      "name": "Kashmir Willow Wood (Salix alba caerulea)",
+      "source_region": "Anantnag, Pulwama, Baramula, Pahalgam districts in Jammu & Kashmir. [cite: 27, 39]",
+      "percentage_share": null,
+      "cost_per_unit": "Rs 650-1000 per cleft (raw, unshaped wood block). [cite: 18, 21, 24]",
+      "notes": "Denser and harder than English willow, offering durability and affordability. Takes 15-18 years to mature. [cite: 4, 10, 17, 39]"
+    },
+    {
+      "name": "English Willow Wood (Salix alba caerulea)",
+      "source_region": "Imported from specialist growers in Essex and Suffolk, UK (e.g., J.S. Wright & Sons). [cite: 10]",
+      "percentage_share": null,
+      "cost_per_unit": "Rs 1000-7500 per cleft (raw, unshaped wood block), varying by grade. [cite: 14, 19, 23]",
+      "notes": "Preferred by professional players for its lightweight structure, superior performance, and better 'ping'. [cite: 4, 13]"
+    },
+    {
+      "name": "Cane for Handle",
+      "source_region": "Primarily imported from Singapore. [cite: 10, 29]",
+      "percentage_share": null,
+      "cost_per_unit": null,
+      "notes": "Used to create the flexible handle that absorbs shock and vibration. [cite: 10]"
+    },
+    {
+      "name": "Rubber Grip",
+      "source_region": "India (e.g., Jalandhar for manufacturers). [cite: 14]",
+      "percentage_share": null,
+      "cost_per_unit": null,
+      "notes": "Provides a comfortable and secure hold for the batsman. [cite: 48]"
+    },
+    {
+      "name": "Glue/Adhesives",
+      "source_region": "India",
+      "percentage_share": null,
+      "cost_per_unit": null,
+      "notes": "Used for joining the handle to the blade and for fitting toe guards. [cite: 10]"
+    },
+    {
+      "name": "Linseed Oil",
+      "source_region": "India",
+      "percentage_share": null,
+      "cost_per_unit": null,
+      "notes": "Applied for conditioning and protecting the willow. [cite: 13]"
+    },
+    {
+      "name": "Toe Guard & Anti-Scuff Sheet",
+      "source_region": "India",
+      "percentage_share": null,
+      "cost_per_unit": null,
+      "notes": "Protective elements applied to the bat. [cite: 10]"
+    },
+    {
+      "name": "Stickers/Branding Materials",
+      "source_region": "India",
+      "percentage_share": null,
+      "cost_per_unit": null,
+      "notes": "For brand identification and aesthetics. [cite: 10]"
+    }
+  ],
+  "supply_chain": [
+    {
+      "stage": "Willow Cultivation & Harvesting",
+      "location": "Jammu & Kashmir (Anantnag, Pulwama, Baramula, Pahalgam) for Kashmir willow; Essex and Suffolk, UK for English willow. [cite: 10, 27, 39]",
+      "workers_involved": ["Farmers", "Loggers", "Arborists"],
+      "description": "Willow trees (Salix alba caerulea) are cultivated in specific conditions, requiring 15-18 years to mature. They are felled in winter when sap levels are low, then cut into rounds and split into clefts (never sawn to preserve grain integrity). [cite: 10]",
+      "key_equipment": ["Axes", "Wedges", "Chainsaws (for felling)", "Tractors/Trucks (for transport)"],
+      "cost_added_inr": "Varies significantly; raw Kashmir willow clefts cost Rs 650-1000, English willow clefts Rs 1000-7500. [cite: 14, 18, 19, 21, 23, 24]"
+    },
+    {
+      "stage": "Cleft Inspection & Grading",
+      "location": "Meerut (Uttar Pradesh), Jalandhar (Punjab), Kashmir Valley (Jammu & Kashmir). [cite: 10]",
+      "workers_involved": ["Graders", "Quality Inspectors"],
+      "description": "Raw willow clefts are inspected for grain structure, density, and blemishes. They are then graded (e.g., Grade 1, 2, 3, Player Grade) based on quality, which determines the final bat's performance and price. [cite: 10]",
+      "key_equipment": ["Measuring tapes", "Moisture meters", "Visual inspection tools"],
+      "cost_added_inr": "Rs 50-150 per cleft (estimated for labor and overhead)."
+    },
+    {
+      "stage": "Seasoning",
+      "location": "Meerut (Uttar Pradesh), Jalandhar (Punjab), Kashmir Valley (Jammu & Kashmir). [cite: 10]",
+      "workers_involved": ["Seasoning Technicians", "Laborers"],
+      "description": "Clefts undergo a drying process, either natural air drying (which can take up to a year for Kashmir willow) or controlled kiln drying, to reduce moisture content and stabilize the wood. This is crucial for bat performance and durability. [cite: 10, 29]",
+      "key_equipment": ["Drying racks", "Kiln dryers (for controlled drying)"],
+      "cost_added_inr": "Rs 100-300 per cleft (estimated for energy, space, and labor)."
+    },
+    {
+      "stage": "Hydraulic Pressing",
+      "location": "Meerut (Uttar Pradesh), Jalandhar (Punjab). [cite: 10]",
+      "workers_involved": ["Press Operators"],
+      "description": "Seasoned clefts are subjected to multiple stages of hydraulic pressing (e.g., 8 stages at Ciel Sports). This compresses the wood fibers, enhancing the bat's 'ping' (rebound) and durability. Resting periods are essential between presses. [cite: 10]",
+      "key_equipment": ["Hydraulic presses"],
+      "cost_added_inr": "Rs 200-500 per cleft (estimated for energy, equipment, and labor)."
+    },
+    {
+      "stage": "Profile Shaping & Carving",
+      "location": "Meerut (Uttar Pradesh), Jalandhar (Punjab), Kashmir Valley (Jammu & Kashmir). [cite: 10]",
+      "workers_involved": ["Bat Carvers", "Artisans", "Shapers"],
+      "description": "Skilled artisans use traditional tools like draw knives and spoke shaves, along with modern machinery, to carve the cleft into the desired bat profile, including the spine, edges, and sweet spot. Precision is paramount. [cite: 10]",
+      "key_equipment": ["Draw knives", "Spoke shaves", "Band saws", "Lathes (for initial shaping)"],
+      "cost_added_inr": "Rs 300-1000 per bat (estimated for highly skilled labor)."
+    },
+    {
+      "stage": "Handle Construction & Splicing",
+      "location": "Meerut (Uttar Pradesh), Jalandhar (Punjab), Kashmir Valley (Jammu & Kashmir). [cite: 10]",
+      "workers_involved": ["Handle Makers", "Splicers"],
+      "description": "Thin strips of cane (often imported from Singapore) are glued together to form the handle. This handle is then precisely spliced and glued into the prepared cavity in the bat blade, ensuring a strong and flexible joint. [cite: 10]",
+      "key_equipment": ["Cane cutting machines", "Gluing jigs", "Metal molds", "Presses"],
+      "cost_added_inr": "Rs 150-400 per bat (estimated for materials and labor)."
+    },
+    {
+      "stage": "Sanding & Finishing",
+      "location": "Meerut (Uttar Pradesh), Jalandhar (Punjab), Kashmir Valley (Jammu & Kashmir). [cite: 10]",
+      "workers_involved": ["Sanders", "Polishers"],
+      "description": "The bat undergoes multiple stages of sanding, both by hand and machine, to achieve a smooth, polished surface free of imperfections. This prepares the bat for oiling and branding. [cite: 10]",
+      "key_equipment": ["Belt sanders", "Orbital sanders", "Hand sanding blocks"],
+      "cost_added_inr": "Rs 100-300 per bat (estimated for labor, abrasives, and electricity)."
+    },
+    {
+      "stage": "Oiling, Toe Guard & Anti-Scuff Application",
+      "location": "Meerut (Uttar Pradesh), Jalandhar (Punjab), Kashmir Valley (Jammu & Kashmir).",
+      "workers_involved": ["Finishers"],
+      "description": "Linseed oil is applied to the bat to condition the willow. A toe guard is fitted to protect the bottom edge, and an anti-scuff sheet may be applied to the face for added protection. [cite: 10]",
+      "key_equipment": ["Brushes", "Adhesive applicators"],
+      "cost_added_inr": "Rs 50-150 per bat (estimated for materials and labor)."
+    },
+    {
+      "stage": "Branding & Grip Fitting",
+      "location": "Meerut (Uttar Pradesh), Jalandhar (Punjab), Kashmir Valley (Jammu & Kashmir). [cite: 10]",
+      "workers_involved": ["Branding Specialists", "Grip Fitters"],
+      "description": "Brand stickers and logos are applied to the bat. Finally, a rubber grip is fitted onto the handle. Each bat undergoes a final quality check before packaging. [cite: 10]",
+      "key_equipment": ["Heat presses (for stickers)", "Grip fitting tools"],
+      "cost_added_inr": "Rs 50-200 per bat (estimated for materials and labor)."
+    }
+  ],
+  "manufacturing": [
+    {
+      "step_number": 1,
+      "title": "Cleft Selection and Initial Shaping",
+      "description": "Willow clefts are chosen based on grade (grain structure, density, absence of knots) and then undergo initial rough shaping to remove excess wood and establish the basic bat outline. This often involves cutting machines to create the shoulder and toe profile. [cite: 10]",
+      "key_equipment": ["Band saws", "Circular saws", "Measuring jigs"],
+      "energy_intensity": "medium",
+      "by_products": ["Wood sawdust", "Wood offcuts"]
+    },
+    {
+      "step_number": 2,
+      "title": "Pressing",
+      "description": "The roughly shaped clefts are placed in hydraulic presses. This process compacts the willow fibers, increasing the bat's density and improving its 'ping' and durability. High-quality bats may undergo 8 or more pressing stages with resting periods in between. [cite: 10]",
+      "key_equipment": ["Hydraulic presses (operating at several tons of pressure)"],
+      "energy_intensity": "high",
+      "by_products": []
+    },
+    {
+      "step_number": 3,
+      "title": "Handle Preparation and Splicing",
+      "description": "Cane strips are glued and pressed to form the handle. A V-shaped or similar cut is made at the top of the bat blade, and a corresponding cut is made on the handle. The handle is then glued and tightly fitted into the blade, often using specialized jigs and clamps. [cite: 10]",
+      "key_equipment": ["Cane presses", "Router machines", "Gluing stations", "Clamps"],
+      "energy_intensity": "medium",
+      "by_products": ["Cane offcuts", "Adhesive waste"]
+    },
+    {
+      "step_number": 4,
+      "title": "Final Shaping and Balancing",
+      "description": "Master craftsmen meticulously hand-shape the bat using draw knives, spoke shaves, and planes. This stage refines the blade's profile, creates the desired sweet spot, and ensures optimal balance and pickup according to specific player requirements or brand specifications. [cite: 10]",
+      "key_equipment": ["Draw knives", "Spoke shaves", "Hand planes", "Balancing scales"],
+      "energy_intensity": "low",
+      "by_products": ["Wood shavings"]
+    },
+    {
+      "step_number": 5,
+      "title": "Sanding and Polishing",
+      "description": "The bat undergoes multiple rounds of sanding, starting with coarser grits and progressing to finer ones, both by machine and hand. This removes tool marks, smooths the surface, and prepares the wood for oiling and finishing. [cite: 10]",
+      "key_equipment": ["Belt sanders", "Orbital sanders", "Hand sanding blocks"],
+      "energy_intensity": "medium",
+      "by_products": ["Wood dust", "Used sandpaper"]
+    },
+    {
+      "step_number": 6,
+      "title": "Oiling, Branding, and Gripping",
+      "description": "The bat is typically oiled (often with linseed oil) to protect the wood and aid in 'knocking-in'. Brand stickers are applied, a toe guard is fitted, and a rubber grip is slid onto the handle. A final quality check ensures the bat meets all standards. [cite: 10]",
+      "key_equipment": ["Oiling stations", "Heat presses (for stickers)", "Grip applicators"],
+      "energy_intensity": "low",
+      "by_products": ["Oil residue", "Plastic/paper waste from stickers and grips"]
+    }
+  ],
+  "geography": {
+    "producing_states": [
+      "Uttar Pradesh",
+      "Punjab",
+      "Jammu & Kashmir",
+      "Haryana",
+      "Tamil Nadu"
+    ],
+    "major_clusters": [
+      "Meerut (Uttar Pradesh)",
+      "Jalandhar (Punjab)",
+      "Kashmir Valley (Jammu & Kashmir - Anantnag, Pulwama, Baramula, Pahalgam)",
+      "Saharanpur (Uttar Pradesh)",
+      "Sonipat (Haryana)"
+    ],
+    "trade_routes": [
+      "Import of English willow clefts from UK (Essex, Suffolk) to Meerut and Jalandhar. [cite: 10]",
+      "Transport of Kashmir willow from J&K to manufacturing hubs across India. [cite: 39]",
+      "Distribution of finished bats from Meerut, Jalandhar, and Kashmir to domestic retailers and international markets (e.g., UK, USA, Australia, UAE, Africa). [cite: 4, 10, 13]"
+    ]
+  },
+  "economics": {
+    "farm_gate_price_inr": "Kashmir Willow Cleft: Rs 650-1000 per piece (at manufacturing unit gate). [cite: 18, 21, 24]",
+    "retail_price_inr": "Rs 1,500 - Rs 40,000+ (depending on willow type, grade, and brand). [cite: 13, 20, 25, 31]",
+    "cost_breakdown": [
+      {
+        "stage": "Raw Material (Willow Cleft)",
+        "cost_inr": "Rs 650-7500+",
+        "percentage_of_retail": null
+      },
+      {
+        "stage": "Handle (Cane, Rubber)",
+        "cost_inr": "Rs 150-400",
+        "percentage_of_retail": null
+      },
+      {
+        "stage": "Processing & Manufacturing (Seasoning, Pressing, Shaping, Finishing)",
+        "cost_inr": "Rs 1000-5000+",
+        "percentage_of_retail": null
+      },
+      {
+        "stage": "Labor (Direct wages for artisans and factory workers)",
+        "cost_inr": "Rs 300-1000+ per bat (based on average daily wages of Rs 500-8000/month for factory workers, and higher for skilled artisans). [cite: 12, 26]",
+        "percentage_of_retail": null
+      },
+      {
+        "stage": "Branding, Marketing & Endorsements",
+        "cost_inr": "Varies significantly for premium brands",
+        "percentage_of_retail": null
+      },
+      {
+        "stage": "Logistics & Distribution",
+        "cost_inr": "Varies",
+        "percentage_of_retail": null
+      },
+      {
+        "stage": "Retailer Margin",
+        "cost_inr": "Varies (can be Rs 8,000-15,000+ for premium bats compared to factory-direct). [cite: 20, 25]",
+        "percentage_of_retail": null
+      }
+    ],
+    "gst_rate": "5%",
+    "gst_notes": "As of September 22, 2025 (GST 2.0 reforms), the GST rate on cricket bats (HSN 9506) was reduced from 12% to 5% to promote youth sports participation and make sports more affordable. [cite: 5, 7] However, some older or less updated sources may still refer to an 18% rate for HSN 95069920. [cite: 8, 17]",
+    "market_size_india": "The India Cricket Equipment market is valued at USD 700 million. [cite: 33] India's cricket bat market is valued at USD 70.00 million in 2025, accounting for 40.6% share of the Asian market. [cite: 16] India accounts for approximately 70% of the global cricket bat market volume, producing around 3 million bats annually. [cite: 32, 43]"
+  },
+  "retail_prices": [
+    {
+      "brand": "KIS",
+      "product_name": "Kashmir Willow Classic",
+      "pack_size": "Full Size (SH)",
+      "price_inr": 3800.0,
+      "retailer": "Made in Kashmir (Online)",
+      "location": "Srinagar, Jammu & Kashmir (online delivery across India)",
+      "date": "2026-06-29"
+    },
+    {
+      "brand": "SS (Sareen Sports)",
+      "product_name": "SKY Player Kashmir Willow Cricket Bat",
+      "pack_size": "Full Size (SH)",
+      "price_inr": 3850.0,
+      "retailer": "Nagrath Sports (Online)",
+      "location": "India (online delivery)",
+      "date": "2026-06-29"
+    },
+    {
+      "brand": "Ciel Sports",
+      "product_name": "Striker Grade 1 English Willow Cricket Bat",
+      "pack_size": "Full Size (SH)",
+      "price_inr": 23999.0,
+      "retailer": "Ciel Sports (Factory-direct online)",
+      "location": "Meerut, Uttar Pradesh (online delivery across India)",
+      "date": "2026-06-29"
+    },
+    {
+      "brand": "MRF",
+      "product_name": "Genius Grand Players Edition English Willow Cricket Bat",
+      "pack_size": "Full Size (SH)",
+      "price_inr": 37349.0,
+      "retailer": "TopCricketStore (Online - converted from USD)",
+      "location": "India (online delivery)",
+      "date": "2026-06-29"
+    }
+  ],
+  "sustainability": {
+    "carbon_footprint": "A cricket bat's manufacturing typically results in a carbon footprint of about 15 to 30 kg CO2e, with an average emission of roughly 22.5 kg CO2e. The main sources are wood processing and transportation. [cite: 22]",
+    "water_usage": "Willow cultivation, especially Kashmir willow, is highly dependent on moist soil near rivers and wetlands. Climate change, declining snowfall, and drying water bodies are leading to reduced groundwater levels, impacting willow plantations. [cite: 11, 15, 17]",
+    "key_concerns": [
+      "Climate change threatening Kashmir willow plantations due to drying streams and declining snowfall, making farmers reluctant to plant long-maturing trees. [cite: 11, 15, 17, 28]",
+      "Over-harvesting of willow without adequate replantation leading to raw material shortage. [cite: 17, 28]",
+      "Dependence on imported English willow for high-end bats, contributing to transportation emissions. [cite: 33]",
+      "Waste generation from wood offcuts and sawdust during manufacturing. [cite: 10]"
+    ],
+    "certifications_schemes": [
+      "No specific sustainability certifications widely adopted for cricket bats in India are explicitly mentioned in the search results. However, BIS certification is mandated for certain sports safety gear. [cite: 33]"
+    ]
+  },
+  "government_policy": {
+    "key_schemes": [
+      "Khelo India Mission (Union Budget 2026-27 allocation of ₹924.35 crore for sports development). [cite: 6, 8, 9]",
+      "Dedicated initiative for high-quality sports goods manufacturing, research, and innovation (Union Budget 2026-27 allocation of ₹500 crore). [cite: 6, 7, 8, 9]",
+      "Scheme to revive 200 industrial clusters to improve cost competitiveness and efficiency through infrastructure and technology upgradation. [cite: 6]",
+      "Production Linked Incentive (PLI) Scheme (general for manufacturing, applicable to sports goods). [cite: 5]",
+      "MSMEs Champion Scheme. [cite: 5]",
+      "Interest Subvention Scheme. [cite: 5]",
+      "Cluster Development Programme. [cite: 5]",
+      "Prime Minister Employment Generation Programme (PMEGP). [cite: 5]",
+      "Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE). [cite: 5]",
+      "Remission of Duties and Taxes on Exported Products (RoDTEP). [cite: 5]"
+    ],
+    "regulatory_body": "Bureau of Indian Standards (BIS) (mandates certification for selected sports safety gear, not specifically bats). [cite: 33]",
+    "import_export_policy": "India relies on English willow imports from the UK for high-end cricket bats, with over 200,000 English willow clefts imported in FY 2023. [cite: 33] Indian-made bats are exported globally to over 125 countries. [cite: 32]"
+  },
+  "sources": [
+    {
+      "title": "Indian Cricket Bat Industry: Growth, Process & Future - Vinox Sports",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmmTG8hGbqS7k_hBdieJFIIhycBOj7VwFlw8s0QZdN2gin1e4vsi1UxsILiorJ3bNeRn5JXLvySCZqMx9KOiL8flSgkfhIoEaU2IC38_KuUdp2o7_DGe-TIC0RWRQlv2aUjsfs64yIS8XIVrQxn60s961p46Vvdg==",
+      "source_type": "industry",
+      "year": 2026
+    },
+    {
+      "title": "Sports Item New GST Rate 2026: 5% / 18% Rate on Sports Equipment - Busy",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyct6MYcOTP0UvdjZRYC8Hj7ReNK9cMbFj5eeeHPE3B5rAeCv4G94MBifTEVHC01orOlITKxnr2xu6LZI82c2tOawpHZg3ngX-gqh9wkYki0tnoneGxijhQYCNLA==",
+      "source_type": "news",
+      "year": 2026
+    },
+    {
+      "title": "Early Cricket Bat History in India and Its Makers - Vinox Sports",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzKUwXSPxNNCoxYpqfTSdugHSlNLUCYlgT7KYEe290ieKdAZy6T1UjopSIIx6-BTojvilC9rhgZrsPpgIsy1liAqYUZcqjTbf4KLTlnoHpKTR0Yo0MJ9jr6OOPWTJ1ZhuXzn9gqlU6cjkNdEsDvWyejdE=",
+      "source_type": "industry",
+      "year": 2026
+    },
+    {
+      "title": "HSN Chapter 95: Toys, Sports Equipment, Games & Amusements - GST Rates 2026",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUkM4DCIMgD0Y2hloOTKEeukfSDonoRLbhwL2UJtMrde3ITcp3G5sEV2stt1HApffu0by45teSEETZBu36uHyYgVbEvDEJeVkLiWsfEgPL3pp9wprb1_rlp7iK7fR7Mqt_qyNhrf6TAPJ-mYC6LTKV2fi0EgI=",
+      "source_type": "news",
+      "year": 2026
+    },
+    {
+      "title": "Cricket Bat HSN Code 9506 – GST Rate & Customs Duty 2026 | EximPe",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiW1CtO7qKnMA15CABFJYi3kdk6gYApjSfOL9Aog_Y9rXNnk4Z4KOg15gclSlUzc0ejGQNF-g1uhj2idr6-ywmbQqxWahKiBGPi9IlRB6i72w3Xbqt3WwNXHijQ-NdLP_Uns6BF_o=",
+      "source_type": "industry",
+      "year": 2026
+    }
+  ]
+}

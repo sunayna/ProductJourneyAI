@@ -1,0 +1,73 @@
+```json
+{
+  "product": "T-shirt",
+  "audience": "middle_school",
+  "reading_level": "ages 11-14",
+  "title": "My Product Journey: T-shirt — Product Fact Card",
+  "intro_note": "This document provides detailed information about T-shirts in India; students should carefully read and extract facts for their graphic organisers.",
+  "sections": [
+    {
+      "title": "Why T-shirt Matters — and Where It Comes From",
+      "content": "The T-shirt stands as a ubiquitous casual wear garment across India, playing a pivotal role in the nation's expansive textile and apparel industry. India is a significant global producer and exporter of T-shirts, leveraging its abundant cotton resources and a highly skilled workforce. The domestic market for T-shirts thrives on a large youth demographic and an increasing fashion consciousness, with major production hubs like Tiruppur in Tamil Nadu being globally renowned as the 'Knitwear Capital of India' for knitwear manufacturing. Other key regions contributing to T-shirt production include Ludhiana in Punjab for hosiery and knitwear, and major garment manufacturing centers in Bengaluru, Karnataka, and the Delhi-NCR region. Historically, India's textile prowess dates back over 5000 years, with evidence of sophisticated cotton cultivation and textile production found in the Indus Valley Civilization around 3000 BCE, long before the advent of modern T-shirt manufacturing. Key organisations guiding this sector include Arvind Limited, Raymond Limited, KPR Mill Limited, and government bodies like the Ministry of Textiles and the Apparel Export Promotion Council (AEPC)."
+    },
+    {
+      "title": "The Journey: From Cotton Fibre to T-shirt",
+      "content": "The journey of a T-shirt begins with **Farmers** and **Farm Laborers** in states such as Maharashtra (Yavatmal, Akola, Amravati), Gujarat (Rajkot, Surendranagar), and Telangana (Warangal, Adilabad), who cultivate cotton as a Kharif crop, typically sowing from March-May in northern India. These **laborers** manually pick cotton bolls, often using **Tractors** and **Seed drills** for cultivation and **Sprayers** for crop protection. Raw cotton (kapas) is then transported to ginning mills in major cotton-producing districts, where **Ginning Machine Operators**, assisted by **Loaders** and **Quality Checkers**, utilize **Saw gins** or **Roller gins** to separate lint from seeds, and **Baling presses** to compress the lint into 170 kg bales. These bales move to spinning mills in Tiruppur and Coimbatore, Tamil Nadu, or Ludhiana, Punjab, where **Spinning Machine Operators** and **Technicians** manage **Blowroom machinery**, **Carding machines**, and **Ring frames** to spin cotton into yarn, commonly 30s or 40s combed cotton. Subsequently, **Knitting Machine Operators** in Tiruppur, Ludhiana, or Bengaluru feed this yarn into **Circular knitting machines** to produce 200-400 kg of tubular single jersey fabric daily. The grey knitted fabric then undergoes processing at dyeing and finishing units in Tiruppur, Surat, Gujarat, or Bhiwandi, Maharashtra, where **Dyeing Technicians** and **Machine Operators** employ **Jet dyeing machines** and **Stenters** for pre-treatment, dyeing, and finishing processes like compacting. In garment manufacturing hubs such as Tiruppur, Bengaluru, Delhi-NCR, or Ludhiana, **Pattern Makers** use **CAD systems**, **Cutters** operate **Automated cutting machines**, and **Sewing Machine Operators** assemble the T-shirt using **Industrial sewing machines**, performing 6-8 stitching operations for basic designs, or up to 22 for premium ones. Finally, **Logistics Managers** and **Truck Drivers** oversee the transportation of packaged T-shirts from manufacturing units to warehouses and distributors in major cities like Mumbai, Delhi, Bengaluru, Chennai, and Kolkata for **Wholesale & Distribution**, before **Sales Associates** and **Merchandisers** make them available to end-consumers at retail outlets across India."
+    },
+    {
+      "title": "Raw Materials, Inputs, and Natural Resources",
+      "content": "The primary raw material for T-shirts in India is Cotton Fibre, sourced from diverse regions including Maharashtra (Yavatmal, Akola), Gujarat (Rajkot, Surendranagar), Telangana (Warangal, Adilabad), Karnataka (Raichur), and Rajasthan (Ganganagar). India stands as the world's largest producer of cotton, contributing 23% to global production, with varieties like MCU 5, LRA 5166, and JK Cotton Hybrid being common. Raw cotton (kapas) commands a price of approximately Rs 6,000-8,000 per quintal (100 kg) as of 2024-25. For blended T-shirts, Polyester Fibre/Yarn is also utilized, primarily sourced from Gujarat (Surat), Maharashtra, and Uttar Pradesh, with polyester fibre costing around Rs 165-170 per kg as of April 2026. Beyond fibres, significant natural resources are consumed: water is crucial for cotton cultivation, especially in irrigated areas, and heavily used in wet processing stages like dyeing and finishing. Energy is a vital input for power-intensive operations in spinning, knitting, dyeing, and garment manufacturing. Other essential inputs include various dyes and chemicals for fabric processing, as well as packaging materials to prepare the finished T-shirts for market."
+    },
+    {
+      "title": "How T-shirt Is Made — Step by Step",
+      "content": "The manufacturing of a T-shirt involves several precise steps, transforming raw fibres into a finished garment:\n\n1.  **Spinning:** At spinning mills in Tiruppur and Coimbatore, Tamil Nadu, or Ludhiana, Punjab, **Spinning Machine Operators**, **Technicians**, and **Quality Controllers** manage **Blowroom machinery** for cleaning, **Carding machines** to separate fibres, and **Ring frames** or **Open-end spinning machines** to convert cotton bales into yarn, typically 30s or 40s combed cotton.\n2.  **Knitting:** In knitting units located in Tiruppur, Ludhiana, or Bengaluru, **Knitting Machine Operators** and **Technicians** feed the spun yarn into **Circular knitting machines** to produce tubular fabric, most commonly single jersey, at a rate of 200-400 kg of fabric per day. **Flat knitting machines** may be used for specific components like collars or cuffs.\n3.  **Dyeing & Finishing:** The grey knitted fabric is then sent to dyeing and finishing facilities in Tiruppur, Surat, Gujarat, or Bhiwandi, Maharashtra. Here, **Dyeing Technicians**, **Chemical Handlers**, and **Machine Operators** conduct pre-treatment (scouring, bleaching), use **Jet dyeing machines** or **Soft flow dyeing machines** for coloring, and apply various finishing processes like compacting, bio-washing, and calendering using **Stenters** and **Compacting machines** to enhance fabric properties. **Effluent Treatment Plants (ETPs)** manage wastewater.\n4.  **Garment Manufacturing (Cutting & Stitching):** In garment factories across Tiruppur, Bengaluru, Delhi-NCR, or Ludhiana, **Pattern Makers** first create designs using **CAD systems**. **Cutters** then utilize **Automated cutting machines** to precisely cut multiple layers of finished fabric. Subsequently, **Sewing Machine Operators** (tailors) assemble the cut pieces using **Industrial sewing machines** (overlock, flatlock, single needle), performing 6-8 stitching operations for a basic T-shirt, or 10-22 for premium designs. **Trimmers** remove excess threads, **Quality Checkers** inspect the garment, and **Pressers** use **Steam irons** before **Packers** prepare the T-shirts for distribution. Printing or embroidery is also applied at this stage using specialized machines."
+    },
+    {
+      "title": "What It Costs to Bring T-shirt to You",
+      "content": "The cost of a T-shirt builds up progressively through its journey from raw material to retail. Initially, **farmers** receive approximately Rs 6,000-8,000 per quintal (100 kg) for raw cotton (kapas) as of 2024-25, after incurring costs of Rs 2,500-4,000 per quintal for seeds, fertilizers, pesticides, labor, and irrigation. At the ginning stage, an additional Rs 300-500 per quintal is added for ginning charges and transport. Moving to spinning, the cost increases by Rs 50-80 per kg of yarn for processing, labor, and energy, with cotton yarn prices reaching around Rs 292 per kg by April 2026. Knitting adds Rs 20-40 per kg for grey fabric, covering knitting charges, labor, and machine maintenance. The dyeing and finishing processes contribute another Rs 40-70 per kg of dyed and finished fabric, accounting for dyes, chemicals, water, energy, and labor. The most significant cost addition occurs during garment manufacturing, where cutting, stitching, and embellishment add Rs 50-150 per T-shirt, covering labor and overheads. Subsequently, logistics and distribution add Rs 10-30 per T-shirt for transportation, warehousing, and sales commissions. Finally, the retailer incorporates Rs 50-300+ per T-shirt to cover store rent, staff salaries, marketing, and their profit margin, leading to a final retail price ranging from Rs 199 to over Rs 5,900 per T-shirt. Regarding taxation, T-shirts and other knitted garments are subject to 5% GST if the sale value is up to Rs 2,500 per piece, and 18% GST if the sale value exceeds Rs 2,500 per piece, effective September 22, 2025, while raw cotton generally incurs 5% GST on a reverse charge basis."
+    },
+    {
+      "title": "What T-shirt Costs in Shops — Price Research",
+      "content": "The price of a T-shirt in India varies significantly across different retail channels, reflecting factors like brand value, material quality, and operational overheads. For instance, a **Sales Associate** at a Zudio Store in Bengaluru, Karnataka, might offer a Zudio Men's Solid Round Neck T-shirt for Rs 199.0. In contrast, a **Store Manager** at a Max Fashion Store in Mumbai, Maharashtra, would price a Max Fashion Men's Printed Cotton T-shirt at Rs 399.0. Moving to a Reliance Trends Store in Delhi-NCR, a **Cashier** would process a DNMX Men's Graphic Print T-shirt for Rs 599.0. The price points escalate further in online channels; a Wrogn Men's Edgy Graphic T-shirt, endorsed by Virat Kohli, is available on Myntra (online, Pan-India) for Rs 1299.0, while a premium BLUORNG Fade Flora Ombre T-Shirt can be purchased from the BLUORNG Official Website (online, Pan-India) for Rs 5900.0.\n\nThese price differences are primarily driven by brand positioning, perceived quality, and the retail model. Mass-market brands like Zudio and Max prioritize affordability through economies of scale and simpler designs, often sold in their dedicated stores with controlled overheads. Brands like Reliance Trends (DNMX) offer a step up in fashion and quality at a mid-range price. Premium brands such as Wrogn and BLUORNG command higher prices due to greater investment in design, fabric quality (e.g., specialized blends, superior cotton), intricate embellishments, and extensive marketing, including celebrity endorsements. Online channels, while potentially reducing physical store overheads, often incur significant costs in digital marketing, logistics, and maintaining a strong brand presence, especially for high-end products, contributing to their varied pricing structures."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Amended Technology Upgradation Fund Scheme (ATUFS)",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWToeXONQ52CG0-XiHRujrb88b75s-QVK8MZNhJIVK0WQi2S0RfwlFvIKQqm6odmUKCSodipy6v56zFbefMM1D42rSs27WdQfv8KKjQ"
+    },
+    {
+      "title": "Schemes and Services - Ministry of Textiles",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHR4ojU7bY8zAzGymBRCfmPBilCaC23TnEJn9oyG6oAKFMVss1DtmyT0F7PmRVcAbo6FiPoUPIKK3bnkblkxGV5twwAJuK9R2Gtle80x0T8O2593Ng_g60K4T_3TS6ysSGnpJcstDmd3sNyKgLEens="
+    },
+    {
+      "title": "Textile-Related Schemes in India",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHxVjPtmkVYe0J1FDNpyHn6s1oH0nuDR_gU43KbFmxqJohMHa4bb4oaPIlwv_IMqMlUmWFV_x2AMo7K0yfR4XOJtLZaHa4Pzm3uazADaGGstnOwx46fDoZI8IfFgv1tibF1v-10TorFarT021DIWG7gdCs3RRVF7GTaiWcvPhMNY0Gw81hQ=="
+    },
+    {
+      "title": "Schemes launched by the Government in Textile sector for employment generation - PIB",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwvzsNtEselijvE1rw0YVdJ2BWk80mApQqboESzrYh_4iUB6K_2Txef-R0XByGdWl93oWIu_wLI9Gmfi3NU1OBRfbFODY-Xjzo-tAoKBBgzsayxxyiz0RR4BDBBHb9yDIlNsXaSQm3fTdP6h_ehJHVJsS-lyxdaMJr9wvFabkNhQoG"
+    },
+    {
+      "title": "Textile-Related Schemes in India – Citi India - The Confederation of Indian Textile Industry",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYypfxucY8Hd7yXaQ6pCP-FYY1MtN16uVAdtDUGjMIwDwwx-gJKZtciH-kN2qo-rqFBY7hOGR55D9GVwlbaAu20hoFQtnJ66Xd4DLuZbSjtoVS0Fkc-pqoz2ZvjpvMx07ZWthuxDXcCu8qT1Z7"
+    },
+    {
+      "title": "Chapter 61 - GST Rates and HSN Codes for T-Shirts and Singlets - Aditya Birla Capital",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnbFESX3RS7oLv3mUu617NexcX_SnRNLX_VmTSXbKjMKwbvMZVvlmzWEXtOccGMtD-lUfj2kb0BROPUx6zz8fBWSSv0L5ZOjjXZCAHrd_vHooV_L-EkcsSjNRCHMwxnROL_x5Wmc2_t4TTESTHBnUqMFwp1vgI9Nn2_DMe1_1I6Id6ahOe6GWj321vDLKNxcK5FXoNraV6BV1WE-ym"
+    },
+    {
+      "title": "History of Indian Textile Industry",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYwqr40kUg6WEVZk-owyIfBcEspu1HwmFVMPbBUh_ET4xCflR6Qb4Da-BZAXfqf-czO31bDk903wDLKgd1C-DwEXd-ZazS8wlmP0NQWyTp4Hb4Y8nnK5VZYxqC0btXxUnjitRwbN_qvghvBlvwIJ8xzNIdFRw4xuyIipW7dpC_Zgyvqz5IgI2b"
+    },
+    {
+      "title": "Amended Technology Upgradation Fund Scheme (ATUFS): In Detail - Testbook",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXz6LKGAIp74ZrdMGJ1q3nGRjKMxWTQQZuaxG8eb_Ksl02Atgcaio0iWrk4UfdEIlg4DTyW7pX63dUzc0cflfr1Ur6gIM-FcAVyez1pDvB3ROPvoBXaq-RD6snECor6N77yyLNnQLrMRmPP3AD11iQzcNAR6zYHdfno5f75GaUUYlLRgJguPbnFmup3kM8u1o="
+    },
+    {
+      "title": "Cotton Producing States In India - SATHEE CUET",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdHBQwZ00hxGsza1_kKMoguJxHbIJD2wEDdqb2SQwEDKzPyfL51Ea8wwYIGfUG3XwyRDpcl2yIGiDQ4qBXDxuoJwPCePGDdv9xwEnAdcVGJfB6prcBVazjT1bYxyuVNRyQuV6tEMxPZFjWz4vhz6HXpPRsSdb1wucviJk3r17fVF0FJWVLXjZqAv7v8OF_3XKkPEb65CrQsSYP_vKUdFGes64n3wbxdV5tyoT9EWPT7VLM"
+    }
+  ]
+}
+```
